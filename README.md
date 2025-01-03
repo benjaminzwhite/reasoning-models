@@ -2,7 +2,7 @@
 
 Experiments with reasoning models, training techniques, papers
 
-## Topics
+## TODOs
 
 TODO: organize and link correctly
 
@@ -13,16 +13,24 @@ TODO: organize and link correctly
 
 ## Papers
 
+#### Topic - General or unsorted
+
 - [Technical Report: Enhancing LLM Reasoning with Reward-guided Tree Search](https://arxiv.org/abs/2411.11694)
 - [Efficiently Serving LLM Reasoning Programs with Certaindex](https://arxiv.org/abs/2412.20993)
 - [Compressed Chain of Thought: Efficient Reasoning Through Dense Representations](https://arxiv.org/abs/2412.13171)
 - [Improving Retrieval Augmented Language Model with Self-Reasoning](https://arxiv.org/abs/2407.19813)
 - [Synergy-of-Thoughts: Eliciting Efficient Reasoning in Hybrid Language Models](https://arxiv.org/abs/2402.02563)
+- [Disentangling Reasoning Tokens and Boilerplate Tokens For Language Model Fine-tuning](https://arxiv.org/abs/2412.14780)
+
+#### Topic - Evaluation of reasoning
+
+- [Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147)
 
 ## Benchmarks
 
 - [The CLRS-Text Algorithmic Reasoning Language Benchmark](https://arxiv.org/abs/2406.04229v1)
 - [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)
+- [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2407.12883)
 
 ## Repos
 
