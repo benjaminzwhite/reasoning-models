@@ -20,6 +20,7 @@ TODO: organize and link correctly
 - [Improving Retrieval Augmented Language Model with Self-Reasoning](https://arxiv.org/abs/2407.19813)
 - [Synergy-of-Thoughts: Eliciting Efficient Reasoning in Hybrid Language Models](https://arxiv.org/abs/2402.02563)
 - [Disentangling Reasoning Tokens and Boilerplate Tokens For Language Model Fine-tuning](https://arxiv.org/abs/2412.14780)
+- [Advancing LLM Reasoning Generalists with Preference Trees](https://arxiv.org/abs/2404.02078v1)
 
 #### Topic - Efficiency, Implementation Tricks etc.
 
@@ -39,6 +40,7 @@ TODO: organize and link correctly
 - [LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)
 - [BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2407.12883)
 - [NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes](https://arxiv.org/abs/2312.14890)
+- [LogicBench: Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models](https://arxiv.org/abs/2404.15522v2)
 
 ## Repos
 
