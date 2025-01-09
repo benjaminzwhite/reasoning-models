@@ -23,6 +23,7 @@ TODO: organize and link correctly
 - [Advancing LLM Reasoning Generalists with Preference Trees](https://arxiv.org/abs/2404.02078v1)
 - [Test-time Computing: from System-1 Thinking to System-2 Thinking](https://arxiv.org/abs/2501.02497)
 - [Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective](https://arxiv.org/abs/2412.14135)
+- [BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning](https://arxiv.org/abs/2501.03226)
 
 #### Topic - Efficiency, Implementation Tricks etc.
 
@@ -35,6 +36,10 @@ TODO: organize and link correctly
 #### Topic - Evaluation of reasoning
 
 - [Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147)
+
+#### Topic - Adjacent subjects, maybe related
+
+- [Answer Set Networks: Casting Answer Set Programming into Deep Learning](https://arxiv.org/abs/2412.14814)
 
 ## Benchmarks
 
