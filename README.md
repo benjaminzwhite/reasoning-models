@@ -37,6 +37,10 @@ TODO: organize and link correctly
 
 - [Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147)
 
+#### Topic - Mathematics
+
+- [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/abs/2501.04519)
+
 #### Topic - Adjacent subjects, maybe related
 
 - [Answer Set Networks: Casting Answer Set Programming into Deep Learning](https://arxiv.org/abs/2412.14814)
