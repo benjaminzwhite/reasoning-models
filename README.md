@@ -24,6 +24,8 @@ TODO: organize and link correctly
 - [Test-time Computing: from System-1 Thinking to System-2 Thinking](https://arxiv.org/abs/2501.02497)
 - [Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective](https://arxiv.org/abs/2412.14135)
 - [BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning](https://arxiv.org/abs/2501.03226)
+- [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
+- [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366)
 
 #### Topic - Efficiency, Implementation Tricks etc.
 
