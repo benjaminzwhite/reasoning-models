@@ -10,6 +10,7 @@ TODO: organize and link correctly
 - reasoning tokens stuff
 - Coconut META AI December 2024
 - tools: pyvene and other model-internals-explorers
+- reinforcement learning as applied to reasoning models
 
 ## Papers
 
@@ -27,6 +28,7 @@ TODO: organize and link correctly
 - [Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 - [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366)
 - [CoT-based Synthesizer: Enhancing LLM Performance through Answer Synthesis](https://arxiv.org/abs/2501.01668)
+- [REL: Working out is all you need](https://arxiv.org/abs/2412.04645)
 
 #### Topic - Efficiency, Implementation Tricks etc.
 
