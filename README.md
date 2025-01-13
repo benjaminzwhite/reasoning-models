@@ -29,6 +29,8 @@ TODO: organize and link correctly
 - [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366)
 - [CoT-based Synthesizer: Enhancing LLM Performance through Answer Synthesis](https://arxiv.org/abs/2501.01668)
 - [REL: Working out is all you need](https://arxiv.org/abs/2412.04645)
+- [Unconstrained Model Merging for Enhanced LLM Reasoning](https://arxiv.org/abs/2410.13699)
+- [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928)
 
 #### Topic - Efficiency, Implementation Tricks etc.
 
