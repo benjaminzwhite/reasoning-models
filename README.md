@@ -31,6 +31,7 @@ TODO: organize and link correctly
 - [REL: Working out is all you need](https://arxiv.org/abs/2412.04645)
 - [Unconstrained Model Merging for Enhanced LLM Reasoning](https://arxiv.org/abs/2410.13699)
 - [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928)
+- [Reverse Thinking Makes LLMs Stronger Reasoners](https://arxiv.org/abs/2411.19865)
 
 #### Topic - Efficiency, Implementation Tricks etc.
 
