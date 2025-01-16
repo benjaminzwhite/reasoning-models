@@ -33,9 +33,15 @@ TODO: organize and link correctly
 - [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928)
 - [Reverse Thinking Makes LLMs Stronger Reasoners](https://arxiv.org/abs/2411.19865)
 
+#### Topic - X of Thoughts variants
+
+- [Path-of-Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models](https://arxiv.org/abs/2412.17963)
+- [Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning](https://arxiv.org/abs/2412.09078)
+
 #### Topic - Efficiency, Implementation Tricks etc.
 
 - [Efficiently Serving LLM Reasoning Programs with Certaindex](https://arxiv.org/abs/2412.20993)
+- [Path-Consistency: Prefix Enhancement for Efficient Inference in LLM](https://arxiv.org/abs/2409.01281)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
@@ -72,3 +78,4 @@ TODO: organize and link correctly
 #### Collections
 
 - [Linked from paper https://arxiv.org/abs/2501.02497 - This repository contains the resources for Test-time Computing: from System-1 Thinking to System-2 Thinking](https://github.com/Dereck0602/Awesome_Test_Time_LLMs)
+- [Curated collection of papers and resources on how to unlock the reasoning ability of LLMs and MLLMs.](https://github.com/atfortes/Awesome-LLM-Reasoning)
