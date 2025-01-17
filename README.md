@@ -33,6 +33,7 @@ TODO: organize and link correctly
 - [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/abs/2412.01928)
 - [Reverse Thinking Makes LLMs Stronger Reasoners](https://arxiv.org/abs/2411.19865)
 - [Proof of Thought : Neurosymbolic Program Synthesis allows Robust and Interpretable Reasoning](https://arxiv.org/abs/2409.17270)
+- [ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning](https://arxiv.org/abs/2501.06590)
 
 #### Topic - X of Thoughts variants
 
