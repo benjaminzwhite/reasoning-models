@@ -35,6 +35,10 @@ TODO: organize and link correctly
 - [Proof of Thought : Neurosymbolic Program Synthesis allows Robust and Interpretable Reasoning](https://arxiv.org/abs/2409.17270)
 - [ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning](https://arxiv.org/abs/2501.06590)
 
+#### Topic - Surveys and reviews
+
+- [Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models](https://arxiv.org/abs/2501.09686)
+
 #### Topic - X of Thoughts variants
 
 - [Path-of-Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models](https://arxiv.org/abs/2412.17963)
