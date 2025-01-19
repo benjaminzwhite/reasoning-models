@@ -39,6 +39,7 @@ TODO: organize and link correctly
 #### Topic - Surveys and reviews
 
 - [Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models](https://arxiv.org/abs/2501.09686)
+- [Reinforcement Learning Enhanced LLMs: A Survey](https://arxiv.org/abs/2412.10400)
 
 #### Topic - X of Thoughts variants
 
@@ -62,6 +63,7 @@ TODO: organize and link correctly
 
 - [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/abs/2501.04519)
 - [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301)
+- [AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling](https://arxiv.org/abs/2412.15084)
 
 #### Topic - Adjacent subjects, maybe related
 
