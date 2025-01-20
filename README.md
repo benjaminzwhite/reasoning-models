@@ -68,6 +68,7 @@ TODO: organize and link correctly
 #### Topic - Adjacent subjects, maybe related
 
 - [Answer Set Networks: Casting Answer Set Programming into Deep Learning](https://arxiv.org/abs/2412.14814)
+- [UQE: A Query Engine for Unstructured Databases](https://arxiv.org/abs/2407.09522)
 
 ## Benchmarks
 
