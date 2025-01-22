@@ -36,6 +36,7 @@ TODO: organize and link correctly
 - [ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning](https://arxiv.org/abs/2501.06590)
 - [Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus](https://arxiv.org/abs/2411.12498)
 - [Evolving Deeper LLM Thinking](https://arxiv.org/abs/2501.09891)
+- [Reasoning Language Models: A Blueprint](https://arxiv.org/abs/2501.11223)
 
 #### Topic - Surveys and reviews
 
