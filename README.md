@@ -37,6 +37,10 @@ TODO: organize and link correctly
 - [Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus](https://arxiv.org/abs/2411.12498)
 - [Evolving Deeper LLM Thinking](https://arxiv.org/abs/2501.09891)
 - [Reasoning Language Models: A Blueprint](https://arxiv.org/abs/2501.11223)
+- [The Surprising Effectiveness of Test-Time Training for Abstract Reasoning](https://arxiv.org/abs/2411.07279)
+- [Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs](https://arxiv.org/abs/2410.18451)
+- [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/abs/2408.15240)
+- [Generative Reward Models](https://arxiv.org/abs/2410.12832)
 
 #### Topic - Surveys and reviews
 
