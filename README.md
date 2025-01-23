@@ -41,6 +41,7 @@ TODO: organize and link correctly
 - [Skywork-Reward: Bag of Tricks for Reward Modeling in LLMs](https://arxiv.org/abs/2410.18451)
 - [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/abs/2408.15240)
 - [Generative Reward Models](https://arxiv.org/abs/2410.12832)
+- [Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/abs/2501.11651)
 
 #### Topic - Surveys and reviews
 
