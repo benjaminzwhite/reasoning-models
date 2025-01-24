@@ -95,6 +95,7 @@ TODO: organize and link correctly
 - [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://github.com/AIDC-AI/Marco-o1)
 - [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl)
 - [Recipes to scale inference-time compute of open models](https://github.com/huggingface/search-and-learn)
+- [Facebook Research COCONUT paper - Training Large Language Model to Reason in a Continuous Latent Space](https://github.com/facebookresearch/coconut)
 
 #### Collections
 
