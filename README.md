@@ -91,6 +91,7 @@ TODO: organize and link correctly
 
 ## Repos
 
+- [**HuggingFace Open R1 - A fully open reproduction of DeepSeek-R1**](https://github.com/huggingface/open-r1)
 - [LLaMA-O1: Open Large Reasoning Model Frameworks For Training, Inference and Evaluation With PyTorch and HuggingFace](https://github.com/SimpleBerry/LLaMA-O1/)
 - [Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions](https://github.com/AIDC-AI/Marco-o1)
 - [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl)
