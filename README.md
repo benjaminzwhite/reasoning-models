@@ -43,6 +43,7 @@ TODO: organize and link correctly
 - [Generative Reward Models](https://arxiv.org/abs/2410.12832)
 - [Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/abs/2501.11651)
 - [Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback](https://arxiv.org/abs/2501.10799)
+- [Table as Thought: Exploring Structured Thoughts in LLM Reasoning](https://arxiv.org/abs/2501.02152)
 
 #### Topic - Surveys and reviews
 
