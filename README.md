@@ -99,6 +99,7 @@ TODO: organize and link correctly
 - [veRL: Volcano Engine Reinforcement Learning for LLM](https://github.com/volcengine/verl)
 - [Recipes to scale inference-time compute of open models](https://github.com/huggingface/search-and-learn)
 - [Facebook Research COCONUT paper - Training Large Language Model to Reason in a Continuous Latent Space](https://github.com/facebookresearch/coconut)
+- [Simple Reinforcement Learning for Reasoning - replication DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data](https://github.com/hkust-nlp/simpleRL-reason)
 
 #### Collections
 
