@@ -74,6 +74,7 @@ TODO: organize and link correctly
 - [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301)
 - [AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling](https://arxiv.org/abs/2412.15084)
 - [LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning](https://arxiv.org/abs/2410.02884)
+- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) - see also the [Yannic Kilcher paper review](https://www.youtube.com/watch?v=bAWV_yrqx4w) 
 
 #### Topic - Specialized reasoning areas (medical, legal, etc.)
 
