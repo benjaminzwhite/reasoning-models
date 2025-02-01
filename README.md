@@ -4,13 +4,7 @@ Experiments with reasoning models, training techniques, papers
 
 ## TODOs
 
-TODO: organize and link correctly
-
-- o1 replication efforts (check stuff that is just distillation from o1 itself vs training)
-- reasoning tokens stuff
-- Coconut META AI December 2024
-- tools: pyvene and other model-internals-explorers
-- reinforcement learning as applied to reasoning models
+- build tag system e.g. Policies {DPO, GRPO, ...} with a view to building reading list
 
 ## Papers
 
@@ -44,6 +38,7 @@ TODO: organize and link correctly
 - [Step-KTO: Optimizing Mathematical Reasoning through Stepwise Binary Feedback](https://arxiv.org/abs/2501.10799)
 - [Table as Thought: Exploring Structured Thoughts in LLM Reasoning](https://arxiv.org/abs/2501.02152)
 - [B-STaR: Monitoring and Balancing Exploration and Exploitation in Self-Taught Reasoners](https://arxiv.org/abs/2412.17256)
+- [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/abs/2501.18585)
 
 #### Topic - Surveys and reviews
 
@@ -96,6 +91,11 @@ TODO: organize and link correctly
 - [PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/abs/2501.03124)
 - [ProcessBench: Identifying Process Errors in Mathematical Reasoning](https://arxiv.org/abs/2412.06559)
 - [ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark](https://arxiv.org/abs/2501.01290)
+
+## Blogs and articles
+
+- [HKUST - Simple Reinforcement Learning for Reasoning](https://hkust-nlp.notion.site/simplerl-reason)
+- [OpenAI - Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
 
 ## Repos
 
