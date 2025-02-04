@@ -2,11 +2,17 @@
 
 Experiments with reasoning models, training techniques, papers
 
-## TODOs
+### TODO
 
-- build tag system e.g. Policies {DPO, GRPO, ...} with a view to building reading list
+- build tag system e.g. Policies {DPO, GRPO, ...} with a view to building reading list, integrate with Zotero/Obsidian
+
+---
 
 ## Papers
+
+### Priority
+
+- [**s1: Simple test-time scaling**](https://arxiv.org/abs/2501.19393)
 
 #### Topic - General or unsorted
 
