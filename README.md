@@ -49,6 +49,8 @@ Experiments with reasoning models, training techniques, papers
 - [Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](https://arxiv.org/abs/2502.02508)
 - [QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search](https://arxiv.org/abs/2502.02584)
 - [LongDPO: Unlock Better Long-form Generation Abilities for LLMs via Critique-augmented Stepwise Information](https://arxiv.org/abs/2502.02095)
+- [LLM+AL: Bridging Large Language Models and Action Languages for Complex Reasoning about Actions](https://arxiv.org/abs/2501.00830)
+- [Sample, Scrutinize and Scale: Effective Inference-Time Search by Scaling Verification](https://arxiv.org/abs/2502.01839)
 
 #### Topic - Surveys and reviews
 
