@@ -51,6 +51,7 @@ Experiments with reasoning models, training techniques, papers
 - [LongDPO: Unlock Better Long-form Generation Abilities for LLMs via Critique-augmented Stepwise Information](https://arxiv.org/abs/2502.02095)
 - [LLM+AL: Bridging Large Language Models and Action Languages for Complex Reasoning about Actions](https://arxiv.org/abs/2501.00830)
 - [Sample, Scrutinize and Scale: Effective Inference-Time Search by Scaling Verification](https://arxiv.org/abs/2502.01839)
+- [ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning](https://arxiv.org/abs/2502.01100)
 
 #### Topic - Surveys and reviews
 
