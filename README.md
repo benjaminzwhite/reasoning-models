@@ -5,6 +5,7 @@ Experiments with reasoning models, training techniques, papers
 ### TODO
 
 - build tag system e.g. Policies {DPO, GRPO, ...} with a view to building reading list, integrate with Zotero/Obsidian
+- create a tag for "reasoning + interaction with a symbolic system/DSL/program synthesis" type papers
 
 ---
 
@@ -52,6 +53,8 @@ Experiments with reasoning models, training techniques, papers
 - [LLM+AL: Bridging Large Language Models and Action Languages for Complex Reasoning about Actions](https://arxiv.org/abs/2501.00830)
 - [Sample, Scrutinize and Scale: Effective Inference-Time Search by Scaling Verification](https://arxiv.org/abs/2502.01839)
 - [ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning](https://arxiv.org/abs/2502.01100)
+- [Process Reinforcement through Implicit Rewards](https://arxiv.org/abs/2502.01456) - see also their [HuggingFace blog](https://huggingface.co/blog/ganqu/prime)
+- [Towards Learning to Reason: Comparing LLMs with Neuro-Symbolic on Arithmetic Relations in Abstract Reasoning](https://arxiv.org/abs/2412.05586)
 
 #### Topic - Surveys and reviews
 
@@ -63,10 +66,11 @@ Experiments with reasoning models, training techniques, papers
 - [Path-of-Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models](https://arxiv.org/abs/2412.17963)
 - [Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning](https://arxiv.org/abs/2412.09078)
 
-#### Topic - Efficiency, Implementation Tricks etc.
+#### Topic - Efficiency, Decoding Strategies, Implementation Tricks etc.
 
 - [Efficiently Serving LLM Reasoning Programs with Certaindex](https://arxiv.org/abs/2412.20993)
 - [Path-Consistency: Prefix Enhancement for Efficient Inference in LLM](https://arxiv.org/abs/2409.01281)
+- [Reward-Guided Speculative Decoding for Efficient LLM Reasoning](https://arxiv.org/abs/2501.19324)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
@@ -75,6 +79,7 @@ Experiments with reasoning models, training techniques, papers
 #### Topic - Evaluation of reasoning
 
 - [Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147)
+- [The Jumping Reasoning Curve? Tracking the Evolution of Reasoning Performance in GPT-\[n\] and o-\[n\] Models on Multimodal Puzzles](https://arxiv.org/abs/2502.01081)
 
 #### Topic - Mathematics
 
@@ -108,6 +113,8 @@ Experiments with reasoning models, training techniques, papers
 - [PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/abs/2501.03124)
 - [ProcessBench: Identifying Process Errors in Mathematical Reasoning](https://arxiv.org/abs/2412.06559)
 - [ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark](https://arxiv.org/abs/2501.01290)
+- [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584)
+- [HARP: A challenging human-annotated math reasoning benchmark](https://arxiv.org/abs/2412.08819)
 
 ## Blogs and articles
 
