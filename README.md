@@ -55,6 +55,7 @@ Experiments with reasoning models, training techniques, papers
 - [ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning](https://arxiv.org/abs/2502.01100)
 - [Process Reinforcement through Implicit Rewards](https://arxiv.org/abs/2502.01456) - see also their [HuggingFace blog](https://huggingface.co/blog/ganqu/prime)
 - [Towards Learning to Reason: Comparing LLMs with Neuro-Symbolic on Arithmetic Relations in Abstract Reasoning](https://arxiv.org/abs/2412.05586)
+- [BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation](https://arxiv.org/abs/2502.03860)
 
 #### Topic - Surveys and reviews
 
