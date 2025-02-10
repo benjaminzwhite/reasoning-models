@@ -104,6 +104,8 @@ Experiments with reasoning models, training techniques, papers
 
 - [Answer Set Networks: Casting Answer Set Programming into Deep Learning](https://arxiv.org/abs/2412.14814)
 - [UQE: A Query Engine for Unstructured Databases](https://arxiv.org/abs/2407.09522)
+- [LTNtorch: PyTorch Implementation of Logic Tensor Networks](https://arxiv.org/abs/2409.16045)
+- [SymBa: Symbolic Backward Chaining for Structured Natural Language Reasoning](https://arxiv.org/abs/2402.12806)
 
 ## Benchmarks
 
