@@ -58,6 +58,8 @@ Experiments with reasoning models, training techniques, papers
 - [Towards Learning to Reason: Comparing LLMs with Neuro-Symbolic on Arithmetic Relations in Abstract Reasoning](https://arxiv.org/abs/2412.05586)
 - [BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation](https://arxiv.org/abs/2502.03860)
 - [TypedThinker: Typed Thinking Improves Large Language Model Reasoning](https://arxiv.org/abs/2410.01952)
+- [ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates](https://arxiv.org/abs/2502.06772)
+- [Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning](https://arxiv.org/abs/2502.06781)
 
 #### Topic - Surveys and reviews
 
