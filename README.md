@@ -14,6 +14,7 @@ Experiments with reasoning models, training techniques, papers
 ### Priority
 
 - [**s1: Simple test-time scaling**](https://arxiv.org/abs/2501.19393)
+- [**Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling**](https://arxiv.org/abs/2502.06703)
 
 #### Topic - General or unsorted
 
