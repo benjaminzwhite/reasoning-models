@@ -67,6 +67,7 @@ Experiments with reasoning models, training techniques, papers
 - [LLM Pretraining with Continuous Concepts](https://arxiv.org/abs/2502.08524) - follow-up to Coconut paper (Training Large Language Model to Reason in a Continuous Latent Space, see below)
 - [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
 - [Diverse Inference and Verification for Advanced Reasoning](https://arxiv.org/abs/2502.09955)
+- [CRANE: Reasoning with constrained LLM generation](https://arxiv.org/abs/2502.09061)
 
 #### Topic - Surveys and reviews
 
