@@ -68,6 +68,8 @@ Experiments with reasoning models, training techniques, papers
 - [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
 - [Diverse Inference and Verification for Advanced Reasoning](https://arxiv.org/abs/2502.09955)
 - [CRANE: Reasoning with constrained LLM generation](https://arxiv.org/abs/2502.09061)
+- [AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence](https://arxiv.org/abs/2502.13943)
+- [OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning](https://arxiv.org/abs/2502.11271)
 
 #### Topic - Surveys and reviews
 
