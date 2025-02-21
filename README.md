@@ -70,6 +70,8 @@ Experiments with reasoning models, training techniques, papers
 - [CRANE: Reasoning with constrained LLM generation](https://arxiv.org/abs/2502.09061)
 - [AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence](https://arxiv.org/abs/2502.13943)
 - [OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning](https://arxiv.org/abs/2502.11271)
+- [Thinking Preference Optimization](https://arxiv.org/abs/2502.13173)
+- [S2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning](https://arxiv.org/abs/2502.12853)
 
 #### Topic - Surveys and reviews
 
