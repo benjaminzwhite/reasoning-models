@@ -72,6 +72,7 @@ Experiments with reasoning models, training techniques, papers
 - [OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning](https://arxiv.org/abs/2502.11271)
 - [Thinking Preference Optimization](https://arxiv.org/abs/2502.13173)
 - [S2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning](https://arxiv.org/abs/2502.12853)
+- [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](https://arxiv.org/abs/2502.14768)
 
 #### Topic - Surveys and reviews
 
