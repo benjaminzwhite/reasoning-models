@@ -73,6 +73,7 @@ Experiments with reasoning models, training techniques, papers
 - [Thinking Preference Optimization](https://arxiv.org/abs/2502.13173)
 - [S2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning](https://arxiv.org/abs/2502.12853)
 - [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](https://arxiv.org/abs/2502.14768)
+- [Reasoning with Reinforced Functional Token Tuning](https://arxiv.org/abs/2502.13389)
 
 #### Topic - Surveys and reviews
 
