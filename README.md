@@ -111,6 +111,7 @@ Experiments with reasoning models, training techniques, papers
 #### Topic - Coding
 
 - [ACECODER: Acing Coder RL via Automated Test-Case Synthesis](https://arxiv.org/abs/2502.01718)
+- [S*: Test Time Scaling for Code Generation](https://arxiv.org/abs/2502.14382)
 
 #### Topic - Other specialized reasoning areas (medical, legal, etc.)
 
