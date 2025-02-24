@@ -74,6 +74,7 @@ Experiments with reasoning models, training techniques, papers
 - [S2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning](https://arxiv.org/abs/2502.12853)
 - [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](https://arxiv.org/abs/2502.14768)
 - [Reasoning with Reinforced Functional Token Tuning](https://arxiv.org/abs/2502.13389)
+- [SIFT: Grounding LLM Reasoning in Contexts via Stickers](https://arxiv.org/abs/2502.14922)
 
 #### Topic - Surveys and reviews
 
