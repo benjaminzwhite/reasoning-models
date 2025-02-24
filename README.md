@@ -90,6 +90,7 @@ Experiments with reasoning models, training techniques, papers
 - [Efficiently Serving LLM Reasoning Programs with Certaindex](https://arxiv.org/abs/2412.20993)
 - [Path-Consistency: Prefix Enhancement for Efficient Inference in LLM](https://arxiv.org/abs/2409.01281)
 - [Reward-Guided Speculative Decoding for Efficient LLM Reasoning](https://arxiv.org/abs/2501.19324)
+- [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
