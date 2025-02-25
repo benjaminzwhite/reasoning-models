@@ -75,6 +75,7 @@ Experiments with reasoning models, training techniques, papers
 - [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](https://arxiv.org/abs/2502.14768)
 - [Reasoning with Reinforced Functional Token Tuning](https://arxiv.org/abs/2502.13389)
 - [SIFT: Grounding LLM Reasoning in Contexts via Stickers](https://arxiv.org/abs/2502.14922)
+- [How to Get Your LLM to Generate Challenging Problems for Evaluation](https://arxiv.org/abs/2502.14678) - maybe useful for making reasoning datasets
 
 #### Topic - Surveys and reviews
 
