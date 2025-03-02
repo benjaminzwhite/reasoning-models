@@ -76,12 +76,18 @@ Experiments with reasoning models, training techniques, papers
 - [Reasoning with Reinforced Functional Token Tuning](https://arxiv.org/abs/2502.13389)
 - [SIFT: Grounding LLM Reasoning in Contexts via Stickers](https://arxiv.org/abs/2502.14922)
 - [How to Get Your LLM to Generate Challenging Problems for Evaluation](https://arxiv.org/abs/2502.14678) - maybe useful for making reasoning datasets
-- [O1 Embedder: Let Retrievers Think Before Action](https://arxiv.org/abs/2502.07555)
+
 
 #### Topic - Surveys and reviews
 
 - [Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models](https://arxiv.org/abs/2501.09686)
 - [Reinforcement Learning Enhanced LLMs: A Survey](https://arxiv.org/abs/2412.10400)
+- [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419)
+
+#### Topic - Information retrieval
+
+- [Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search](https://arxiv.org/abs/2502.12974)
+- [O1 Embedder: Let Retrievers Think Before Action](https://arxiv.org/abs/2502.07555)
 
 #### Topic - X of Thoughts variants
 
