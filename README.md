@@ -76,6 +76,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reasoning with Reinforced Functional Token Tuning](https://arxiv.org/abs/2502.13389)
 - [SIFT: Grounding LLM Reasoning in Contexts via Stickers](https://arxiv.org/abs/2502.14922)
 - [How to Get Your LLM to Generate Challenging Problems for Evaluation](https://arxiv.org/abs/2502.14678) - maybe useful for making reasoning datasets
+- [Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/abs/2503.01307)
 
 
 #### Topic - Surveys and reviews
