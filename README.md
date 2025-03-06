@@ -78,6 +78,7 @@ Experiments with reasoning models, training techniques, papers
 - [How to Get Your LLM to Generate Challenging Problems for Evaluation](https://arxiv.org/abs/2502.14678) - maybe useful for making reasoning datasets
 - [Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/abs/2503.01307)
 - [General Reasoning Requires Learning to Reason from the Get-go](https://arxiv.org/abs/2502.19402)
+- [CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation](https://arxiv.org/abs/2502.21074)
 
 #### Topic - Surveys and reviews
 
