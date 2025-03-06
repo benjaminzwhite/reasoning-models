@@ -77,7 +77,7 @@ Experiments with reasoning models, training techniques, papers
 - [SIFT: Grounding LLM Reasoning in Contexts via Stickers](https://arxiv.org/abs/2502.14922)
 - [How to Get Your LLM to Generate Challenging Problems for Evaluation](https://arxiv.org/abs/2502.14678) - maybe useful for making reasoning datasets
 - [Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/abs/2503.01307)
-
+- [General Reasoning Requires Learning to Reason from the Get-go](https://arxiv.org/abs/2502.19402)
 
 #### Topic - Surveys and reviews
 
@@ -135,6 +135,7 @@ Experiments with reasoning models, training techniques, papers
 - [UQE: A Query Engine for Unstructured Databases](https://arxiv.org/abs/2407.09522)
 - [LTNtorch: PyTorch Implementation of Logic Tensor Networks](https://arxiv.org/abs/2409.16045)
 - [SymBa: Symbolic Backward Chaining for Structured Natural Language Reasoning](https://arxiv.org/abs/2402.12806)
+- [ATLaS: Agent Tuning via Learning Critical Steps](https://arxiv.org/abs/2503.02197)
 
 
 ## Datasets
