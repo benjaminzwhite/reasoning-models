@@ -79,6 +79,7 @@ Experiments with reasoning models, training techniques, papers
 - [Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/abs/2503.01307)
 - [General Reasoning Requires Learning to Reason from the Get-go](https://arxiv.org/abs/2502.19402)
 - [CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation](https://arxiv.org/abs/2502.21074)
+- [START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625)
 
 #### Topic - Surveys and reviews
 
