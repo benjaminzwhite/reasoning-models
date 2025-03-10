@@ -80,6 +80,9 @@ Experiments with reasoning models, training techniques, papers
 - [General Reasoning Requires Learning to Reason from the Get-go](https://arxiv.org/abs/2502.19402)
 - [CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation](https://arxiv.org/abs/2502.21074)
 - [START: Self-taught Reasoner with Tools](https://arxiv.org/abs/2503.04625)
+- [Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](https://arxiv.org/abs/2503.05179)
+- [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.05592)
+- [An Empirical Study on Eliciting and Improving R1-like Reasoning Models](https://arxiv.org/abs/2503.04548)
 
 #### Topic - Surveys and reviews
 
