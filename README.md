@@ -166,6 +166,7 @@ Experiments with reasoning models, training techniques, papers
 - [HKUST - Simple Reinforcement Learning for Reasoning](https://hkust-nlp.notion.site/simplerl-reason)
 - [OpenAI - Deliberative alignment: reasoning enables safer language models](https://openai.com/index/deliberative-alignment/)
 - [DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2) - main project page is [https://agentica-project.com/](https://agentica-project.com/), HuggingFace page is [https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview](https://huggingface.co/agentica-org/DeepScaleR-1.5B-Preview)
+- [Open R1: Update #3](https://huggingface.co/blog/open-r1/update-3) - HuggingFace Open-R1 update on Codeforces and IOI 24 Informatics Olympiads, datasets etc.
 
 ## Repos
 
