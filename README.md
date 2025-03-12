@@ -83,6 +83,7 @@ Experiments with reasoning models, training techniques, papers
 - [Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](https://arxiv.org/abs/2503.05179)
 - [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.05592)
 - [An Empirical Study on Eliciting and Improving R1-like Reasoning Models](https://arxiv.org/abs/2503.04548)
+- [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.07572)
 
 #### Topic - Surveys and reviews
 
