@@ -95,6 +95,7 @@ Experiments with reasoning models, training techniques, papers
 
 - [Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search](https://arxiv.org/abs/2502.12974)
 - [O1 Embedder: Let Retrievers Think Before Action](https://arxiv.org/abs/2502.07555)
+- [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
 
 #### Topic - X of Thoughts variants
 
