@@ -137,6 +137,12 @@ Experiments with reasoning models, training techniques, papers
 - [MedS3: Towards Medical Small Language Models with Self-Evolved Slow Thinking](https://arxiv.org/abs/2501.12051)
 - [MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/abs/2503.07459)
 
+#### Topic - Multimodal
+
+TODO: expand with separate tags
+
+- [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)
+
 #### Topic - Adjacent subjects, maybe related
 
 - [Answer Set Networks: Casting Answer Set Programming into Deep Learning](https://arxiv.org/abs/2412.14814)
@@ -164,6 +170,7 @@ Experiments with reasoning models, training techniques, papers
 - [ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark](https://arxiv.org/abs/2501.01290)
 - [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584)
 - [HARP: A challenging human-annotated math reasoning benchmark](https://arxiv.org/abs/2412.08819)
+- [SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?](https://arxiv.org/abs/2503.12349)
 
 ## Blogs and articles
 
