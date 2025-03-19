@@ -18,6 +18,7 @@ Experiments with reasoning models, training techniques, papers
 - [**Competitive Programming with Large Reasoning Models**](https://arxiv.org/abs/2502.06807) - OpenAI, "Our findings show that although specialized pipelines such as o1-ioi yield solid improvements, the scaled-up, general-purpose o3 model surpasses those results without relying on hand-crafted inference heuristics. Notably, o3 achieves a gold medal at the 2024 IOI and obtains a Codeforces rating on par with elite human competitors. Overall, these results indicate that scaling general-purpose reinforcement learning, rather than relying on domain-specific techniques, offers a robust path toward state-of-the-art AI in reasoning domains, such as competitive programming."
 - [**LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!**](https://arxiv.org/abs/2502.07374)
 - [**CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction**](https://arxiv.org/abs/2502.07316) - DeepSeek
+- [**DAPO: An Open-Source LLM Reinforcement Learning System at Scale**](https://arxiv.org/abs/2503.14476) - ByteDance/Tsinghua
 
 #### Topic - General or unsorted
 
