@@ -85,6 +85,7 @@ Experiments with reasoning models, training techniques, papers
 - [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.05592)
 - [An Empirical Study on Eliciting and Improving R1-like Reasoning Models](https://arxiv.org/abs/2503.04548)
 - [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.07572)
+- [ϕ-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation](https://arxiv.org/abs/2503.13288)
 
 #### Topic - Surveys and reviews
 
@@ -130,7 +131,8 @@ Experiments with reasoning models, training techniques, papers
 - [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301)
 - [AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling](https://arxiv.org/abs/2412.15084)
 - [LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning](https://arxiv.org/abs/2410.02884)
-- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) - see also the [Yannic Kilcher paper review](https://www.youtube.com/watch?v=bAWV_yrqx4w) 
+- [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) - see also the [Yannic Kilcher paper review](https://www.youtube.com/watch?v=bAWV_yrqx4w)
+- [MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer](https://arxiv.org/abs/2503.14891)
 
 #### Topic - Coding
 
@@ -181,6 +183,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584)
 - [HARP: A challenging human-annotated math reasoning benchmark](https://arxiv.org/abs/2412.08819)
 - [SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?](https://arxiv.org/abs/2503.12349)
+- [CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning](https://arxiv.org/abs/2503.13517) - Google, ICLR 2025
 
 ---
 
