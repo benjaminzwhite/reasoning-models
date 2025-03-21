@@ -115,6 +115,7 @@ Experiments with reasoning models, training techniques, papers
 - [Path-Consistency: Prefix Enhancement for Efficient Inference in LLM](https://arxiv.org/abs/2409.01281)
 - [Reward-Guided Speculative Decoding for Efficient LLM Reasoning](https://arxiv.org/abs/2501.19324)
 - [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
+- [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
@@ -144,6 +145,7 @@ Experiments with reasoning models, training techniques, papers
 - [ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning](https://arxiv.org/abs/2501.06590)
 - [MedS3: Towards Medical Small Language Models with Self-Evolved Slow Thinking](https://arxiv.org/abs/2501.12051)
 - [MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/abs/2503.07459)
+- [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](https://arxiv.org/abs/2503.16252)
 
 #### Topic - Multimodal
 
