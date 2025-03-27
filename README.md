@@ -221,3 +221,4 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 
 - [Linked from paper https://arxiv.org/abs/2501.02497 - This repository contains the resources for Test-time Computing: from System-1 Thinking to System-2 Thinking](https://github.com/Dereck0602/Awesome_Test_Time_LLMs)
 - [Curated collection of papers and resources on how to unlock the reasoning ability of LLMs and MLLMs.](https://github.com/atfortes/Awesome-LLM-Reasoning)
+- [A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.](https://github.com/codefuse-ai/Awesome-Code-LLM) - has related subjects around "code enhances reasoning" general area
