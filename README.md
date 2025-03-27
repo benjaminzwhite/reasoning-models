@@ -169,6 +169,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [LTNtorch: PyTorch Implementation of Logic Tensor Networks](https://arxiv.org/abs/2409.16045)
 - [SymBa: Symbolic Backward Chaining for Structured Natural Language Reasoning](https://arxiv.org/abs/2402.12806)
 - [Shifting Long-Context LLMs Research from Input to Output](https://arxiv.org/abs/2503.04723) - generating large reasoning chains
+- [BlendRL: A Framework for Merging Symbolic and Neural Policy Learning](https://arxiv.org/abs/2410.11689) - ICLR 2025
 
 ---
 
