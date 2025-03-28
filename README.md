@@ -94,6 +94,8 @@ Experiments with reasoning models, training techniques, papers
 - [SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild](https://arxiv.org/abs/2503.18892)
 - [A Probabilistic Inference Approach to Inference-Time Scaling of LLMs using Particle-Based Monte Carlo Methods](https://arxiv.org/abs/2502.01618)
 - [Planning In Natural Language Improves LLM Search For Code Generation](https://arxiv.org/abs/2409.03733)
+- [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470)
+- [MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search](https://arxiv.org/abs/2503.20757)
 
 #### Topic - Surveys and reviews
 
@@ -160,6 +162,7 @@ Experiments with reasoning models, training techniques, papers
 TODO: expand with separate tags
 
 - [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)
+- [https://embodied-reasoner.github.io/](https://embodied-reasoner.github.io/)
 
 #### Topic - Adjacent subjects, maybe related
 
