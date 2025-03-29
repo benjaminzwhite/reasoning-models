@@ -107,12 +107,14 @@ Experiments with reasoning models, training techniques, papers
 
 - [ATLaS: Agent Tuning via Learning Critical Steps](https://arxiv.org/abs/2503.02197)
 - [Agent models: Internalizing Chain-of-Action Generation into Reasoning models](https://arxiv.org/abs/2503.06580)
+- [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://arxiv.org/abs/2502.08235)
 
-#### Topic - Information retrieval
+#### Topic - Information retrieval and search
 
 - [Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search](https://arxiv.org/abs/2502.12974)
 - [O1 Embedder: Let Retrievers Think Before Action](https://arxiv.org/abs/2502.07555)
 - [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
+- [Open Deep Search: Democratizing Search with Open-source Reasoning Agents](https://arxiv.org/abs/2503.20201)
 
 #### Topic - X of Thoughts variants
 
