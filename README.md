@@ -97,6 +97,7 @@ Experiments with reasoning models, training techniques, papers
 - [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/abs/2503.19470)
 - [MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search](https://arxiv.org/abs/2503.20757)
 - [Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging](https://arxiv.org/abs/2503.20641)
+- [CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models](https://arxiv.org/abs/2503.22342)
 
 #### Topic - Surveys and reviews
 
@@ -129,6 +130,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reward-Guided Speculative Decoding for Efficient LLM Reasoning](https://arxiv.org/abs/2501.19324)
 - [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
 - [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)
+- [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614) - their Github page is nice also: [https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
