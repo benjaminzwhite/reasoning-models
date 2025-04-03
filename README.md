@@ -135,6 +135,8 @@ Experiments with reasoning models, training techniques, papers
 - [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
 - [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.16419)
 - [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614) - their Github page is nice also: [https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
+- [Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.24377) - Github [https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)
+- [Efficient Inference for Large Reasoning Models: A Survey](https://arxiv.org/abs/2503.23077) - Github [https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
