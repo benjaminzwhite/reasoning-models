@@ -105,6 +105,7 @@ Experiments with reasoning models, training techniques, papers
 - [Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?](https://arxiv.org/abs/2504.00509) - critical of reasoning results, similar to SimpleBench
 - [Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL](https://arxiv.org/abs/2503.23157)
 - [JudgeLRM: Large Reasoning Models as a Judge](https://arxiv.org/abs/2504.00050)
+- [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://arxiv.org/abs/2502.07266)
 
 #### Topic - Surveys and reviews
 
@@ -189,6 +190,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [SymBa: Symbolic Backward Chaining for Structured Natural Language Reasoning](https://arxiv.org/abs/2402.12806)
 - [Shifting Long-Context LLMs Research from Input to Output](https://arxiv.org/abs/2503.04723) - generating large reasoning chains
 - [BlendRL: A Framework for Merging Symbolic and Neural Policy Learning](https://arxiv.org/abs/2410.11689) - ICLR 2025
+- [Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?](https://arxiv.org/abs/2504.01935) - more theoretical but maybe interesting
 
 ---
 
