@@ -104,6 +104,7 @@ Experiments with reasoning models, training techniques, papers
 - [Z1: Efficient Test-time Scaling with Code](https://arxiv.org/abs/2504.00810)
 - [Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?](https://arxiv.org/abs/2504.00509) - critical of reasoning results, similar to SimpleBench
 - [Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL](https://arxiv.org/abs/2503.23157)
+- [JudgeLRM: Large Reasoning Models as a Judge](https://arxiv.org/abs/2504.00050)
 
 #### Topic - Surveys and reviews
 
