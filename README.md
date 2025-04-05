@@ -106,6 +106,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL](https://arxiv.org/abs/2503.23157)
 - [JudgeLRM: Large Reasoning Models as a Judge](https://arxiv.org/abs/2504.00050)
 - [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://arxiv.org/abs/2502.07266)
+- [OpenCodeReasoning: Advancing Data Distillation for Competitive Coding](https://arxiv.org/abs/2504.01943) - mainly a dataset but interesting paper also
 
 #### Topic - Surveys and reviews
 
