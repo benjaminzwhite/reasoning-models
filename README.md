@@ -228,6 +228,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Open R1: Update #3](https://huggingface.co/blog/open-r1/update-3) - HuggingFace Open-R1 update on Codeforces and IOI 24 Informatics Olympiads, datasets etc.
 - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
 - [YouTube - Nathan Lambert - GRPO's new variants and implementation secrets](https://www.youtube.com/watch?v=amrJDwMUFNs)
+- [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) - nice Anthropic blog, basically they take a reasoning model and place hints to correct answer in the input prompts (during eval), then measure whether model mentions it used the hint to reach its final answer etc.
 
 ---
 
