@@ -166,6 +166,7 @@ Experiments with reasoning models, training techniques, papers
 
 - [ACECODER: Acing Coder RL via Automated Test-Case Synthesis](https://arxiv.org/abs/2502.01718)
 - [S*: Test Time Scaling for Code Generation](https://arxiv.org/abs/2502.14382)
+- [Learning to Solve and Verify: A Self-Play Framework for Code and Test Generation](https://arxiv.org/abs/2502.14948) - not directly about reasoning but nice approach
 
 #### Topic - Other specialized reasoning areas (medical, legal, etc.)
 
