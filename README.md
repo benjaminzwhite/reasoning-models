@@ -109,6 +109,8 @@ Experiments with reasoning models, training techniques, papers
 - [OpenCodeReasoning: Advancing Data Distillation for Competitive Coding](https://arxiv.org/abs/2504.01943) - mainly a dataset but interesting paper also
 - [Bag of Tricks for Inference-time Computation of LLM Reasoning](https://arxiv.org/abs/2502.07191) - looks nice, practical stuff
 - [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/abs/2504.00891)
+- [Sample, Don't Search: Rethinking Test-Time Alignment for Language Models](https://arxiv.org/abs/2504.03790)
+- [Rethinking Reflection in Pre-Training](https://arxiv.org/abs/2504.04022)
 
 #### Topic - Surveys and reviews
 
