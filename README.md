@@ -108,6 +108,7 @@ Experiments with reasoning models, training techniques, papers
 - [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://arxiv.org/abs/2502.07266)
 - [OpenCodeReasoning: Advancing Data Distillation for Competitive Coding](https://arxiv.org/abs/2504.01943) - mainly a dataset but interesting paper also
 - [Bag of Tricks for Inference-time Computation of LLM Reasoning](https://arxiv.org/abs/2502.07191) - looks nice, practical stuff
+- [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/abs/2504.00891)
 
 #### Topic - Surveys and reviews
 
