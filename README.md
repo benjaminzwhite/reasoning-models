@@ -112,6 +112,8 @@ Experiments with reasoning models, training techniques, papers
 - [GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](https://arxiv.org/abs/2504.00891)
 - [Sample, Don't Search: Rethinking Test-Time Alignment for Language Models](https://arxiv.org/abs/2504.03790)
 - [Rethinking Reflection in Pre-Training](https://arxiv.org/abs/2504.04022)
+- [Generative Evaluation of Complex Reasoning in Large Language Models](https://arxiv.org/abs/2504.02810) - synthetic benchmark/evaluation
+- [MastermindEval: A Simple But Scalable Reasoning Benchmark](https://arxiv.org/abs/2503.05891) - benchmark
 
 #### Topic - Surveys and reviews
 
@@ -237,6 +239,10 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
 - [YouTube - Nathan Lambert - GRPO's new variants and implementation secrets](https://www.youtube.com/watch?v=amrJDwMUFNs)
 - [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) - nice Anthropic blog, basically they take a reasoning model and place hints to correct answer in the input prompts (during eval), then measure whether model mentions it used the hint to reach its final answer etc.
+
+#### Workshops
+
+- [Reasoning and Planning for Large Language Models, ICLR 2025, April 28 2025, Singapore](https://workshop-llm-reasoning-planning.github.io/) - 
 
 ---
 
