@@ -121,6 +121,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reinforcement Learning Enhanced LLMs: A Survey](https://arxiv.org/abs/2412.10400)
 - [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419)
 - [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](https://arxiv.org/abs/2503.24235) - section 4.1 is on reasoning specifically but general paper is nicely organized and relevant
+- [A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility](https://arxiv.org/abs/2504.07086) - critical of some benchmarks, evals and methodology
 
 #### Topic - Reasoning + Agents
 
