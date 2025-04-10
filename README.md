@@ -114,6 +114,8 @@ Experiments with reasoning models, training techniques, papers
 - [Rethinking Reflection in Pre-Training](https://arxiv.org/abs/2504.04022)
 - [Generative Evaluation of Complex Reasoning in Large Language Models](https://arxiv.org/abs/2504.02810) - synthetic benchmark/evaluation
 - [MastermindEval: A Simple But Scalable Reasoning Benchmark](https://arxiv.org/abs/2503.05891) - benchmark
+- [A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility](https://arxiv.org/abs/2504.07086) - critical of some benchmarks, evals and methodology
+- [Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation](https://arxiv.org/abs/2502.06563) - ICLR 2025
 
 #### Topic - Surveys and reviews
 
@@ -121,7 +123,6 @@ Experiments with reasoning models, training techniques, papers
 - [Reinforcement Learning Enhanced LLMs: A Survey](https://arxiv.org/abs/2412.10400)
 - [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419)
 - [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](https://arxiv.org/abs/2503.24235) - section 4.1 is on reasoning specifically but general paper is nicely organized and relevant
-- [A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility](https://arxiv.org/abs/2504.07086) - critical of some benchmarks, evals and methodology
 
 #### Topic - Reasoning + Agents
 
@@ -169,6 +170,7 @@ Experiments with reasoning models, training techniques, papers
 - [LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning](https://arxiv.org/abs/2410.02884)
 - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) - see also the [Yannic Kilcher paper review](https://www.youtube.com/watch?v=bAWV_yrqx4w)
 - [MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer](https://arxiv.org/abs/2503.14891)
+- [Leanabell-Prover: Posttraining Scaling in Formal Reasoning](https://arxiv.org/abs/2504.06122)
 
 #### Topic - Coding
 
@@ -190,6 +192,7 @@ TODO: expand with separate tags
 
 - [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)
 - [https://embodied-reasoner.github.io/](https://embodied-reasoner.github.io/)
+- [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://arxiv.org/abs/2504.05599)
 
 #### Topic - Adjacent subjects, maybe related
 
