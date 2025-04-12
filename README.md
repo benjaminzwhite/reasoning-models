@@ -116,6 +116,8 @@ Experiments with reasoning models, training techniques, papers
 - [MastermindEval: A Simple But Scalable Reasoning Benchmark](https://arxiv.org/abs/2503.05891) - benchmark
 - [A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility](https://arxiv.org/abs/2504.07086) - critical of some benchmarks, evals and methodology
 - [Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation](https://arxiv.org/abs/2502.06563) - ICLR 2025
+- [Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5) - ByteDance, paper is available via this Github
+- [TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning](https://arxiv.org/abs/2502.18431)
 
 #### Topic - Surveys and reviews
 
@@ -177,6 +179,7 @@ Experiments with reasoning models, training techniques, papers
 - [ACECODER: Acing Coder RL via Automated Test-Case Synthesis](https://arxiv.org/abs/2502.01718)
 - [S*: Test Time Scaling for Code Generation](https://arxiv.org/abs/2502.14382)
 - [Learning to Solve and Verify: A Self-Play Framework for Code and Test Generation](https://arxiv.org/abs/2502.14948) - not directly about reasoning but nice approach
+- [Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning](https://arxiv.org/abs/2503.14838)
 
 #### Topic - Other specialized reasoning areas (medical, legal, etc.)
 
