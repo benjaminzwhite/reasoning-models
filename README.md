@@ -21,6 +21,7 @@ Experiments with reasoning models, training techniques, papers
 - [**DAPO: An Open-Source LLM Reinforcement Learning System at Scale**](https://arxiv.org/abs/2503.14476) - ByteDance/Tsinghua
 - [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118) - ByteDance
 - [GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning](https://arxiv.org/abs/2504.02546) - Alibaba, simplifies relative to GRPO, fewer models needed during training also
+- [Self-Steering Language Models](https://arxiv.org/abs/2504.07081) - program synthesis related
 
 #### Topic - General or unsorted
 
