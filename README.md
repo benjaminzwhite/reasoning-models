@@ -173,6 +173,8 @@ Experiments with reasoning models, training techniques, papers
 - [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) - see also the [Yannic Kilcher paper review](https://www.youtube.com/watch?v=bAWV_yrqx4w)
 - [MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer](https://arxiv.org/abs/2503.14891)
 - [Leanabell-Prover: Posttraining Scaling in Formal Reasoning](https://arxiv.org/abs/2504.06122)
+- [FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4](https://arxiv.org/abs/2503.03238)
+- [LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction](https://arxiv.org/abs/2502.17925)
 
 #### Topic - Coding
 
@@ -234,6 +236,9 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning](https://arxiv.org/abs/2503.13517) - Google, ICLR 2025
 - [QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?](https://arxiv.org/abs/2503.22674)
 - [CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis](https://arxiv.org/abs/2503.23145)
+- [CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation](https://arxiv.org/abs/2504.00043)
+- [FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving](https://arxiv.org/abs/2502.20238)
+- [LR2Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems](https://arxiv.org/abs/2502.17848)
 
 ---
 
