@@ -120,6 +120,7 @@ Experiments with reasoning models, training techniques, papers
 - [Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation](https://arxiv.org/abs/2502.06563) - ICLR 2025
 - [Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5) - ByteDance, paper is available via this Github
 - [TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning](https://arxiv.org/abs/2502.18431)
+- [Complex LLM Planning via Automated Heuristics Discovery](https://arxiv.org/abs/2502.19295) - code enhanced reasoning related, generates heuristics as Python functions
 
 #### Topic - Surveys and reviews
 
