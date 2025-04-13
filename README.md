@@ -22,6 +22,7 @@ Experiments with reasoning models, training techniques, papers
 - [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118) - ByteDance
 - [GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning](https://arxiv.org/abs/2504.02546) - Alibaba, simplifies relative to GRPO, fewer models needed during training also
 - [Self-Steering Language Models](https://arxiv.org/abs/2504.07081) - program synthesis related
+- [Skywork-OR1 (Open Reasoner 1)](https://github.com/SkyworkAI/Skywork-OR1) - read the nice Notion technical blog via this Github
 
 #### Topic - General or unsorted
 
