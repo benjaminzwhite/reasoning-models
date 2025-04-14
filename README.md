@@ -160,6 +160,7 @@ Experiments with reasoning models, training techniques, papers
 - [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614) - their Github page is nice also: [https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 - [Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.24377) - Github [https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)
 - [Efficient Inference for Large Reasoning Models: A Survey](https://arxiv.org/abs/2503.23077) - Github [https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)
+- [Hawkeye:Efficient Reasoning with Model Collaboration](https://arxiv.org/abs/2504.00424) - uses a Qwen 0.5B SLM to speed up reasoning
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
@@ -273,6 +274,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Recipes to scale inference-time compute of open models](https://github.com/huggingface/search-and-learn)
 - [Facebook Research COCONUT paper - Training Large Language Model to Reason in a Continuous Latent Space](https://github.com/facebookresearch/coconut)
 - [Simple Reinforcement Learning for Reasoning - replication DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data](https://github.com/hkust-nlp/simpleRL-reason)
+- [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine) - DeepSeek Open Infra Github, as of April 2025 they announce that they will open source their inference engine
 
 #### Collections
 
