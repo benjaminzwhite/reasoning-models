@@ -258,6 +258,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
 - [YouTube - Nathan Lambert - GRPO's new variants and implementation secrets](https://www.youtube.com/watch?v=amrJDwMUFNs)
 - [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) - nice Anthropic blog, basically they take a reasoning model and place hints to correct answer in the input prompts (during eval), then measure whether model mentions it used the hint to reach its final answer etc.
+- [DeepCoder: A Fully Open-Source 14B Coder at O3-mini Level](https://www.together.ai/blog/deepcoder) - Through a joint collaboration between the Agentica team and Together AI, we release DeepCoder-14B-Preview, a code reasoning model finetuned from Deepseek-R1-Distilled-Qwen-14B via distributed RL. It achieves an impressive 60.6% Pass@1 accuracy on LiveCodeBench (+8% improvement), matching the performance of o3-mini-2025-01-031 (Low) and o1-2024-12-17 with just 14B parameters. We’ve open-sourced our dataset, code, training logs, and systems optimizations for everyone to progress on scaling and accelerating intelligence with RL.
 
 #### Workshops
 
