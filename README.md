@@ -122,6 +122,8 @@ Experiments with reasoning models, training techniques, papers
 - [Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5) - ByteDance, paper is available via this Github
 - [TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning](https://arxiv.org/abs/2502.18431)
 - [Complex LLM Planning via Automated Heuristics Discovery](https://arxiv.org/abs/2502.19295) - code enhanced reasoning related, generates heuristics as Python functions
+- [Reasoning Models Can Be Effective Without Thinking](https://arxiv.org/abs/2504.09858) - basically skip the thinking step in a thinking model
+- [RARE: Retrieval-Augmented Reasoning Modeling](https://arxiv.org/abs/2503.23513) - no code/examples yet in preprint
 
 #### Topic - Surveys and reviews
 
