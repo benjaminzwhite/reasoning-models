@@ -146,6 +146,7 @@ Experiments with reasoning models, training techniques, papers
 - [Open Deep Search: Democratizing Search with Open-source Reasoning Agents](https://arxiv.org/abs/2503.20201)
 - [Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking](https://arxiv.org/abs/2504.03947) - uses BRIGHT benchmark
 - [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160) - deep research, does have a reasoning type model involved for planning stage
+- [DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2503.00223) - results seem good
 
 #### Topic - X of Thoughts variants
 
