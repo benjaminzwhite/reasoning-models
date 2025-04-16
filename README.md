@@ -124,6 +124,7 @@ Experiments with reasoning models, training techniques, papers
 - [Complex LLM Planning via Automated Heuristics Discovery](https://arxiv.org/abs/2502.19295) - code enhanced reasoning related, generates heuristics as Python functions
 - [Reasoning Models Can Be Effective Without Thinking](https://arxiv.org/abs/2504.09858) - basically skip the thinking step in a thinking model
 - [RARE: Retrieval-Augmented Reasoning Modeling](https://arxiv.org/abs/2503.23513) - no code/examples yet in preprint
+- [Efficient Reasoning Models: A Survey](https://arxiv.org/abs/2504.10903)
 
 #### Topic - Surveys and reviews
 
@@ -173,6 +174,7 @@ Experiments with reasoning models, training techniques, papers
 
 - [Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147)
 - [The Jumping Reasoning Curve? Tracking the Evolution of Reasoning Performance in GPT-\[n\] and o-\[n\] Models on Multimodal Puzzles](https://arxiv.org/abs/2502.01081)
+- [xVerify: Efficient Answer Verifier for Reasoning Model Evaluations](https://arxiv.org/abs/2504.10481)
 
 #### Topic - Mathematics
 
