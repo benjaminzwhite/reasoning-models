@@ -125,6 +125,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reasoning Models Can Be Effective Without Thinking](https://arxiv.org/abs/2504.09858) - basically skip the thinking step in a thinking model
 - [RARE: Retrieval-Augmented Reasoning Modeling](https://arxiv.org/abs/2503.23513) - no code/examples yet in preprint
 - [Efficient Reasoning Models: A Survey](https://arxiv.org/abs/2504.10903)
+- [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce]
 
 #### Topic - Surveys and reviews
 
@@ -165,6 +166,7 @@ Experiments with reasoning models, training techniques, papers
 - [Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models](https://arxiv.org/abs/2503.24377) - Github [https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers](https://github.com/DevoAllen/Awesome-Reasoning-Economy-Papers)
 - [Efficient Inference for Large Reasoning Models: A Survey](https://arxiv.org/abs/2503.23077) - Github [https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)
 - [Hawkeye:Efficient Reasoning with Model Collaboration](https://arxiv.org/abs/2504.00424) - uses a Qwen 0.5B SLM to speed up reasoning
+- [SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
