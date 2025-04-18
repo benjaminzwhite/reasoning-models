@@ -126,7 +126,8 @@ Experiments with reasoning models, training techniques, papers
 - [Reasoning Models Can Be Effective Without Thinking](https://arxiv.org/abs/2504.09858) - basically skip the thinking step in a thinking model
 - [RARE: Retrieval-Augmented Reasoning Modeling](https://arxiv.org/abs/2503.23513) - no code/examples yet in preprint
 - [Efficient Reasoning Models: A Survey](https://arxiv.org/abs/2504.10903)
-- [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce]
+- [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce](https://arxiv.org/abs/2504.11343)
+- [Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?](https://arxiv.org/abs/2504.11741)
 
 #### Topic - Surveys and reviews
 
