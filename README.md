@@ -23,6 +23,7 @@ Experiments with reasoning models, training techniques, papers
 - [GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning](https://arxiv.org/abs/2504.02546) - Alibaba, simplifies relative to GRPO, fewer models needed during training also
 - [Self-Steering Language Models](https://arxiv.org/abs/2504.07081) - program synthesis related
 - [Skywork-OR1 (Open Reasoner 1)](https://github.com/SkyworkAI/Skywork-OR1) - read the nice Notion technical blog via this Github
+- [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536) - ByteDance, seems to be like a Code Action training but need to read in detail
 
 #### Topic - General or unsorted
 
