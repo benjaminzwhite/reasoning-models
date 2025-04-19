@@ -128,6 +128,8 @@ Experiments with reasoning models, training techniques, papers
 - [Efficient Reasoning Models: A Survey](https://arxiv.org/abs/2504.10903)
 - [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce](https://arxiv.org/abs/2504.11343)
 - [Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?](https://arxiv.org/abs/2504.11741)
+- [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](https://arxiv.org/abs/2502.18449)
+- [Language Models can Self-Improve at State-Value Estimation for Better Search](https://arxiv.org/abs/2503.02878)
 
 #### Topic - Surveys and reviews
 
