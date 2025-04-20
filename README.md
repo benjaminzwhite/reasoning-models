@@ -24,6 +24,7 @@ Experiments with reasoning models, training techniques, papers
 - [Self-Steering Language Models](https://arxiv.org/abs/2504.07081) - program synthesis related
 - [Skywork-OR1 (Open Reasoner 1)](https://github.com/SkyworkAI/Skywork-OR1) - read the nice Notion technical blog via this Github
 - [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536) - ByteDance, seems to be like a Code Action training but need to read in detail
+- [ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383) - TODO: create a Tool Use RL general topic
 
 #### Topic - General or unsorted
 
@@ -130,6 +131,7 @@ Experiments with reasoning models, training techniques, papers
 - [Climbing the Ladder of Reasoning: What LLMs Can-and Still Can't-Solve after SFT?](https://arxiv.org/abs/2504.11741)
 - [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](https://arxiv.org/abs/2502.18449)
 - [Language Models can Self-Improve at State-Value Estimation for Better Search](https://arxiv.org/abs/2503.02878)
+- [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) - not directly about a reasoning model but nice RL and task area, collaborating with reasoning system etc.
 
 #### Topic - Surveys and reviews
 
@@ -193,6 +195,7 @@ Experiments with reasoning models, training techniques, papers
 - [Leanabell-Prover: Posttraining Scaling in Formal Reasoning](https://arxiv.org/abs/2504.06122)
 - [FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4](https://arxiv.org/abs/2503.03238)
 - [LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction](https://arxiv.org/abs/2502.17925)
+- [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.11354) - Lean
 
 #### Topic - Coding
 
