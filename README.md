@@ -25,6 +25,7 @@ Experiments with reasoning models, training techniques, papers
 - [Skywork-OR1 (Open Reasoner 1)](https://github.com/SkyworkAI/Skywork-OR1) - read the nice Notion technical blog via this Github
 - [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536) - ByteDance, seems to be like a Code Action training but need to read in detail
 - [ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383) - TODO: create a Tool Use RL general topic
+- [**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**](https://arxiv.org/abs/2504.13837) - Tsinghua/SJTU, critical analysis of RLVR reinforcement learning with verifiable rewards
 
 #### Topic - General or unsorted
 
