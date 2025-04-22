@@ -133,6 +133,10 @@ Experiments with reasoning models, training techniques, papers
 - [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](https://arxiv.org/abs/2502.18449)
 - [Language Models can Self-Improve at State-Value Estimation for Better Search](https://arxiv.org/abs/2503.02878)
 - [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/abs/2503.15478) - not directly about a reasoning model but nice RL and task area, collaborating with reasoning system etc.
+- [Learning to Reason under Off-Policy Guidance](https://arxiv.org/abs/2504.14945)
+- [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257)
+- [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) - not directly reasoning model, but GRPO for tool use; general "tool use RL" area interesting
+- [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/abs/2504.14870) - see above, "tool use RL"
 
 #### Topic - Surveys and reviews
 
