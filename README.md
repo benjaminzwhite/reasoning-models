@@ -27,6 +27,7 @@ Experiments with reasoning models, training techniques, papers
 - [ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383) - TODO: create a Tool Use RL general topic
 - [**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**](https://arxiv.org/abs/2504.13837) - Tsinghua/SJTU, critical analysis of RLVR reinforcement learning with verifiable rewards
 - [**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**](https://arxiv.org/abs/2504.13828) - 76 pages, really nice overview of all the related topics, has code and mini tutorials also
+- [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
 
 #### Topic - General or unsorted
 
@@ -138,6 +139,7 @@ Experiments with reasoning models, training techniques, papers
 - [FlowReasoner: Reinforcing Query-Level Meta-Agents](https://arxiv.org/abs/2504.15257)
 - [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) - not directly reasoning model, but GRPO for tool use; general "tool use RL" area interesting
 - [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/abs/2504.14870) - see above, "tool use RL"
+- [Learning Adaptive Parallel Reasoning with Language Models](https://arxiv.org/abs/2504.15466)
 
 #### Topic - Surveys and reviews
 
