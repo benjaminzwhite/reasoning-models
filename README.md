@@ -141,6 +141,7 @@ Experiments with reasoning models, training techniques, papers
 - [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/abs/2504.14870) - see above, "tool use RL"
 - [Learning Adaptive Parallel Reasoning with Language Models](https://arxiv.org/abs/2504.15466)
 - [Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning](https://arxiv.org/abs/2504.15275)
+- [Tina: Tiny Reasoning Models via LoRA](https://arxiv.org/abs/2504.15777)
 
 #### Topic - Surveys and reviews
 
@@ -205,6 +206,7 @@ Experiments with reasoning models, training techniques, papers
 - [FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4](https://arxiv.org/abs/2503.03238)
 - [LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction](https://arxiv.org/abs/2502.17925)
 - [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.11354) - Lean
+- [AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset](https://arxiv.org/abs/2504.16891) - Nvidia
 
 #### Topic - Coding
 
