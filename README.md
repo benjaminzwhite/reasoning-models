@@ -140,6 +140,7 @@ Experiments with reasoning models, training techniques, papers
 - [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) - not directly reasoning model, but GRPO for tool use; general "tool use RL" area interesting
 - [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/abs/2504.14870) - see above, "tool use RL"
 - [Learning Adaptive Parallel Reasoning with Language Models](https://arxiv.org/abs/2504.15466)
+- [Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning](https://arxiv.org/abs/2504.15275)
 
 #### Topic - Surveys and reviews
 
