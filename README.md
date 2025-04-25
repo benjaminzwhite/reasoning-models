@@ -142,6 +142,7 @@ Experiments with reasoning models, training techniques, papers
 - [Learning Adaptive Parallel Reasoning with Language Models](https://arxiv.org/abs/2504.15466)
 - [Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning](https://arxiv.org/abs/2504.15275)
 - [Tina: Tiny Reasoning Models via LoRA](https://arxiv.org/abs/2504.15777)
+- [Process Reward Models That Think](https://arxiv.org/abs/2504.16828)
 
 #### Topic - Surveys and reviews
 
