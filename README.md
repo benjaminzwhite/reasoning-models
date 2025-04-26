@@ -143,6 +143,7 @@ Experiments with reasoning models, training techniques, papers
 - [Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning](https://arxiv.org/abs/2504.15275)
 - [Tina: Tiny Reasoning Models via LoRA](https://arxiv.org/abs/2504.15777)
 - [Process Reward Models That Think](https://arxiv.org/abs/2504.16828)
+- [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 
 #### Topic - Surveys and reviews
 
