@@ -28,6 +28,7 @@ Experiments with reasoning models, training techniques, papers
 - [**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**](https://arxiv.org/abs/2504.13837) - Tsinghua/SJTU, critical analysis of RLVR reinforcement learning with verifiable rewards
 - [**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**](https://arxiv.org/abs/2504.13828) - 76 pages, really nice overview of all the related topics, has code and mini tutorials also
 - [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
+- [Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation](https://arxiv.org/abs/2503.12854) - read this with the Tsinghua/SJTU paper above; seems using a strong base model and some DPO works to boost reasoning performance
 
 #### Topic - General or unsorted
 
@@ -144,6 +145,7 @@ Experiments with reasoning models, training techniques, papers
 - [Tina: Tiny Reasoning Models via LoRA](https://arxiv.org/abs/2504.15777)
 - [Process Reward Models That Think](https://arxiv.org/abs/2504.16828)
 - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
+- [Zero-shot Robotic Manipulation with Language-guided Instruction and Formal Task Planning](https://arxiv.org/abs/2501.15214) - not directly about reasoning models, it's symbolic reasoning for robotics and the "reasoning plan" general area; TODO: search for reasoning models in robotics and create Topic for it
 
 #### Topic - Surveys and reviews
 
