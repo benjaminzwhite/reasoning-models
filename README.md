@@ -246,6 +246,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Shifting Long-Context LLMs Research from Input to Output](https://arxiv.org/abs/2503.04723) - generating large reasoning chains
 - [BlendRL: A Framework for Merging Symbolic and Neural Policy Learning](https://arxiv.org/abs/2410.11689) - ICLR 2025
 - [Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?](https://arxiv.org/abs/2504.01935) - more theoretical but maybe interesting
+- [Pantograph: A Machine-to-Machine Interaction Interface for Advanced Theorem Proving, High Level Reasoning, and Data Extraction in Lean 4](https://arxiv.org/abs/2410.16429) - Lean, mathematics
 
 ---
 
