@@ -226,6 +226,7 @@ Experiments with reasoning models, training techniques, papers
 - [MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/abs/2503.07459)
 - [Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](https://arxiv.org/abs/2503.16252)
 - [m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models](https://arxiv.org/abs/2504.00869)
+- [DianJin-R1: Evaluating and Enhancing Financial Reasoning in Large Language Models](https://arxiv.org/abs/2504.15716) - Qwen team
 
 #### Topic - Multimodal
 
@@ -292,6 +293,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think) - nice Anthropic blog, basically they take a reasoning model and place hints to correct answer in the input prompts (during eval), then measure whether model mentions it used the hint to reach its final answer etc.
 - [DeepCoder: A Fully Open-Source 14B Coder at O3-mini Level](https://www.together.ai/blog/deepcoder) - Through a joint collaboration between the Agentica team and Together AI, we release DeepCoder-14B-Preview, a code reasoning model finetuned from Deepseek-R1-Distilled-Qwen-14B via distributed RL. It achieves an impressive 60.6% Pass@1 accuracy on LiveCodeBench (+8% improvement), matching the performance of o3-mini-2025-01-031 (Low) and o1-2024-12-17 with just 14B parameters. We’ve open-sourced our dataset, code, training logs, and systems optimizations for everyone to progress on scaling and accelerating intelligence with RL.
 - [Shunyu Yao - The Second Half](https://ysymyth.github.io/The-Second-Half/) - awesome blog on status of reinforcement learning as of April 2025 by OpenAI researcher
+- [ServiceNow Reseach - PipelineRL](https://huggingface.co/blog/ServiceNow/pipelinerl) - We are excited to open-source PipelineRL, an experimental RL implementation that tackles a fundamental challenge in large-scale Reinforcement Learning with LLMs: the trade-off between inference throughput and on-policy data collection. PipelineRL's key innovation is inflight weight updates during RL training. This allows PipelineRL to achieve constantly high inference throughput and minimize the lag between the weights used for rollouts and the most recently updated model weights. The result: fast and stable RL training for large language models.
 
 #### Workshops
 
