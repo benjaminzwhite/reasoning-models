@@ -146,6 +146,7 @@ Experiments with reasoning models, training techniques, papers
 - [Process Reward Models That Think](https://arxiv.org/abs/2504.16828)
 - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 - [Zero-shot Robotic Manipulation with Language-guided Instruction and Formal Task Planning](https://arxiv.org/abs/2501.15214) - not directly about reasoning models, it's symbolic reasoning for robotics and the "reasoning plan" general area; TODO: search for reasoning models in robotics and create Topic for it
+- [SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning](https://arxiv.org/abs/2504.19162)
 
 #### Topic - Surveys and reviews
 
