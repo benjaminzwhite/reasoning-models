@@ -280,6 +280,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving](https://arxiv.org/abs/2502.20238)
 - [LR2Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems](https://arxiv.org/abs/2502.17848)
 - [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239) - cool idea but no Github/access to benchmark yet? 
+- [CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges](https://arxiv.org/abs/2504.19093)
 
 ---
 
