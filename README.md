@@ -29,6 +29,7 @@ Experiments with reasoning models, training techniques, papers
 - [**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**](https://arxiv.org/abs/2504.13828) - 76 pages, really nice overview of all the related topics, has code and mini tutorials also
 - [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
 - [Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation](https://arxiv.org/abs/2503.12854) - read this with the Tsinghua/SJTU paper above; seems using a strong base model and some DPO works to boost reasoning performance
+- [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
 
 #### Topic - General or unsorted
 
