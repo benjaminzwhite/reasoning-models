@@ -149,6 +149,7 @@ Experiments with reasoning models, training techniques, papers
 - [Zero-shot Robotic Manipulation with Language-guided Instruction and Formal Task Planning](https://arxiv.org/abs/2501.15214) - not directly about reasoning models, it's symbolic reasoning for robotics and the "reasoning plan" general area; TODO: search for reasoning models in robotics and create Topic for it
 - [SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning](https://arxiv.org/abs/2504.19162)
 - [Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models](https://arxiv.org/abs/2504.20157)
+- [Phi-4-reasoning Technical Report](https://arxiv.org/abs/2504.21318) - Microsoft
 
 #### Topic - Surveys and reviews
 
@@ -215,6 +216,7 @@ Experiments with reasoning models, training techniques, papers
 - [LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction](https://arxiv.org/abs/2502.17925)
 - [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.11354) - Lean
 - [AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset](https://arxiv.org/abs/2504.16891) - Nvidia
+- [Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math](https://arxiv.org/abs/2504.21233) - Microsoft technical report
 
 #### Topic - Coding
 
@@ -316,6 +318,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Facebook Research COCONUT paper - Training Large Language Model to Reason in a Continuous Latent Space](https://github.com/facebookresearch/coconut)
 - [Simple Reinforcement Learning for Reasoning - replication DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data](https://github.com/hkust-nlp/simpleRL-reason)
 - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine) - DeepSeek Open Infra Github, as of April 2025 they announce that they will open source their inference engine
+- [DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - see the paper also in the Github
 
 #### Collections
 
