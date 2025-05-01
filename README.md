@@ -148,6 +148,7 @@ Experiments with reasoning models, training techniques, papers
 - [Offline Reinforcement Learning for LLM Multi-Step Reasoning](https://arxiv.org/abs/2412.16145)
 - [Zero-shot Robotic Manipulation with Language-guided Instruction and Formal Task Planning](https://arxiv.org/abs/2501.15214) - not directly about reasoning models, it's symbolic reasoning for robotics and the "reasoning plan" general area; TODO: search for reasoning models in robotics and create Topic for it
 - [SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning](https://arxiv.org/abs/2504.19162)
+- [Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models](https://arxiv.org/abs/2504.20157)
 
 #### Topic - Surveys and reviews
 
@@ -171,6 +172,7 @@ Experiments with reasoning models, training techniques, papers
 - [Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking](https://arxiv.org/abs/2504.03947) - uses BRIGHT benchmark
 - [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160) - deep research, does have a reasoning type model involved for planning stage
 - [DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2503.00223) - results seem good
+- [ReasonIR: Training Retrievers for Reasoning Tasks](https://arxiv.org/abs/2504.20595) - uses BRIGHT benchmark
 
 #### Topic - X of Thoughts variants
 
