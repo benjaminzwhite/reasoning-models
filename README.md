@@ -31,6 +31,7 @@ Experiments with reasoning models, training techniques, papers
 - [Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation](https://arxiv.org/abs/2503.12854) - read this with the Tsinghua/SJTU paper above; seems using a strong base model and some DPO works to boost reasoning performance
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
 - [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/abs/2504.21776) - nice Deep Research implementation, has Github [https://github.com/RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker)
+- [100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models](https://arxiv.org/abs/2505.00551) - nice review
 
 #### Topic - General or unsorted
 
