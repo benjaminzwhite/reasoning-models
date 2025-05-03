@@ -152,6 +152,7 @@ Experiments with reasoning models, training techniques, papers
 - [SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning](https://arxiv.org/abs/2504.19162)
 - [Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models](https://arxiv.org/abs/2504.20157)
 - [Phi-4-reasoning Technical Report](https://arxiv.org/abs/2504.21318) - Microsoft
+- [DeepCritic: Deliberate Critique with Large Language Models](https://arxiv.org/abs/2505.00662)
 
 #### Topic - Surveys and reviews
 
