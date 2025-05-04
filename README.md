@@ -155,6 +155,7 @@ Experiments with reasoning models, training techniques, papers
 - [Phi-4-reasoning Technical Report](https://arxiv.org/abs/2504.21318) - Microsoft
 - [DeepCritic: Deliberate Critique with Large Language Models](https://arxiv.org/abs/2505.00662)
 - [reWordBench: Benchmarking and Improving the Robustness of Reward Models with Transformed Inputs](https://arxiv.org/abs/2503.11751)
+- [Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models]
 
 #### Topic - Surveys and reviews
 
