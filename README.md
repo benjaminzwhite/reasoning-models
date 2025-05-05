@@ -156,6 +156,7 @@ Experiments with reasoning models, training techniques, papers
 - [DeepCritic: Deliberate Critique with Large Language Models](https://arxiv.org/abs/2505.00662)
 - [reWordBench: Benchmarking and Improving the Robustness of Reward Models with Transformed Inputs](https://arxiv.org/abs/2503.11751)
 - [Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models](https://arxiv.org/abs/2504.20157) - nice area, but code not available yet it seems
+- [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949) - Nvidia, goes into technical details and implementation
 
 #### Topic - Surveys and reviews
 
