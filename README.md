@@ -157,14 +157,14 @@ Experiments with reasoning models, training techniques, papers
 - [reWordBench: Benchmarking and Improving the Robustness of Reward Models with Transformed Inputs](https://arxiv.org/abs/2503.11751)
 - [Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models](https://arxiv.org/abs/2504.20157) - nice area, but code not available yet it seems
 - [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949) - Nvidia, goes into technical details and implementation
-
+- [Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and RL](https://arxiv.org/abs/2505.02391)
+- 
 #### Topic - Surveys and reviews
 
 - [Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models](https://arxiv.org/abs/2501.09686)
 - [Reinforcement Learning Enhanced LLMs: A Survey](https://arxiv.org/abs/2412.10400)
 - [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419)
 - [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](https://arxiv.org/abs/2503.24235) - section 4.1 is on reasoning specifically but general paper is nicely organized and relevant
-- [Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and RL](https://arxiv.org/abs/2505.02391)
 
 #### Topic - Reasoning + Agents
 
