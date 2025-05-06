@@ -164,6 +164,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reinforcement Learning Enhanced LLMs: A Survey](https://arxiv.org/abs/2412.10400)
 - [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419)
 - [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](https://arxiv.org/abs/2503.24235) - section 4.1 is on reasoning specifically but general paper is nicely organized and relevant
+- [Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and RL](https://arxiv.org/abs/2505.02391)
 
 #### Topic - Reasoning + Agents
 
@@ -224,6 +225,7 @@ Experiments with reasoning models, training techniques, papers
 - [Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2504.11354) - Lean
 - [AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset](https://arxiv.org/abs/2504.16891) - Nvidia
 - [Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math](https://arxiv.org/abs/2504.21233) - Microsoft technical report
+- [FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models](https://arxiv.org/abs/2505.02735) - benchmark but technical report is nice, also there is a Github at [https://spherelab.ai/FormalMATH/](https://spherelab.ai/FormalMATH/)
 
 #### Topic - Coding
 
