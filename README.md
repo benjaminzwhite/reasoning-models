@@ -168,6 +168,7 @@ Experiments with reasoning models, training techniques, papers
 - [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/abs/2502.17419)
 - [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](https://arxiv.org/abs/2503.24235) - section 4.1 is on reasoning specifically but general paper is nicely organized and relevant
 - [Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey](https://arxiv.org/abs/2505.03418) - Zhejiang, mainly reasoning related topics
+- [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)
 
 #### Topic - Reasoning + Agents
 
