@@ -34,6 +34,7 @@ Experiments with reasoning models, training techniques, papers
 - [100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models](https://arxiv.org/abs/2505.00551) - nice review
 - [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073) - reasoning + agents, has Github and code etc.
 - [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - has a cool project page also [https://andrewzh112.github.io/absolute-zero-reasoner/](https://andrewzh112.github.io/absolute-zero-reasoner/)
+- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981) - Microsoft Research, they train entirely on text and find that reasoning transfers to multimodal (image) performance
 
 #### Topic - General or unsorted
 
@@ -160,6 +161,7 @@ Experiments with reasoning models, training techniques, papers
 - [Llama-Nemotron: Efficient Reasoning Models](https://arxiv.org/abs/2505.00949) - Nvidia, goes into technical details and implementation
 - [Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and RL](https://arxiv.org/abs/2505.02391)
 - [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/abs/2505.04588)
+- [Scalable Chain of Thoughts via Elastic Reasoning](https://arxiv.org/abs/2505.05315)
 
 #### Topic - Surveys and reviews
 
