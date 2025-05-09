@@ -171,6 +171,7 @@ Experiments with reasoning models, training techniques, papers
 - [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](https://arxiv.org/abs/2503.24235) - section 4.1 is on reasoning specifically but general paper is nicely organized and relevant
 - [Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey](https://arxiv.org/abs/2505.03418) - Zhejiang, mainly reasoning related topics
 - [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)
+- [Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models](https://arxiv.org/abs/2505.02686) - nice related topics in general about learning from rewards, also has nice Github [https://github.com/bobxwu/learning-from-rewards-llm-papers](https://github.com/bobxwu/learning-from-rewards-llm-papers)
 
 #### Topic - Reasoning + Agents
 
