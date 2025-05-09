@@ -233,6 +233,7 @@ Experiments with reasoning models, training techniques, papers
 - [AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset](https://arxiv.org/abs/2504.16891) - Nvidia
 - [Phi-4-Mini-Reasoning: Exploring the Limits of Small Reasoning Language Models in Math](https://arxiv.org/abs/2504.21233) - Microsoft technical report
 - [FormalMATH: Benchmarking Formal Mathematical Reasoning of Large Language Models](https://arxiv.org/abs/2505.02735) - benchmark but technical report is nice, also there is a Github at [https://spherelab.ai/FormalMATH/](https://spherelab.ai/FormalMATH/)
+- [CombiBench: Benchmarking LLM Capability for Combinatorial Mathematics](https://arxiv.org/abs/2505.03171) - finally some combinatorics :) seems like a difficult area, model performance on benchmark is quite low even with Kimina Prover
 
 #### Topic - Coding
 
