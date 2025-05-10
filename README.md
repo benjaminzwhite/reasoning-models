@@ -162,6 +162,8 @@ Experiments with reasoning models, training techniques, papers
 - [Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and RL](https://arxiv.org/abs/2505.02391)
 - [ZeroSearch: Incentivize the Search Capability of LLMs without Searching](https://arxiv.org/abs/2505.04588)
 - [Scalable Chain of Thoughts via Elastic Reasoning](https://arxiv.org/abs/2505.05315)
+- [LIMR: Less is More for RL Scaling](https://arxiv.org/abs/2502.11886)
+- [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](https://arxiv.org/abs/2503.02875)
 
 #### Topic - Surveys and reviews
 
