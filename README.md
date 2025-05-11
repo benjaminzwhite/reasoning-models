@@ -35,6 +35,7 @@ Experiments with reasoning models, training techniques, papers
 - [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073) - reasoning + agents, has Github and code etc.
 - [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - has a cool project page also [https://andrewzh112.github.io/absolute-zero-reasoner/](https://andrewzh112.github.io/absolute-zero-reasoner/)
 - [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981) - Microsoft Research, they train entirely on text and find that reasoning transfers to multimodal (image) performance
+- [Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers](https://arxiv.org/abs/2505.04842) - jointly train reasoner and verifier
 
 #### Topic - General or unsorted
 
