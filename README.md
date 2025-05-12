@@ -166,6 +166,7 @@ Experiments with reasoning models, training techniques, papers
 - [Scalable Chain of Thoughts via Elastic Reasoning](https://arxiv.org/abs/2505.05315)
 - [LIMR: Less is More for RL Scaling](https://arxiv.org/abs/2502.11886)
 - [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](https://arxiv.org/abs/2503.02875)
+- [Retro-Search: Exploring Untaken Paths for Deeper and Efficient Reasoning](https://arxiv.org/abs/2504.04383)
 
 #### Topic - Surveys and reviews
 
