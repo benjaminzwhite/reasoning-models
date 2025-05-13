@@ -167,6 +167,7 @@ Experiments with reasoning models, training techniques, papers
 - [LIMR: Less is More for RL Scaling](https://arxiv.org/abs/2502.11886)
 - [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](https://arxiv.org/abs/2503.02875)
 - [Retro-Search: Exploring Untaken Paths for Deeper and Efficient Reasoning](https://arxiv.org/abs/2504.04383)
+- [MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining](https://arxiv.org/abs/2505.07608) - Xiaomi, claims 7B performance >= to o1-mini
 
 #### Topic - Surveys and reviews
 
