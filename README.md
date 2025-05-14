@@ -169,6 +169,7 @@ Experiments with reasoning models, training techniques, papers
 - [Retro-Search: Exploring Untaken Paths for Deeper and Efficient Reasoning](https://arxiv.org/abs/2504.04383)
 - [MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining](https://arxiv.org/abs/2505.07608) - Xiaomi, claims 7B performance >= to o1-mini
 - [Learning from Peers in Reasoning Models](https://arxiv.org/abs/2505.07787)
+- [AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale](https://arxiv.org/abs/2505.08311)
 
 #### Topic - Surveys and reviews
 
@@ -265,6 +266,7 @@ TODO: expand with separate tags
 - [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)
 - [https://embodied-reasoner.github.io/](https://embodied-reasoner.github.io/)
 - [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://arxiv.org/abs/2504.05599)
+- [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/abs/2505.05464) - cool, claims transfering reasoning ability from LLM to VLM
 
 #### Topic - Adjacent subjects, maybe related
 
