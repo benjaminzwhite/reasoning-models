@@ -313,6 +313,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [LR2Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems](https://arxiv.org/abs/2502.17848)
 - [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239) - cool idea but no Github/access to benchmark yet? 
 - [CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges](https://arxiv.org/abs/2504.19093)
+- [DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models](https://arxiv.org/abs/2505.08744) - nice area, more creative reasoning about mathematical problems and deduction
 
 ---
 
