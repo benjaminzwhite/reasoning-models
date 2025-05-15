@@ -170,6 +170,7 @@ Experiments with reasoning models, training techniques, papers
 - [MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining](https://arxiv.org/abs/2505.07608) - Xiaomi, claims 7B performance >= to o1-mini
 - [Learning from Peers in Reasoning Models](https://arxiv.org/abs/2505.07787)
 - [AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale](https://arxiv.org/abs/2505.08311)
+- [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/abs/2505.09343) - DeepSeek, not directly about reasoning but nice technical comments
 
 #### Topic - Surveys and reviews
 
