@@ -172,6 +172,7 @@ Experiments with reasoning models, training techniques, papers
 - [AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale](https://arxiv.org/abs/2505.08311)
 - [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/abs/2505.09343) - DeepSeek, not directly about reasoning but nice technical comments
 - [Kalman Filter Enhanced GRPO for Reinforcement Learning-Based Language Model Reasoning](https://arxiv.org/abs/2505.07527)
+- [The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think](https://arxiv.org/abs/2505.10185)
 
 #### Topic - Surveys and reviews
 
