@@ -171,6 +171,7 @@ Experiments with reasoning models, training techniques, papers
 - [Learning from Peers in Reasoning Models](https://arxiv.org/abs/2505.07787)
 - [AM-Thinking-v1: Advancing the Frontier of Reasoning at 32B Scale](https://arxiv.org/abs/2505.08311)
 - [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/abs/2505.09343) - DeepSeek, not directly about reasoning but nice technical comments
+- [Kalman Filter Enhanced GRPO for Reinforcement Learning-Based Language Model Reasoning](https://arxiv.org/abs/2505.07527)
 
 #### Topic - Surveys and reviews
 
@@ -250,6 +251,10 @@ Experiments with reasoning models, training techniques, papers
 - [S*: Test Time Scaling for Code Generation](https://arxiv.org/abs/2502.14382)
 - [Learning to Solve and Verify: A Self-Play Framework for Code and Test Generation](https://arxiv.org/abs/2502.14948) - not directly about reasoning but nice approach
 - [Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning](https://arxiv.org/abs/2503.14838)
+
+#### Topic - Biology
+
+- [BioProBench: Comprehensive Dataset and Benchmark in Biological Protocol Understanding and Reasoning](https://arxiv.org/abs/2505.07889) - really cool area
 
 #### Topic - Other specialized reasoning areas (medical, legal, etc.)
 
