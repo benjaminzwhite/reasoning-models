@@ -173,6 +173,7 @@ Experiments with reasoning models, training techniques, papers
 - [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/abs/2505.09343) - DeepSeek, not directly about reasoning but nice technical comments
 - [Kalman Filter Enhanced GRPO for Reinforcement Learning-Based Language Model Reasoning](https://arxiv.org/abs/2505.07527)
 - [The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think](https://arxiv.org/abs/2505.10185)
+- [ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts](https://arxiv.org/abs/2505.10010) - nice approach, added since may be useful for reasoning models and RL
 
 #### Topic - Surveys and reviews
 
