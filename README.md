@@ -174,6 +174,7 @@ Experiments with reasoning models, training techniques, papers
 - [Kalman Filter Enhanced GRPO for Reinforcement Learning-Based Language Model Reasoning](https://arxiv.org/abs/2505.07527)
 - [The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think](https://arxiv.org/abs/2505.10185)
 - [ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts](https://arxiv.org/abs/2505.10010) - nice approach, added since may be useful for reasoning models and RL
+- [How Difficulty-Aware Staged Reinforcement Learning Enhances LLMs' Reasoning Capabilities: A Preliminary Experimental Study](https://arxiv.org/abs/2504.00829)
 
 #### Topic - Surveys and reviews
 
