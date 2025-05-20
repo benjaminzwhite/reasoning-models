@@ -176,6 +176,7 @@ Experiments with reasoning models, training techniques, papers
 - [ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts](https://arxiv.org/abs/2505.10010) - nice approach, added since may be useful for reasoning models and RL
 - [How Difficulty-Aware Staged Reinforcement Learning Enhances LLMs' Reasoning Capabilities: A Preliminary Experimental Study](https://arxiv.org/abs/2504.00829)
 - [Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models](https://arxiv.org/abs/2505.10554)
+- [AdaptThink: Reasoning Models Can Learn When to Think](https://arxiv.org/abs/2505.13417)
 
 #### Topic - Surveys and reviews
 
