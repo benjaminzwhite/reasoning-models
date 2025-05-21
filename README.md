@@ -178,6 +178,8 @@ Experiments with reasoning models, training techniques, papers
 - [Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models](https://arxiv.org/abs/2505.10554)
 - [AdaptThink: Reasoning Models Can Learn When to Think](https://arxiv.org/abs/2505.13417)
 - [Optimizing Anytime Reasoning via Budget Relative Policy Optimization](https://arxiv.org/abs/2505.13438)
+- [Reward Reasoning Model](https://arxiv.org/abs/2505.14674)
+- [General-Reasoner: Advancing LLM Reasoning Across All Domains](https://arxiv.org/abs/2505.14652)
 
 #### Topic - Surveys and reviews
 
