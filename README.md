@@ -37,6 +37,7 @@ Experiments with reasoning models, training techniques, papers
 - [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981) - Microsoft Research, they train entirely on text and find that reasoning transfers to multimodal (image) performance
 - [Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers](https://arxiv.org/abs/2505.04842) - jointly train reasoner and verifier
 - [Reinforcement Learning: A Comprehensive Overview](https://arxiv.org/abs/2412.05265) - entire book by Kevin P Murphy (probabilistic machine learning author); not entirely about reasoning models but has nice sections on RL+LLMs and related subjects
+- [Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space](https://arxiv.org/abs/2505.13308) - seems to be training-free, need to re-read to be clear
 
 #### Topic - General or unsorted
 
@@ -212,6 +213,7 @@ Experiments with reasoning models, training techniques, papers
 
 - [Path-of-Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models](https://arxiv.org/abs/2412.17963)
 - [Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning](https://arxiv.org/abs/2412.09078)
+- [AdaCoT: Pareto-Optimal Adaptive Chain-of-Thought Triggering via Reinforcement Learning](https://arxiv.org/abs/2505.11896)
 
 #### Topic - Efficiency, Decoding Strategies, Implementation Tricks etc.
 
@@ -328,6 +330,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](https://arxiv.org/abs/2504.11239) - cool idea but no Github/access to benchmark yet? 
 - [CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges](https://arxiv.org/abs/2504.19093)
 - [DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models](https://arxiv.org/abs/2505.08744) - nice area, more creative reasoning about mathematical problems and deduction
+- [R2MED: A Benchmark for Reasoning-Driven Medical Retrieval](https://arxiv.org/abs/2505.14558)
 
 ---
 
