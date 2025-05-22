@@ -38,6 +38,7 @@ Experiments with reasoning models, training techniques, papers
 - [Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers](https://arxiv.org/abs/2505.04842) - jointly train reasoner and verifier
 - [Reinforcement Learning: A Comprehensive Overview](https://arxiv.org/abs/2412.05265) - entire book by Kevin P Murphy (probabilistic machine learning author); not entirely about reasoning models but has nice sections on RL+LLMs and related subjects
 - [Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space](https://arxiv.org/abs/2505.13308) - seems to be training-free, need to re-read to be clear
+- [lmgame-Bench: How Good are LLMs at Playing Games?](https://arxiv.org/abs/2505.15146) - not entirely about reasoning, but all the best performing models are reasoning models (o3 etc.) and I really like the paper, especially the correlation studies with tasks in Table/Figure 3, and the general area
 
 #### Topic - General or unsorted
 
