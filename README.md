@@ -353,7 +353,8 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 
 #### Workshops
 
-- [Reasoning and Planning for Large Language Models, ICLR 2025, April 28 2025, Singapore](https://workshop-llm-reasoning-planning.github.io/) - 
+- [Reasoning and Planning for Large Language Models, ICLR 2025, April 28 2025, Singapore](https://workshop-llm-reasoning-planning.github.io/)
+- [XLLM @ ACL 2025 Shared Task-III: LLM for Structural Reasoning (LLM-SR)](https://xllms.github.io/LLMSR/) - saw several papers and submissions to this, e.g. [LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation](https://arxiv.org/abs/2504.16408) and [LLMSR@XLLM25: An Empirical Study of LLM for Structural Reasoning](https://arxiv.org/abs/2505.12328)
 
 ---
 
