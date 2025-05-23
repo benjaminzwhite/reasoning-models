@@ -183,6 +183,8 @@ Experiments with reasoning models, training techniques, papers
 - [Optimizing Anytime Reasoning via Budget Relative Policy Optimization](https://arxiv.org/abs/2505.13438)
 - [Reward Reasoning Model](https://arxiv.org/abs/2505.14674)
 - [General-Reasoner: Advancing LLM Reasoning Across All Domains](https://arxiv.org/abs/2505.14652)
+- [Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning](https://arxiv.org/abs/2505.16410)
+- [Training Step-Level Reasoning Verifiers with Formal Verification Tools](https://arxiv.org/abs/2505.15960)
 
 #### Topic - Surveys and reviews
 
