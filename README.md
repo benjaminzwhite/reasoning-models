@@ -209,6 +209,7 @@ Experiments with reasoning models, training techniques, papers
 - [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160) - deep research, does have a reasoning type model involved for planning stage
 - [DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2503.00223) - results seem good
 - [ReasonIR: Training Retrievers for Reasoning Tasks](https://arxiv.org/abs/2504.20595) - uses BRIGHT benchmark
+- [An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents](https://arxiv.org/abs/2505.15117) - follow-up to Search-R1 paper
 
 #### Topic - X of Thoughts variants
 
