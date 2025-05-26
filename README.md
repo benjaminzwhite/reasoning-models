@@ -216,6 +216,8 @@ Experiments with reasoning models, training techniques, papers
 - [DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2503.00223) - results seem good
 - [ReasonIR: Training Retrievers for Reasoning Tasks](https://arxiv.org/abs/2504.20595) - uses BRIGHT benchmark
 - [An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents](https://arxiv.org/abs/2505.15117) - follow-up to Search-R1 paper
+- [FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS](https://arxiv.org/abs/2505.16409)
+- [ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.15776)
 
 #### Topic - X of Thoughts variants
 
