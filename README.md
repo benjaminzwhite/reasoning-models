@@ -186,6 +186,8 @@ Experiments with reasoning models, training techniques, papers
 - [Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning](https://arxiv.org/abs/2505.16410)
 - [Training Step-Level Reasoning Verifiers with Formal Verification Tools](https://arxiv.org/abs/2505.15960)
 - [The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning](https://arxiv.org/abs/2505.15134) - they claim a training-free approach that uses inference-time modifications to logits that boosts "reasoning" dataset performance, amongst other things
+- [QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2505.17667)
+- [VeriThinker: Learning to Verify Makes Reasoning Model Efficient](https://arxiv.org/abs/2505.17941)
 
 #### Topic - Surveys and reviews
 
