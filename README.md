@@ -40,6 +40,7 @@ Experiments with reasoning models, training techniques, papers
 - [Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space](https://arxiv.org/abs/2505.13308) - seems to be training-free, need to re-read to be clear
 - [lmgame-Bench: How Good are LLMs at Playing Games?](https://arxiv.org/abs/2505.15146) - not entirely about reasoning, but all the best performing models are reasoning models (o3 etc.) and I really like the paper, especially the correlation studies with tasks in Table/Figure 3, and the general area
 - [DisCO: Reinforcing Large Reasoning Models with Discriminative Constrained Optimization](https://arxiv.org/abs/2505.12366) - looks like interesting approach/alternative to GRPO, need to implement and test
+- [Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles](https://arxiv.org/abs/2505.19914) - cool, training with logic puzzles, shows generalization to coding and mathematics; has a benchmark also
 
 #### Topic - General or unsorted
 
@@ -188,6 +189,7 @@ Experiments with reasoning models, training techniques, papers
 - [The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning](https://arxiv.org/abs/2505.15134) - they claim a training-free approach that uses inference-time modifications to logits that boosts "reasoning" dataset performance, amongst other things
 - [QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2505.17667)
 - [VeriThinker: Learning to Verify Makes Reasoning Model Efficient](https://arxiv.org/abs/2505.17941)
+- [ARM: Adaptive Reasoning Model](https://arxiv.org/abs/2505.20258)
 
 #### Topic - Surveys and reviews
 
