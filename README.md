@@ -190,6 +190,7 @@ Experiments with reasoning models, training techniques, papers
 - [QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning](https://arxiv.org/abs/2505.17667)
 - [VeriThinker: Learning to Verify Makes Reasoning Model Efficient](https://arxiv.org/abs/2505.17941)
 - [ARM: Adaptive Reasoning Model](https://arxiv.org/abs/2505.20258)
+- [ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning](https://arxiv.org/abs/2504.21370)
 
 #### Topic - Surveys and reviews
 
