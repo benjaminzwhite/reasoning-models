@@ -41,6 +41,7 @@ Experiments with reasoning models, training techniques, papers
 - [lmgame-Bench: How Good are LLMs at Playing Games?](https://arxiv.org/abs/2505.15146) - not entirely about reasoning, but all the best performing models are reasoning models (o3 etc.) and I really like the paper, especially the correlation studies with tasks in Table/Figure 3, and the general area
 - [DisCO: Reinforcing Large Reasoning Models with Discriminative Constrained Optimization](https://arxiv.org/abs/2505.12366) - looks like interesting approach/alternative to GRPO, need to implement and test
 - [Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles](https://arxiv.org/abs/2505.19914) - cool, training with logic puzzles, shows generalization to coding and mathematics; has a benchmark also
+- [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590) - "We propose Intuitor, an RLIF method that uses a model's own confidence, termed self-certainty, as its sole reward signal. Intuitor replaces external rewards in Group Relative Policy Optimization (GRPO) with self-certainty scores, enabling fully unsupervised learning. Experiments demonstrate that Intuitor matches GRPO's performance on mathematical benchmarks while achieving superior generalization to out-of-domain tasks like code generation, without requiring gold solutions or test cases."
 
 #### Topic - General or unsorted
 
