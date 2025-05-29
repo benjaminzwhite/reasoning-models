@@ -194,6 +194,7 @@ Experiments with reasoning models, training techniques, papers
 - [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://arxiv.org/abs/2505.19641)
 - [rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset](https://arxiv.org/abs/2505.21297) - Microsoft, but code/dataset isn't available yet
 - [RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning](https://arxiv.org/abs/2505.15034)
+- [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -310,6 +311,7 @@ TODO: expand with separate tags
 - [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://arxiv.org/abs/2504.05599)
 - [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/abs/2505.05464) - cool, claims transfering reasoning ability from LLM to VLM
 - [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) - Zhejiang and Ant Group, really cool
+- [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453)
 
 #### Topic - Adjacent subjects, maybe related
 
