@@ -195,6 +195,7 @@ Experiments with reasoning models, training techniques, papers
 - [rStar-Coder: Scaling Competitive Code Reasoning with a Large-Scale Verified Dataset](https://arxiv.org/abs/2505.21297) - Microsoft, but code/dataset isn't available yet
 - [RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning](https://arxiv.org/abs/2505.15034)
 - [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)
+- [Are Reasoning Models More Prone to Hallucination?](https://arxiv.org/abs/2505.23646)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
