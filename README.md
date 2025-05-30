@@ -375,6 +375,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Shunyu Yao - The Second Half](https://ysymyth.github.io/The-Second-Half/) - awesome blog on status of reinforcement learning as of April 2025 by OpenAI researcher
 - [ServiceNow Reseach - PipelineRL](https://huggingface.co/blog/ServiceNow/pipelinerl) - We are excited to open-source PipelineRL, an experimental RL implementation that tackles a fundamental challenge in large-scale Reinforcement Learning with LLMs: the trade-off between inference throughput and on-policy data collection. PipelineRL's key innovation is inflight weight updates during RL training. This allows PipelineRL to achieve constantly high inference throughput and minimize the lag between the weights used for rollouts and the most recently updated model weights. The result: fast and stable RL training for large language models.
 - [OpenAI's o3: Over-optimization is back and weirder than ever](https://www.interconnects.ai/p/openais-o3-over-optimization-is-back) - Nathan Lambert blog
+- [Reinforcement learning with random rewards actually works with Qwen 2.5](https://www.interconnects.ai/p/reinforcement-learning-with-random) - Nathan Lambert blog, see new papers Topic about "Verifier-free RL and approaches without External Rewards" above in main section
 
 #### Workshops
 
