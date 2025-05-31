@@ -41,6 +41,7 @@ Experiments with reasoning models, training techniques, papers
 - [lmgame-Bench: How Good are LLMs at Playing Games?](https://arxiv.org/abs/2505.15146) - not entirely about reasoning, but all the best performing models are reasoning models (o3 etc.) and I really like the paper, especially the correlation studies with tasks in Table/Figure 3, and the general area
 - [DisCO: Reinforcing Large Reasoning Models with Discriminative Constrained Optimization](https://arxiv.org/abs/2505.12366) - looks like interesting approach/alternative to GRPO, need to implement and test
 - [Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles](https://arxiv.org/abs/2505.19914) - cool, training with logic puzzles, shows generalization to coding and mathematics; has a benchmark also
+- [DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning](https://arxiv.org/abs/2505.23754) - Tencent, nice approach and methods
 
 #### Topic - General or unsorted
 
@@ -196,6 +197,7 @@ Experiments with reasoning models, training techniques, papers
 - [RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning](https://arxiv.org/abs/2505.15034)
 - [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)
 - [Are Reasoning Models More Prone to Hallucination?](https://arxiv.org/abs/2505.23646)
+- [LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling](https://arxiv.org/abs/2505.19187)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -234,6 +236,7 @@ Experiments with reasoning models, training techniques, papers
 - [An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents](https://arxiv.org/abs/2505.15117) - follow-up to Search-R1 paper
 - [FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS](https://arxiv.org/abs/2505.16409)
 - [ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.15776)
+- [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.22019) - multimodal
 
 #### Topic - X of Thoughts variants
 
