@@ -199,6 +199,8 @@ Experiments with reasoning models, training techniques, papers
 - [Are Reasoning Models More Prone to Hallucination?](https://arxiv.org/abs/2505.23646)
 - [LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling](https://arxiv.org/abs/2505.19187)
 - [R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing](https://arxiv.org/abs/2505.21600) - Tsinghua, cool test-time scaling approach using SLM and larger LLM
+- [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - theoretical paper, need to reread carefully
+- [Pitfalls of Rule- and Model-based Verifiers -- A Case Study on Mathematical Reasoning](https://arxiv.org/abs/2505.22203) - they study the pros and cons of different verifiers when doing RL; the focus in on mathematical dataset/examples but it seems broadly applicable to RLVR
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
