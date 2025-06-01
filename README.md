@@ -198,6 +198,7 @@ Experiments with reasoning models, training techniques, papers
 - [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)
 - [Are Reasoning Models More Prone to Hallucination?](https://arxiv.org/abs/2505.23646)
 - [LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling](https://arxiv.org/abs/2505.19187)
+- [R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing](https://arxiv.org/abs/2505.21600) - Tsinghua, cool test-time scaling approach using SLM and larger LLM
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
