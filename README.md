@@ -201,6 +201,7 @@ Experiments with reasoning models, training techniques, papers
 - [R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing](https://arxiv.org/abs/2505.21600) - Tsinghua, cool test-time scaling approach using SLM and larger LLM
 - [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - theoretical paper, need to reread carefully
 - [Pitfalls of Rule- and Model-based Verifiers -- A Case Study on Mathematical Reasoning](https://arxiv.org/abs/2505.22203) - they study the pros and cons of different verifiers when doing RL; the focus in on mathematical dataset/examples but it seems broadly applicable to RLVR
+- [System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts](https://arxiv.org/abs/2505.18962) - CoCoNut paper related, see also review paper Reasoning Beyond Language linked below
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -219,6 +220,7 @@ Experiments with reasoning models, training techniques, papers
 - [Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey](https://arxiv.org/abs/2505.03418) - Zhejiang, mainly reasoning related topics
 - [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)
 - [Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models](https://arxiv.org/abs/2505.02686) - nice related topics in general about learning from rewards, also has nice Github [https://github.com/bobxwu/learning-from-rewards-llm-papers](https://github.com/bobxwu/learning-from-rewards-llm-papers)
+- [Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.16782) - CoCoNut type experiments on latent space reasoning etc.
 
 #### Topic - Tool Use/Function Calling
 
