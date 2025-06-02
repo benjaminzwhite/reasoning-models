@@ -220,6 +220,10 @@ Experiments with reasoning models, training techniques, papers
 - [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)
 - [Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models](https://arxiv.org/abs/2505.02686) - nice related topics in general about learning from rewards, also has nice Github [https://github.com/bobxwu/learning-from-rewards-llm-papers](https://github.com/bobxwu/learning-from-rewards-llm-papers)
 
+#### Topic - Tool Use/Function Calling
+
+- [FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement](https://arxiv.org/abs/2505.20192) - general methodology
+
 #### Topic - Reasoning + Agents
 
 - [ATLaS: Agent Tuning via Learning Critical Steps](https://arxiv.org/abs/2503.02197)
