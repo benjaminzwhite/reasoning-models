@@ -44,6 +44,7 @@ Experiments with reasoning models, training techniques, papers
 - [DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning](https://arxiv.org/abs/2505.23754) - Tencent, nice approach and methods
 - [Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs](https://arxiv.org/abs/2505.19075) - looks good, approach works with frozen models but I didn't understand training on first reading so need to restudy paper
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864) - Nvidia/Nemotron team, model is here [https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)
+- [REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2505.24760) - nice Python library to check out, Github is here [https://github.com/open-thought/reasoning-gym](https://github.com/open-thought/reasoning-gym)
 
 #### Topic - General or unsorted
 
