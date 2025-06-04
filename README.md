@@ -205,6 +205,7 @@ Experiments with reasoning models, training techniques, papers
 - [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - theoretical paper, need to reread carefully
 - [Pitfalls of Rule- and Model-based Verifiers -- A Case Study on Mathematical Reasoning](https://arxiv.org/abs/2505.22203) - they study the pros and cons of different verifiers when doing RL; the focus in on mathematical dataset/examples but it seems broadly applicable to RLVR
 - [System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts](https://arxiv.org/abs/2505.18962) - CoCoNut paper related, see also review paper Reasoning Beyond Language linked below
+- [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
