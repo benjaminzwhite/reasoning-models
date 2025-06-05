@@ -207,6 +207,7 @@ Experiments with reasoning models, training techniques, papers
 - [System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts](https://arxiv.org/abs/2505.18962) - CoCoNut paper related, see also review paper Reasoning Beyond Language linked below
 - [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939)
 - [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298)
+- [Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](https://arxiv.org/abs/2506.01413)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
