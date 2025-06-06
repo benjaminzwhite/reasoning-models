@@ -321,6 +321,7 @@ Experiments with reasoning models, training techniques, papers
 - [DianJin-R1: Evaluating and Enhancing Financial Reasoning in Large Language Models](https://arxiv.org/abs/2504.15716) - Qwen team
 - [MedCaseReasoning: Evaluating and learning diagnostic reasoning from clinical case reports](https://arxiv.org/abs/2505.11733)
 - [CodeV-R1: Reasoning-Enhanced Verilog Generation](https://arxiv.org/abs/2505.24183) - hardware design language HDL
+- [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale](https://arxiv.org/abs/2506.04405)
 
 #### Topic - Multimodal
 
@@ -332,6 +333,10 @@ TODO: expand with separate tags
 - [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/abs/2505.05464) - cool, claims transfering reasoning ability from LLM to VLM
 - [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) - Zhejiang and Ant Group, really cool
 - [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453)
+
+#### Topic - Robotics
+
+- [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308)
 
 #### Topic - Adjacent subjects, maybe related
 
