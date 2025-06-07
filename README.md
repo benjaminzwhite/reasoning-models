@@ -208,6 +208,7 @@ Experiments with reasoning models, training techniques, papers
 - [Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939)
 - [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298)
 - [Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](https://arxiv.org/abs/2506.01413)
+- [R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning](https://arxiv.org/abs/2505.21668)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -252,6 +253,7 @@ Experiments with reasoning models, training techniques, papers
 - [FREESON: Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS](https://arxiv.org/abs/2505.16409)
 - [ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.15776)
 - [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.22019) - multimodal
+- [From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval](https://arxiv.org/abs/2505.23059) - uses BRIGHT benchmark, defines a refine and rerank operation that they use to cut down token use compared to CoT
 
 #### Topic - X of Thoughts variants
 
