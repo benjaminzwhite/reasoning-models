@@ -46,6 +46,7 @@ Experiments with reasoning models, training techniques, papers
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864) - Nvidia/Nemotron team, model is here [https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)
 - [REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2505.24760) - nice Python library to check out, Github is here [https://github.com/open-thought/reasoning-gym](https://github.com/open-thought/reasoning-gym)
 - [Spurious Rewards: Rethinking Training Signals in RLVR](https://rethink-rlvr.notion.site/Spurious-Rewards-Rethinking-Training-Signals-in-RLVR-1f4df34dac1880948858f95aeb88872f) - blog for their paper; "We show that you can do RLVR on Qwen2.5-Math models with completely random or incorrect rewards, and still get massive math benchmark gains."
+- [OpenThoughts: Data Recipes for Reasoning Models](https://arxiv.org/abs/2506.04178) - cool project and organization, they have a project page [https://www.openthoughts.ai/](https://www.openthoughts.ai/)
 
 #### Topic - General or unsorted
 
