@@ -256,6 +256,7 @@ Experiments with reasoning models, training techniques, papers
 - [ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.15776)
 - [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.22019) - multimodal
 - [From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval](https://arxiv.org/abs/2505.23059) - uses BRIGHT benchmark, defines a refine and rerank operation that they use to cut down token use compared to CoT
+- [R2ec : Towards Large Recommender Models with Reasoning](https://arxiv.org/abs/2505.16994) - use reasoning for recommendation systems
 
 #### Topic - X of Thoughts variants
 
