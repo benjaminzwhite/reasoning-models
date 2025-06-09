@@ -240,6 +240,7 @@ Experiments with reasoning models, training techniques, papers
 - [ATLaS: Agent Tuning via Learning Critical Steps](https://arxiv.org/abs/2503.02197)
 - [Agent models: Internalizing Chain-of-Action Generation into Reasoning models](https://arxiv.org/abs/2503.06580)
 - [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://arxiv.org/abs/2502.08235)
+- [Distilling LLM Agent into Small Models with Retrieval and Code Tools](https://arxiv.org/abs/2505.17612) - nice, not stricty about agents but more about distillation; read this comment on HF for quick summary [https://huggingface.co/posts/m-ric/682683815641001](https://huggingface.co/posts/m-ric/682683815641001); "when trying to distil reasoning capability from a strong LLM ("teacher") into a smaller one ("student"), it's much better to use Agent traces than CoT traces."
 
 #### Topic - Information retrieval and search
 
