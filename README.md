@@ -47,7 +47,8 @@ Experiments with reasoning models, training techniques, papers
 - [REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2505.24760) - nice Python library to check out, Github is here [https://github.com/open-thought/reasoning-gym](https://github.com/open-thought/reasoning-gym)
 - [Spurious Rewards: Rethinking Training Signals in RLVR](https://rethink-rlvr.notion.site/Spurious-Rewards-Rethinking-Training-Signals-in-RLVR-1f4df34dac1880948858f95aeb88872f) - blog for their paper; "We show that you can do RLVR on Qwen2.5-Math models with completely random or incorrect rewards, and still get massive math benchmark gains."
 - [OpenThoughts: Data Recipes for Reasoning Models](https://arxiv.org/abs/2506.04178) - cool project and organization, they have a project page [https://www.openthoughts.ai/](https://www.openthoughts.ai/)
-- [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011) - nice, they find that just by training on video games you get out of domain performance improvements (i.e. on mathematics); it would be cool to see more of the results about "game feature vs. out of domain improvement" (at the end of the paper - basically it seems that if you train on games that have a "spatial" component, the mathematics improves on "geometry" tasks)
+- [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011) - nice, they find that just by training on video games you get out of domain performance improvements (i.e. on mathematics); it would be cool to see more of the results about "game feature vs. out of domain improvement" (at the end of the paper - basically it seems that if you train on games that have a "spatial" component, the mathematics improves on "geometry" tasks for example)
+- [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) - from the abstract: "Specifically, we reframe next-token prediction as a reasoning task trained using RL, where it receives verifiable rewards for correctly predicting the next token for a given context. RPT offers a scalable method to leverage vast amounts of text data for general-purpose RL, rather than relying on domain-specific annotated answers."
 
 #### Topic - General or unsorted
 
@@ -330,6 +331,7 @@ Experiments with reasoning models, training techniques, papers
 - [MedCaseReasoning: Evaluating and learning diagnostic reasoning from clinical case reports](https://arxiv.org/abs/2505.11733)
 - [CodeV-R1: Reasoning-Enhanced Verilog Generation](https://arxiv.org/abs/2505.24183) - hardware design language HDL
 - [MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale](https://arxiv.org/abs/2506.04405)
+- [Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044)
 
 #### Topic - Multimodal
 
