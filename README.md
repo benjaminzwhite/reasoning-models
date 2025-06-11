@@ -213,6 +213,7 @@ Experiments with reasoning models, training techniques, papers
 - [AReaL: A Large-Scale Asynchronous Reinforcement Learning System for Language Reasoning](https://arxiv.org/abs/2505.24298)
 - [Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](https://arxiv.org/abs/2506.01413)
 - [R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning](https://arxiv.org/abs/2505.21668)
+- [RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling](https://arxiv.org/abs/2506.08672)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
