@@ -309,6 +309,7 @@ Experiments with reasoning models, training techniques, papers
 - [CombiBench: Benchmarking LLM Capability for Combinatorial Mathematics](https://arxiv.org/abs/2505.03171) - finally some combinatorics :) seems like a difficult area, model performance on benchmark is quite low even with Kimina Prover
 - [MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation](https://arxiv.org/abs/2505.10962)
 - [DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning](https://arxiv.org/abs/2505.23754)
+- [Mathesis: Towards Formal Theorem Proving from Natural Languages](https://arxiv.org/abs/2506.07047)
 
 #### Topic - Coding
 
