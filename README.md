@@ -281,6 +281,7 @@ Experiments with reasoning models, training techniques, papers
 - [Efficient Inference for Large Reasoning Models: A Survey](https://arxiv.org/abs/2503.23077) - Github [https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs](https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs)
 - [Hawkeye:Efficient Reasoning with Model Collaboration](https://arxiv.org/abs/2504.00424) - uses a Qwen 0.5B SLM to speed up reasoning
 - [SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891)
+- [SeerAttention-R: Sparse Attention Adaptation for Long Reasoning](https://arxiv.org/abs/2506.08889) - Microsoft Research; uses [https://github.com/tile-ai/tilelang](https://github.com/tile-ai/tilelang) that I need to learn about also O_o
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
