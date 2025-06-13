@@ -214,6 +214,7 @@ Experiments with reasoning models, training techniques, papers
 - [Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models](https://arxiv.org/abs/2506.01413)
 - [R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning](https://arxiv.org/abs/2505.21668)
 - [RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling](https://arxiv.org/abs/2506.08672)
+- [Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation](https://arxiv.org/abs/2506.09991)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
