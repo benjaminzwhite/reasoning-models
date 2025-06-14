@@ -49,6 +49,7 @@ Experiments with reasoning models, training techniques, papers
 - [OpenThoughts: Data Recipes for Reasoning Models](https://arxiv.org/abs/2506.04178) - cool project and organization, they have a project page [https://www.openthoughts.ai/](https://www.openthoughts.ai/)
 - [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011) - nice, they find that just by training on video games you get out of domain performance improvements (i.e. on mathematics); it would be cool to see more of the results about "game feature vs. out of domain improvement" (at the end of the paper - basically it seems that if you train on games that have a "spatial" component, the mathematics improves on "geometry" tasks for example)
 - [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) - from the abstract: "Specifically, we reframe next-token prediction as a reasoning task trained using RL, where it receives verifiable rewards for correctly predicting the next token for a given context. RPT offers a scalable method to leverage vast amounts of text data for general-purpose RL, rather than relying on domain-specific annotated answers."
+- [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820) - USTC/Qwen team
 
 #### Topic - General or unsorted
 
@@ -349,6 +350,7 @@ TODO: expand with separate tags
 - [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/abs/2505.05464) - cool, claims transfering reasoning ability from LLM to VLM
 - [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) - Zhejiang and Ant Group, really cool
 - [Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO](https://arxiv.org/abs/2505.22453)
+- [VideoDeepResearch: Long Video Understanding With Agentic Tool Using](https://arxiv.org/abs/2506.10821) - "Our approach relies solely on a text-only large reasoning model (LRM) combined with a modular multi-modal toolkit, including multimodal retrievers and visual perceivers, all of which are readily available in practice. For each LVU task, the system formulates a problem-solving strategy through reasoning, while selectively accessing and utilizing essential video content via tool using."
 
 #### Topic - Robotics
 
