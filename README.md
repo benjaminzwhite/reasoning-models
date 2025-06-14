@@ -50,6 +50,7 @@ Experiments with reasoning models, training techniques, papers
 - [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011) - nice, they find that just by training on video games you get out of domain performance improvements (i.e. on mathematics); it would be cool to see more of the results about "game feature vs. out of domain improvement" (at the end of the paper - basically it seems that if you train on games that have a "spatial" component, the mathematics improves on "geometry" tasks for example)
 - [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) - from the abstract: "Specifically, we reframe next-token prediction as a reasoning task trained using RL, where it receives verifiable rewards for correctly predicting the next token for a given context. RPT offers a scalable method to leverage vast amounts of text data for general-purpose RL, rather than relying on domain-specific annotated answers."
 - [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820) - USTC/Qwen team
+- [Resa: Transparent Reasoning Models via SAEs](https://arxiv.org/abs/2506.09967)
 
 #### Topic - General or unsorted
 
