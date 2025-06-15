@@ -51,6 +51,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) - from the abstract: "Specifically, we reframe next-token prediction as a reasoning task trained using RL, where it receives verifiable rewards for correctly predicting the next token for a given context. RPT offers a scalable method to leverage vast amounts of text data for general-purpose RL, rather than relying on domain-specific annotated answers."
 - [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820) - USTC/Qwen team
 - [Resa: Transparent Reasoning Models via SAEs](https://arxiv.org/abs/2506.09967)
+- [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790) - Alibaba; really cool
 
 #### Topic - General or unsorted
 
