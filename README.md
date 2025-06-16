@@ -286,6 +286,7 @@ Experiments with reasoning models, training techniques, papers
 - [Hawkeye:Efficient Reasoning with Model Collaboration](https://arxiv.org/abs/2504.00424) - uses a Qwen 0.5B SLM to speed up reasoning
 - [SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891)
 - [SeerAttention-R: Sparse Attention Adaptation for Long Reasoning](https://arxiv.org/abs/2506.08889) - Microsoft Research; uses [https://github.com/tile-ai/tilelang](https://github.com/tile-ai/tilelang) that I need to learn about also O_o
+- [R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration](https://arxiv.org/abs/2505.24133)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
