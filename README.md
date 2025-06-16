@@ -324,6 +324,7 @@ Experiments with reasoning models, training techniques, papers
 - [S*: Test Time Scaling for Code Generation](https://arxiv.org/abs/2502.14382)
 - [Learning to Solve and Verify: A Self-Play Framework for Code and Test Generation](https://arxiv.org/abs/2502.14948) - not directly about reasoning but nice approach
 - [Think Like Human Developers: Harnessing Community Knowledge for Structured Code Reasoning](https://arxiv.org/abs/2503.14838)
+- [LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?](https://arxiv.org/abs/2506.11928)
 
 #### Topic - Biology
 
