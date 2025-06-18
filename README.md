@@ -219,6 +219,7 @@ Experiments with reasoning models, training techniques, papers
 - [RuleReasoner: Reinforced Rule-based Reasoning via Domain-aware Dynamic Sampling](https://arxiv.org/abs/2506.08672)
 - [Multiverse: Your Language Models Secretly Decide How to Parallelize and Merge Generation](https://arxiv.org/abs/2506.09991)
 - [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585)
+- [AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy](https://arxiv.org/abs/2506.13284) - Nvidia; nice improvements since 1.0 model (still 7B based on Qwen 2.5)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
