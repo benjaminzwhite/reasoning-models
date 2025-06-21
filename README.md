@@ -223,6 +223,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reinforcement Learning with Verifiable Rewards Implicitly Incentivizes Correct Reasoning in Base LLMs](https://arxiv.org/abs/2506.14245)
 - [ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning in LLMs](https://arxiv.org/abs/2506.15211) -  ByteDance; "... we propose ProtoReasoning, a framework that enhances the reasoning ability of LLMs by leveraging scalable and verifiable prototypical representations (Prolog for logical reasoning, PDDL for planning) ... Significantly, our ablation studies confirm that learning in prototype space also demonstrates enhanced generalization to structurally similar problems compared to training solely on natural language representations, validating our hypothesis that reasoning prototypes serve as the foundation for generalizable reasoning in large language models."
 - [Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective](https://arxiv.org/abs/2506.14965) - links to nice Github pages also [https://guru-reasoning.github.io/](https://guru-reasoning.github.io/) and [https://github.com/LLM360/Reasoning360](https://github.com/LLM360/Reasoning360)
+- [Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards](https://arxiv.org/abs/2505.04671)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
