@@ -52,6 +52,7 @@ Experiments with reasoning models, training techniques, papers
 - [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820) - USTC/Qwen team
 - [Resa: Transparent Reasoning Models via SAEs](https://arxiv.org/abs/2506.09967)
 - [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790) - Alibaba; really cool
+- [A taxonomy for next-generation reasoning models - Where we've been and where we're going with RLVR](https://www.interconnects.ai/p/next-gen-reasoners) - Nathan Lambert blog; really good overview as of June 2025
 
 #### Topic - General or unsorted
 
