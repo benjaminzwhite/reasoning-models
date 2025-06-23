@@ -431,6 +431,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [OpenAI's o3: Over-optimization is back and weirder than ever](https://www.interconnects.ai/p/openais-o3-over-optimization-is-back) - Nathan Lambert blog
 - [Reinforcement learning with random rewards actually works with Qwen 2.5](https://www.interconnects.ai/p/reinforcement-learning-with-random) - Nathan Lambert blog, see new papers Topic about "Verifier-free RL and approaches without External Rewards" above in main section
 - [Crafting a good (reasoning) model](https://www.interconnects.ai/p/crafting-a-good-reasoning-model) - Nathan Lambert talk video/blog notes
+- [The rise of reasoning machines](https://www.interconnects.ai/p/the-rise-of-reasoning-machines) - Nathan Lambert blog
 
 #### Workshops
 
