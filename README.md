@@ -294,6 +294,7 @@ Experiments with reasoning models, training techniques, papers
 - [SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891)
 - [SeerAttention-R: Sparse Attention Adaptation for Long Reasoning](https://arxiv.org/abs/2506.08889) - Microsoft Research; uses [https://github.com/tile-ai/tilelang](https://github.com/tile-ai/tilelang) that I need to learn about also O_o
 - [R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration](https://arxiv.org/abs/2505.24133)
+- [Inference-Time Hyper-Scaling with KV Cache Compression](https://arxiv.org/abs/2506.05345)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
