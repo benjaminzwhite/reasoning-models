@@ -226,6 +226,7 @@ Experiments with reasoning models, training techniques, papers
 - [Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective](https://arxiv.org/abs/2506.14965) - links to nice Github pages also [https://guru-reasoning.github.io/](https://guru-reasoning.github.io/) and [https://github.com/LLM360/Reasoning360](https://github.com/LLM360/Reasoning360)
 - [Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards](https://arxiv.org/abs/2505.04671)
 - [ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2506.18896)
+- [Robust Reward Modeling via Causal Rubrics](https://arxiv.org/abs/2506.16507) - Google DeepMind; "We introduce Crome (Causally Robust Reward Modeling), a novel framework grounded in an explicit causal model designed to mitigate reward hacking.", has some results on reasoning benchmarks that seem good
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
