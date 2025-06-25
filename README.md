@@ -437,6 +437,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Reinforcement learning with random rewards actually works with Qwen 2.5](https://www.interconnects.ai/p/reinforcement-learning-with-random) - Nathan Lambert blog, see new papers Topic about "Verifier-free RL and approaches without External Rewards" above in main section
 - [Crafting a good (reasoning) model](https://www.interconnects.ai/p/crafting-a-good-reasoning-model) - Nathan Lambert talk video/blog notes
 - [The rise of reasoning machines](https://www.interconnects.ai/p/the-rise-of-reasoning-machines) - Nathan Lambert blog
+- [POLARIS: A POst-training recipe for scaling reinforcement Learning on Advanced ReasonIng modelS](https://honorable-payment-890.notion.site/POLARIS-A-POst-training-recipe-for-scaling-reinforcement-Learning-on-Advanced-ReasonIng-modelS-1dfa954ff7c38094923ec7772bf447a1) - "Our 4B model achieves an impressive 81.2% Pass@1 accuracy on AIME24 and 79.4% Pass@1 accuracy on AIME25, outperforming state-of-the-art commercial models like Claude-4-Opus, Grok-3-Beta, and o3-mini-high(2025/01/31) via scaling reinforcement learning on open-source data. On AIME25, POLARIS astonishingly achieves comparable performance to Qwen3-235B-A22B  while using less than 2% of its parameters and can be deployed on consumer-grade GPUs."
 
 #### Workshops
 
