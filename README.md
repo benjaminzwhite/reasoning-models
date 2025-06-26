@@ -53,6 +53,7 @@ Experiments with reasoning models, training techniques, papers
 - [Resa: Transparent Reasoning Models via SAEs](https://arxiv.org/abs/2506.09967)
 - [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790) - Alibaba; really cool
 - [A taxonomy for next-generation reasoning models - Where we've been and where we're going with RLVR](https://www.interconnects.ai/p/next-gen-reasoners) - Nathan Lambert blog; really good overview as of June 2025
+- [Scaling Speculative Decoding with Lookahead Reasoning](https://arxiv.org/abs/2506.19830) - Hao lab UCSD; technical, need to re-read details carefully, code is available. " Our key insight is that reasoning models generate step-by-step, and each step needs only to be semantically correct, not exact token matching. In Lookahead Reasoning, a lightweight draft model proposes several future steps; the target model expands each proposal in one batched pass, and a verifier keeps semantically correct steps while letting the target regenerate any that fail. Token-level SD still operates within each reasoning step, so the two layers *(i.e. standard speculative decoding)* of parallelism multiply."
 
 #### Topic - General or unsorted
 
