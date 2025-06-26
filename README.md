@@ -227,6 +227,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards](https://arxiv.org/abs/2505.04671)
 - [ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2506.18896)
 - [Robust Reward Modeling via Causal Rubrics](https://arxiv.org/abs/2506.16507) - Google DeepMind; "We introduce Crome (Causally Robust Reward Modeling), a novel framework grounded in an explicit causal model designed to mitigate reward hacking.", has some results on reasoning benchmarks that seem good
+- [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/abs/2506.20512)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
