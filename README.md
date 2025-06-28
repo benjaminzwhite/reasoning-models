@@ -444,6 +444,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [The rise of reasoning machines](https://www.interconnects.ai/p/the-rise-of-reasoning-machines) - Nathan Lambert blog
 - [POLARIS: A POst-training recipe for scaling reinforcement Learning on Advanced ReasonIng modelS](https://honorable-payment-890.notion.site/POLARIS-A-POst-training-recipe-for-scaling-reinforcement-Learning-on-Advanced-ReasonIng-modelS-1dfa954ff7c38094923ec7772bf447a1) - "Our 4B model achieves an impressive 81.2% Pass@1 accuracy on AIME24 and 79.4% Pass@1 accuracy on AIME25, outperforming state-of-the-art commercial models like Claude-4-Opus, Grok-3-Beta, and o3-mini-high(2025/01/31) via scaling reinforcement learning on open-source data. On AIME25, POLARIS astonishingly achieves comparable performance to Qwen3-235B-A22B  while using less than 2% of its parameters and can be deployed on consumer-grade GPUs."
 - [HuggingFace Spaces - Scaling Test Time Compute with Open Models](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute) - from December 2024 but nice presentation and introduction
+- [Self-Adapting Language Models](https://jyopari.github.io/posts/seal) - "We demonstrate SEAL in two domains: (1) Knowledge Incorporation, where the model integrates new factual information by generating logical implications as synthetic data, and (2) Few-Shot Learning, where the model autonomously selects data augmentations and training hyperparameters to adapt to new abstract reasoning tasks."
 
 #### Workshops
 
