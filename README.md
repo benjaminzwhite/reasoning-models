@@ -6,6 +6,7 @@ Experiments with reasoning models, training techniques, papers
 
 - build tag system e.g. Policies {DPO, GRPO, ...} with a view to building reading list, integrate with Zotero/Obsidian
 - create a tag for "reasoning + interaction with a symbolic system/DSL/program synthesis" type papers
+- use new approach for formatting table and generating summary: test time and cost first
 
 ---
 
