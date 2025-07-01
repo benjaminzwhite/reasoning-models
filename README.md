@@ -232,6 +232,8 @@ Experiments with reasoning models, training techniques, papers
 - [Robust Reward Modeling via Causal Rubrics](https://arxiv.org/abs/2506.16507) - Google DeepMind; "We introduce Crome (Causally Robust Reward Modeling), a novel framework grounded in an explicit causal model designed to mitigate reward hacking.", has some results on reasoning benchmarks that seem good
 - [OctoThinker: Mid-training Incentivizes Reinforcement Learning Scaling](https://arxiv.org/abs/2506.20512)
 - [Reinforcement Learning Teachers of Test Time Scaling](https://arxiv.org/abs/2506.08388) - Sakana AI; Github [https://github.com/SakanaAI/RLT](https://github.com/SakanaAI/RLT) and blog [https://sakana.ai/rlt/](https://sakana.ai/rlt/)
+- [Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute](https://arxiv.org/abs/2506.15882)
+- [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
