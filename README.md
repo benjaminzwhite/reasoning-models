@@ -234,6 +234,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reinforcement Learning Teachers of Test Time Scaling](https://arxiv.org/abs/2506.08388) - Sakana AI; Github [https://github.com/SakanaAI/RLT](https://github.com/SakanaAI/RLT) and blog [https://sakana.ai/rlt/](https://sakana.ai/rlt/)
 - [Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute](https://arxiv.org/abs/2506.15882)
 - [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)
+- [Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning](https://arxiv.org/abs/2507.00432) - "Math reasoning has become the poster child of progress in large language models (LLMs), with new models rapidly surpassing human-level performance on benchmarks like MATH and AIME. But as math leaderboards improve week by week, it is worth asking: do these gains reflect broader problem-solving ability or just narrow overfitting? To answer this question, we evaluate over 20 open-weight reasoning-tuned models across a broad suite of tasks, including math, scientific QA, agent planning, coding, and standard instruction-following. We surprisingly find that most models that succeed in math fail to transfer their gains to other domains."
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
