@@ -286,6 +286,7 @@ Experiments with reasoning models, training techniques, papers
 - [VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning](https://arxiv.org/abs/2505.22019) - multimodal
 - [From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval](https://arxiv.org/abs/2505.23059) - uses BRIGHT benchmark, defines a refine and rerank operation that they use to cut down token use compared to CoT
 - [R2ec : Towards Large Recommender Models with Reasoning](https://arxiv.org/abs/2505.16994) - use reasoning for recommendation systems
+- [Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search](https://arxiv.org/abs/2507.02652)
 
 #### Topic - X of Thoughts variants
 
@@ -338,6 +339,7 @@ Experiments with reasoning models, training techniques, papers
 - [MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation](https://arxiv.org/abs/2505.10962)
 - [DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning](https://arxiv.org/abs/2505.23754)
 - [Mathesis: Towards Formal Theorem Proving from Natural Languages](https://arxiv.org/abs/2506.07047)
+- [Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving](https://arxiv.org/abs/2507.02726)
 
 #### Topic - Coding
 
