@@ -459,6 +459,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL](https://pretty-radio-b75.notion.site/DeepSWE-Training-a-Fully-Open-sourced-State-of-the-Art-Coding-Agent-by-Scaling-RL-22281902c1468193aabbe9a8c59bbe33) - "We introduce DeepSWE-Preview, a reasoning-enabled coding agent trained from Qwen3-32B with only reinforcement learning (RL). It achieves  an impressive 59.0% on SWE-Bench-Verified with test-time scaling, reaching SOTA for open-weight coding agents  (42.2% Pass@1, 71.0% Pass@16). DeepSWE is trained using rLLM, our framework for post-training language agents. We’ve open sourced everything—our dataset, code, training, and eval logs, for everyone to progress on scaling and improving agents with RL."
 - [rLLM: A Framework for Post-Training Language Agents](https://pretty-radio-b75.notion.site/rLLM-A-Framework-for-Post-Training-Language-Agents-21b81902c146819db63cd98a54ba5f31) - nice, learned about this from blog about DeepSWE above; good perspective on going beyond simple reasoning models
 - [Detecting misbehavior in frontier reasoning models](https://openai.com/index/chain-of-thought-monitoring/) - OpenAI
+- [What comes next with reinforcement learning](https://www.interconnects.ai/p/what-comes-next-with-reinforcement) - Nathan Lambert blog
 
 #### Workshops
 
