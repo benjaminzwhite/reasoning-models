@@ -237,6 +237,7 @@ Experiments with reasoning models, training techniques, papers
 - [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)
 - [Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning](https://arxiv.org/abs/2507.00432) - "Math reasoning has become the poster child of progress in large language models (LLMs), with new models rapidly surpassing human-level performance on benchmarks like MATH and AIME. But as math leaderboards improve week by week, it is worth asking: do these gains reflect broader problem-solving ability or just narrow overfitting? To answer this question, we evaluate over 20 open-weight reasoning-tuned models across a broad suite of tasks, including math, scientific QA, agent planning, coding, and standard instruction-following. We surprisingly find that most models that succeed in math fail to transfer their gains to other domains."
 - [Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754) - Meta; this is mainly an architecture/technical paper, but the claims are related specifically to improving performance on reasoning tasks - not clear to me yet, need to take notes carefully
+- [Pre-Trained Policy Discriminators are General Reward Models](https://arxiv.org/abs/2507.05197) - not strictly about reasoning models but applicable and relevant
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
