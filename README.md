@@ -238,6 +238,7 @@ Experiments with reasoning models, training techniques, papers
 - [Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning](https://arxiv.org/abs/2507.00432) - "Math reasoning has become the poster child of progress in large language models (LLMs), with new models rapidly surpassing human-level performance on benchmarks like MATH and AIME. But as math leaderboards improve week by week, it is worth asking: do these gains reflect broader problem-solving ability or just narrow overfitting? To answer this question, we evaluate over 20 open-weight reasoning-tuned models across a broad suite of tasks, including math, scientific QA, agent planning, coding, and standard instruction-following. We surprisingly find that most models that succeed in math fail to transfer their gains to other domains."
 - [Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754) - Meta; this is mainly an architecture/technical paper, but the claims are related specifically to improving performance on reasoning tasks - not clear to me yet, need to take notes carefully
 - [Pre-Trained Policy Discriminators are General Reward Models](https://arxiv.org/abs/2507.05197) - not strictly about reasoning models but applicable and relevant
+- [R1-RE: Cross-Domain Relationship Extraction with RLVR](https://arxiv.org/abs/2507.04642) - nice, classic NLP task; claim 7B model reaches 4o performance
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -258,6 +259,7 @@ Experiments with reasoning models, training techniques, papers
 - [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)
 - [Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models](https://arxiv.org/abs/2505.02686) - nice related topics in general about learning from rewards, also has nice Github [https://github.com/bobxwu/learning-from-rewards-llm-papers](https://github.com/bobxwu/learning-from-rewards-llm-papers)
 - [Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.16782) - CoCoNut type experiments on latent space reasoning etc.
+- [A Survey on Latent Reasoning](https://arxiv.org/abs/2507.06203) - " We begin by examining the foundational role of neural network layers as the computational substrate for reasoning, highlighting how hierarchical representations support complex transformations. Next, we explore diverse latent reasoning methodologies, including activation-based recurrence, hidden state propagation, and fine-tuning strategies that compress or internalize explicit reasoning traces. Finally, we discuss advanced paradigms such as infinite-depth latent reasoning via masked diffusion models, which enable globally consistent and reversible reasoning processes."
 
 #### Topic - Tool Use/Function Calling
 
