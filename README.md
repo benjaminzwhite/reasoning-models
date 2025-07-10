@@ -240,6 +240,7 @@ Experiments with reasoning models, training techniques, papers
 - [Pre-Trained Policy Discriminators are General Reward Models](https://arxiv.org/abs/2507.05197) - not strictly about reasoning models but applicable and relevant
 - [R1-RE: Cross-Domain Relationship Extraction with RLVR](https://arxiv.org/abs/2507.04642) - nice, classic NLP task; claim 7B model reaches 4o performance
 - [Decoder-Hybrid-Decoder Architecture for Efficient Reasoning with Long Generation](https://arxiv.org/abs/2507.06607) - Microsoft, this is the technical paper for the Phi 4 mini flash reasoning model (3.8B) with some nice architecture ideas. The blogpost is also here: [Reasoning reimagined: Introducing Phi-4-mini-flash-reasoning](https://azure.microsoft.com/en-us/blog/reasoning-reimagined-introducing-phi-4-mini-flash-reasoning)
+- [First Return, Entropy-Eliciting Explore](https://arxiv.org/abs/2507.07017) - ByteDance
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
