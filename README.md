@@ -345,6 +345,7 @@ Experiments with reasoning models, training techniques, papers
 - [DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning](https://arxiv.org/abs/2505.23754)
 - [Mathesis: Towards Formal Theorem Proving from Natural Languages](https://arxiv.org/abs/2506.07047)
 - [Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving](https://arxiv.org/abs/2507.02726)
+- [Towards Solving More Challenging IMO Problems via Decoupled Reasoning and Proving](https://arxiv.org/abs/2507.06804) - Tencent, nice approach
 
 #### Topic - Coding
 
