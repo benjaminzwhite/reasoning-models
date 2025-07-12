@@ -466,6 +466,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [rLLM: A Framework for Post-Training Language Agents](https://pretty-radio-b75.notion.site/rLLM-A-Framework-for-Post-Training-Language-Agents-21b81902c146819db63cd98a54ba5f31) - nice, learned about this from blog about DeepSWE above; good perspective on going beyond simple reasoning models
 - [Detecting misbehavior in frontier reasoning models](https://openai.com/index/chain-of-thought-monitoring/) - OpenAI
 - [What comes next with reinforcement learning](https://www.interconnects.ai/p/what-comes-next-with-reinforcement) - Nathan Lambert blog
+- [Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](https://huggingface.co/blog/AI-MO/kimina-prover) - mathematics and theorem proving: "Our key innovations include: 1) Test-Time Reinforcement Learning Search: A trainable agentic proving framework that enables the model to recursively discover, combine and apply multiple lemmas to construct complex proofs, building on a novel lemma-enabled pattern. 2) Error-Fixing Capability: Kimina-Prover can read and interpret Lean’s error messages and propose targeted fixes, demonstrating significantly higher sample efficiency compared to regenerating proofs from scratch. These advancements enable Kimina-Prover to solve challenging mathematical problems and surpass prior methods. As shown in Figure 1, on the widely used miniF2F benchmark, Kimina-Prover achieves a state-of-the-art pass rate of 92.2%."
 
 #### Workshops
 
