@@ -57,6 +57,7 @@ Experiments with reasoning models, training techniques, papers
 - [Scaling Speculative Decoding with Lookahead Reasoning](https://arxiv.org/abs/2506.19830) - Hao lab UCSD; technical, need to re-read details carefully, code is available. " Our key insight is that reasoning models generate step-by-step, and each step needs only to be semantically correct, not exact token matching. In Lookahead Reasoning, a lightweight draft model proposes several future steps; the target model expands each proposal in one batched pass, and a verifier keeps semantically correct steps while letting the target regenerate any that fail. Token-level SD still operates within each reasoning step, so the two layers *(i.e. standard speculative decoding)* of parallelism multiply."
 - [Thought Anchors: Which LLM Reasoning Steps Matter?](https://arxiv.org/abs/2506.19143) - Interesting "interpretability" paper; Neel Nanda coauthor. Links to a nice interactive tool also [https://www.thought-anchors.com/](https://www.thought-anchors.com/)
 - [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/abs/2507.02592) - awesome, Tongyi Lab Alibaba; "Proprietary agentic systems like DeepResearch have demonstrated superhuman capabilities on extremely complex information-seeking benchmarks such as BrowseComp, a feat previously unattainable. We posit that their success hinges on a sophisticated reasoning pattern absent in open-source models: the ability to systematically reduce extreme uncertainty when navigating vast information landscapes. Based on this insight, we introduce WebSailor, a complete post-training methodology designed to instill this crucial capability. Our approach involves generating novel, high-uncertainty tasks through structured sampling and information obfuscation, RFT cold start, and an efficient agentic RL training algorithm, Duplicating Sampling Policy Optimization (DUPO)."
+- [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261) - Gemini 2.5 technical report
 
 #### Topic - General or unsorted
 
@@ -241,6 +242,7 @@ Experiments with reasoning models, training techniques, papers
 - [R1-RE: Cross-Domain Relationship Extraction with RLVR](https://arxiv.org/abs/2507.04642) - nice, classic NLP task; claim 7B model reaches 4o performance
 - [Decoder-Hybrid-Decoder Architecture for Efficient Reasoning with Long Generation](https://arxiv.org/abs/2507.06607) - Microsoft, this is the technical paper for the Phi 4 mini flash reasoning model (3.8B) with some nice architecture ideas. The blogpost is also here: [Reasoning reimagined: Introducing Phi-4-mini-flash-reasoning](https://azure.microsoft.com/en-us/blog/reasoning-reimagined-introducing-phi-4-mini-flash-reasoning)
 - [First Return, Entropy-Eliciting Explore](https://arxiv.org/abs/2507.07017) - ByteDance
+- [Test-Time Scaling with Reflective Generative Model](https://arxiv.org/abs/2507.01951)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
