@@ -244,6 +244,7 @@ Experiments with reasoning models, training techniques, papers
 - [Decoder-Hybrid-Decoder Architecture for Efficient Reasoning with Long Generation](https://arxiv.org/abs/2507.06607) - Microsoft, this is the technical paper for the Phi 4 mini flash reasoning model (3.8B) with some nice architecture ideas. The blogpost is also here: [Reasoning reimagined: Introducing Phi-4-mini-flash-reasoning](https://azure.microsoft.com/en-us/blog/reasoning-reimagined-introducing-phi-4-mini-flash-reasoning)
 - [First Return, Entropy-Eliciting Explore](https://arxiv.org/abs/2507.07017) - ByteDance
 - [Test-Time Scaling with Reflective Generative Model](https://arxiv.org/abs/2507.01951)
+- [REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arxiv.org/abs/2507.10541)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
