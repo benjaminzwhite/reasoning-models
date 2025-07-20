@@ -246,6 +246,7 @@ Experiments with reasoning models, training techniques, papers
 - [First Return, Entropy-Eliciting Explore](https://arxiv.org/abs/2507.07017) - ByteDance
 - [Test-Time Scaling with Reflective Generative Model](https://arxiv.org/abs/2507.01951)
 - [REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arxiv.org/abs/2507.10541)
+- [Logit Arithmetic Elicits Long Reasoning Capabilities Without Training](https://www.arxiv.org/abs/2507.12759) - reminds me a bit of The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning (see link above)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
