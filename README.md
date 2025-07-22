@@ -257,6 +257,8 @@ Experiments with reasoning models, training techniques, papers
 - [NOVER: Incentive Training for Language Models via Verifier-Free Reinforcement Learning](https://arxiv.org/abs/2505.16022)
 - [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
 - [RLPR: Extrapolating RLVR to General Domains without Verifiers](https://arxiv.org/abs/2506.18254)
+- [The Invisible Leash: Why RLVR May Not Escape Its Origin](https://arxiv.org/abs/2507.14843)
+- [Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR](https://arxiv.org/abs/2507.15778)
 
 #### Topic - Surveys and reviews
 
@@ -353,6 +355,7 @@ Experiments with reasoning models, training techniques, papers
 - [Mathesis: Towards Formal Theorem Proving from Natural Languages](https://arxiv.org/abs/2506.07047)
 - [Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving](https://arxiv.org/abs/2507.02726)
 - [Towards Solving More Challenging IMO Problems via Decoupled Reasoning and Proving](https://arxiv.org/abs/2507.06804) - Tencent, nice approach
+- [MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization](https://arxiv.org/abs/2507.14683)
 
 #### Topic - Coding
 
