@@ -249,6 +249,7 @@ Experiments with reasoning models, training techniques, papers
 - [REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once](https://arxiv.org/abs/2507.10541)
 - [Logit Arithmetic Elicits Long Reasoning Capabilities Without Training](https://www.arxiv.org/abs/2507.12759) - reminds me a bit of The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning (see link above)
 - [Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning](https://arxiv.org/abs/2507.16784)
+- [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning](https://arxiv.org/abs/2507.16812) - has nice explanation of data filtering and processing also
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -403,6 +404,8 @@ TODO: expand with separate tags
 - [Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning](https://arxiv.org/abs/2506.10521) - cool paper and benchmark
 - [MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://arxiv.org/abs/2507.12508)
 - [M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning](https://arxiv.org/abs/2507.08306) - Ant group
+- [Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://arxiv.org/abs/2507.16746) - cool dataset, using a kind of "sketchpad" while reasoning
+- [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) - NVIDIA; robotics related also, nice VLA approach
 
 #### Topic - Robotics
 
