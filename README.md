@@ -250,6 +250,7 @@ Experiments with reasoning models, training techniques, papers
 - [Logit Arithmetic Elicits Long Reasoning Capabilities Without Training](https://www.arxiv.org/abs/2507.12759) - reminds me a bit of The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning (see link above)
 - [Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning](https://arxiv.org/abs/2507.16784)
 - [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning](https://arxiv.org/abs/2507.16812) - has nice explanation of data filtering and processing also
+- [Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning](https://arxiv.org/abs/2507.17512)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
