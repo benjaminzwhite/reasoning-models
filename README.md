@@ -61,6 +61,7 @@ Experiments with reasoning models, training techniques, papers
 - [Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination](https://arxiv.org/abs/2507.10532) - nice study attemping to clear up some of the confusing results from April-June where people were training models on incorrect or low quality reasoning datasets etc.
 - [Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://arxiv.org/abs/2507.09477) - great review
 - [Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training](https://arxiv.org/abs/2507.12507) - Nvidia, nice technical report on Nemotron-Research-Reasoning-Qwen-1.5B, they talk about improvements to GRPO (basically seems they validate using DAPO and some implementation changes etc.)
+- [**Group Sequence Policy Optimization**](https://arxiv.org/abs/2507.18071) - Qwen team, describes Qwen3 training also
 
 #### Topic - General or unsorted
 
