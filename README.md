@@ -253,6 +253,7 @@ Experiments with reasoning models, training techniques, papers
 - [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning](https://arxiv.org/abs/2507.16812) - has nice explanation of data filtering and processing also
 - [Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning](https://arxiv.org/abs/2507.17512)
 - [LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization](https://arxiv.org/abs/2507.15758)
+- [Re:Form -- Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny](https://arxiv.org/abs/2507.16331) - formal methods
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
