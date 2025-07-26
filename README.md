@@ -252,6 +252,7 @@ Experiments with reasoning models, training techniques, papers
 - [Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning](https://arxiv.org/abs/2507.16784)
 - [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning](https://arxiv.org/abs/2507.16812) - has nice explanation of data filtering and processing also
 - [Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning](https://arxiv.org/abs/2507.17512)
+- [LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization](https://arxiv.org/abs/2507.15758)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
