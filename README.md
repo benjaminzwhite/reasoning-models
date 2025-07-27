@@ -62,6 +62,7 @@ Experiments with reasoning models, training techniques, papers
 - [Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](https://arxiv.org/abs/2507.09477) - great review
 - [Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training](https://arxiv.org/abs/2507.12507) - Nvidia, nice technical report on Nemotron-Research-Reasoning-Qwen-1.5B, they talk about improvements to GRPO (basically seems they validate using DAPO and some implementation changes etc.)
 - [**Group Sequence Policy Optimization**](https://arxiv.org/abs/2507.18071) - Qwen team, describes Qwen3 training also
+- [Test-Time Scaling with Reflective Generative Model](https://arxiv.org/abs/2507.01951) - looks good but I didn't understand all the implementation details yet; "MetaStone‑S1 is trained based on our proposed reflective generative form, which combines “Long-CoT Reinforcement Learning” and “Process Reward Learning” into a unified training form. This form enables a single model to simultaneously achieve deep reasoning and high-quality reasoning trajectory selection. By sharing the backbone network between the PRMs and policy models, MetaStone‑S1 significantly reduces the inference cost of PRMs by 99%, resulting in faster and higher-quality responses."; Github is [https://github.com/MetaStone-AI/MetaStone-S1](https://github.com/MetaStone-AI/MetaStone-S1)
 
 #### Topic - General or unsorted
 
@@ -254,6 +255,7 @@ Experiments with reasoning models, training techniques, papers
 - [Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning](https://arxiv.org/abs/2507.17512)
 - [LAPO: Internalizing Reasoning Efficiency via Length-Adaptive Policy Optimization](https://arxiv.org/abs/2507.15758)
 - [Re:Form -- Reducing Human Priors in Scalable Formal Software Verification with RL in LLMs: A Preliminary Study on Dafny](https://arxiv.org/abs/2507.16331) - formal methods
+- [KV Cache Steering for Inducing Reasoning in Small Language Models](https://arxiv.org/abs/2507.08799) - it is a one-shot method, seems cool: " Our approach leverages GPT-4o-generated reasoning traces to construct steering vectors that shift model behavior toward more explicit, multi-step reasoning without fine-tuning or prompt modifications."; examples on the Github [https://github.com/MaxBelitsky/cache-steering](https://github.com/MaxBelitsky/cache-steering)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
