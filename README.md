@@ -63,6 +63,7 @@ Experiments with reasoning models, training techniques, papers
 - [Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training](https://arxiv.org/abs/2507.12507) - Nvidia, nice technical report on Nemotron-Research-Reasoning-Qwen-1.5B, they talk about improvements to GRPO (basically seems they validate using DAPO and some implementation changes etc.)
 - [**Group Sequence Policy Optimization**](https://arxiv.org/abs/2507.18071) - Qwen team, describes Qwen3 training also
 - [Test-Time Scaling with Reflective Generative Model](https://arxiv.org/abs/2507.01951) - looks good but I didn't understand all the implementation details yet; "MetaStone‑S1 is trained based on our proposed reflective generative form, which combines “Long-CoT Reinforcement Learning” and “Process Reward Learning” into a unified training form. This form enables a single model to simultaneously achieve deep reasoning and high-quality reasoning trajectory selection. By sharing the backbone network between the PRMs and policy models, MetaStone‑S1 significantly reduces the inference cost of PRMs by 99%, resulting in faster and higher-quality responses."; Github is [https://github.com/MetaStone-AI/MetaStone-S1](https://github.com/MetaStone-AI/MetaStone-S1)
+- [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiv.org/abs/2507.19457)
 
 #### Topic - General or unsorted
 
