@@ -394,6 +394,7 @@ Experiments with reasoning models, training techniques, papers
 - [ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning](https://arxiv.org/abs/2506.09513)
 - [Enhancing Step-by-Step and Verifiable Medical Reasoning in MLLMs](https://arxiv.org/abs/2506.16962)
 - [An Agentic System for Rare Disease Diagnosis with Traceable Reasoning](https://arxiv.org/abs/2506.20430)
+- [ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge](https://arxiv.org/abs/2507.21990)
 
 #### Topic - Multimodal
 
