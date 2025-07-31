@@ -496,6 +496,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Bourbaki (7b): SOTA 7B Algorithms for Putnam Bench (Part I: Reasoning MDPs)](https://huggingface.co/blog/hba123/bourbaki7b)
 - [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://research.trychroma.com/context-rot) - not specifically about reasoning models but interesting for complex problem solving in general and related areas though
 - [Scaling Test Time Compute to Multi-Agent Civilizations: Noam Brown](https://www.latent.space/p/noam-brown) - awesome interview and blog (o1 etc.)
+- [Interviewing Ross Taylor on the state of AI: Chinese open models, scaling reasoning, useful tools, and what comes next](https://www.interconnects.ai/p/interviewing-ross-taylor-on-the-state) - Nathan Lambert blog; nice topics and discussion especially in 2nd half of the interview
 
 #### Workshops
 
