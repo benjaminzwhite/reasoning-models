@@ -366,6 +366,7 @@ Experiments with reasoning models, training techniques, papers
 - [Bourbaki: Self-Generated and Goal-Conditioned MDPs for Theorem Proving](https://arxiv.org/abs/2507.02726)
 - [Towards Solving More Challenging IMO Problems via Decoupled Reasoning and Proving](https://arxiv.org/abs/2507.06804) - Tencent, nice approach
 - [MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization](https://arxiv.org/abs/2507.14683)
+- [Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving](https://arxiv.org/abs/2507.23726) - ByteDance; 5/6 problems on IMO 2025
 
 #### Topic - Coding
 
