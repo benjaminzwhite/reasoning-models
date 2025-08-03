@@ -380,6 +380,7 @@ Experiments with reasoning models, training techniques, papers
 #### Topic - Biology
 
 - [BioProBench: Comprehensive Dataset and Benchmark in Biological Protocol Understanding and Reasoning](https://arxiv.org/abs/2505.07889) - really cool area
+- [BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model](https://arxiv.org/abs/2505.23579)
 
 #### Topic - Other specialized reasoning areas (medical, legal, etc.)
 
