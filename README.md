@@ -418,6 +418,7 @@ TODO: expand with separate tags
 - [M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning](https://arxiv.org/abs/2507.08306) - Ant group
 - [Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning](https://arxiv.org/abs/2507.16746) - cool dataset, using a kind of "sketchpad" while reasoning
 - [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) - NVIDIA; robotics related also, nice VLA approach
+- [3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding](https://arxiv.org/abs/2507.23478) - not sure if I understood appendix correctly but it seems the model dynamically moves around the 3D scene to get better perspectives to answer queries; cool approach if so, need to reread the details
 
 #### Topic - Robotics
 
