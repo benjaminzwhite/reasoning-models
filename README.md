@@ -260,6 +260,7 @@ Experiments with reasoning models, training techniques, papers
 - [KV Cache Steering for Inducing Reasoning in Small Language Models](https://arxiv.org/abs/2507.08799) - it is a one-shot method, seems cool: " Our approach leverages GPT-4o-generated reasoning traces to construct steering vectors that shift model behavior toward more explicit, multi-step reasoning without fine-tuning or prompt modifications."; examples on the Github [https://github.com/MaxBelitsky/cache-steering](https://github.com/MaxBelitsky/cache-steering)
 - [UloRL:An Ultra-Long Output Reinforcement Learning Approach for Advancing Large Language Models' Reasoning Abilities](https://arxiv.org/abs/2507.19766) - Tencent, nice results/performance; code is available
 - [Beyond the Trade-off: Self-Supervised Reinforcement Learning for Reasoning Models' Instruction Following](https://arxiv.org/abs/2508.02150)
+- [CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward](https://arxiv.org/abs/2508.03686)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
