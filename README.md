@@ -262,6 +262,7 @@ Experiments with reasoning models, training techniques, papers
 - [UloRL:An Ultra-Long Output Reinforcement Learning Approach for Advancing Large Language Models' Reasoning Abilities](https://arxiv.org/abs/2507.19766) - Tencent, nice results/performance; code is available
 - [Beyond the Trade-off: Self-Supervised Reinforcement Learning for Reasoning Models' Instruction Following](https://arxiv.org/abs/2508.02150)
 - [CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward](https://arxiv.org/abs/2508.03686)
+- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -285,6 +286,7 @@ Experiments with reasoning models, training techniques, papers
 - [Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models](https://arxiv.org/abs/2505.02686) - nice related topics in general about learning from rewards, also has nice Github [https://github.com/bobxwu/learning-from-rewards-llm-papers](https://github.com/bobxwu/learning-from-rewards-llm-papers)
 - [Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.16782) - CoCoNut type experiments on latent space reasoning etc.
 - [A Survey on Latent Reasoning](https://arxiv.org/abs/2507.06203) - " We begin by examining the foundational role of neural network layers as the computational substrate for reasoning, highlighting how hierarchical representations support complex transformations. Next, we explore diverse latent reasoning methodologies, including activation-based recurrence, hidden state propagation, and fine-tuning strategies that compress or internalize explicit reasoning traces. Finally, we discuss advanced paradigms such as infinite-depth latent reasoning via masked diffusion models, which enable globally consistent and reversible reasoning processes."
+- [Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models](https://arxiv.org/abs/2508.02120) - associated Github page [https://github.com/yuelinan/Awesome-Efficient-R1-style-LRMs](https://github.com/yuelinan/Awesome-Efficient-R1-style-LRMs)
 
 #### Topic - Tool Use/Function Calling
 
