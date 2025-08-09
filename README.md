@@ -373,6 +373,7 @@ Experiments with reasoning models, training techniques, papers
 - [Towards Solving More Challenging IMO Problems via Decoupled Reasoning and Proving](https://arxiv.org/abs/2507.06804) - Tencent, nice approach
 - [MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization](https://arxiv.org/abs/2507.14683)
 - [Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving](https://arxiv.org/abs/2507.23726) - ByteDance; 5/6 problems on IMO 2025
+- [Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction](https://arxiv.org/abs/2508.03613) - really cool; "We introduce Goedel-Prover-V2, a series of open-source language models that set a new state-of-the-art in automated theorem proving. Built on the standard expert iteration and reinforcement learning pipeline, our approach incorporates three key innovations: (1) Scaffolded data synthesis: We generate synthetic tasks of increasing difficulty to train the model to master increasingly complex theorems; (2) Verifier-guided self-correction: We enable the model to iteratively revise its proofs by leveraging feedback from the Lean compiler; (3) Model averaging: We merge model checkpoints to mitigate the decrease in model output diversity in later stages of training."
 
 #### Topic - Coding
 
