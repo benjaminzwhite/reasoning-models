@@ -262,6 +262,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Beyond the Trade-off: Self-Supervised Reinforcement Learning for Reasoning Models' Instruction Following](https://arxiv.org/abs/2508.02150)
 - [CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward](https://arxiv.org/abs/2508.03686)
 - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
+- [Learning to Reason for Factuality](https://arxiv.org/abs/2508.05618) - FAIR/Meta
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
