@@ -65,6 +65,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](https://arxiv.org/abs/2507.19457)
 - [Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty](https://arxiv.org/abs/2507.16806) - MIT; RLCR (reinforcement learning with calibration rewards), they add calibration term and help model verbalize its confidence (claims it generalizes to out of domain tasks also, need to reread that part)
 - [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/abs/2508.01191) - critical review
+- [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) - the technical report for GLM-4.5 models by Z.ai
 
 #### Topic - General or unsorted
 
