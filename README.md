@@ -406,6 +406,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Enhancing Step-by-Step and Verifiable Medical Reasoning in MLLMs](https://arxiv.org/abs/2506.16962)
 - [An Agentic System for Rare Disease Diagnosis with Traceable Reasoning](https://arxiv.org/abs/2506.20430)
 - [ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge](https://arxiv.org/abs/2507.21990)
+- [Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)
 
 #### Topic - Multimodal
 
