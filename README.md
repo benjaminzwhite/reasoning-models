@@ -342,6 +342,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SeerAttention-R: Sparse Attention Adaptation for Long Reasoning](https://arxiv.org/abs/2506.08889) - Microsoft Research; uses [https://github.com/tile-ai/tilelang](https://github.com/tile-ai/tilelang) that I need to learn about also O_o
 - [R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration](https://arxiv.org/abs/2505.24133)
 - [Inference-Time Hyper-Scaling with KV Cache Compression](https://arxiv.org/abs/2506.05345)
+- [Less Is More: Training-Free Sparse Attention with Global Locality for Efficient Reasoning](https://arxiv.org/abs/2508.07101)
 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
