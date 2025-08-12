@@ -66,6 +66,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty](https://arxiv.org/abs/2507.16806) - MIT; RLCR (reinforcement learning with calibration rewards), they add calibration term and help model verbalize its confidence (claims it generalizes to out of domain tasks also, need to reread that part)
 - [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/abs/2508.01191) - critical review
 - [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) - the technical report for GLM-4.5 models by Z.ai
+- [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917) - Allen Institute AI2; really cool and they open source everything (I can't find the training code yet though, maybe ask authors) - there is a blog here also that gives a nice overview [https://allenai.org/blog/molmoact](https://allenai.org/blog/molmoact)
 
 #### Topic - General or unsorted
 
@@ -318,6 +319,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval](https://arxiv.org/abs/2505.23059) - uses BRIGHT benchmark, defines a refine and rerank operation that they use to cut down token use compared to CoT
 - [R2ec : Towards Large Recommender Models with Reasoning](https://arxiv.org/abs/2505.16994) - use reasoning for recommendation systems
 - [Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search](https://arxiv.org/abs/2507.02652)
+- [ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability](https://arxiv.org/abs/2508.07050) - as of August 2025 they claim SOTA on the BRIGHT benchmark
 
 #### Topic - X of Thoughts variants
 
