@@ -265,6 +265,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward](https://arxiv.org/abs/2508.03686)
 - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 - [Learning to Reason for Factuality](https://arxiv.org/abs/2508.05618) - FAIR/Meta
+- [OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks](https://arxiv.org/abs/2508.05614)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
