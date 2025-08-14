@@ -67,6 +67,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/abs/2508.01191) - critical review
 - [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) - the technical report for GLM-4.5 models by Z.ai
 - [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917) - Allen Institute AI2; really cool and they open source everything (I can't find the training code yet though, maybe ask authors) - there is a blog here also that gives a nice overview [https://allenai.org/blog/molmoact](https://allenai.org/blog/molmoact)
+- [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221) - Alibaba, nice review; "This paper systematically reviews widely adopted RL techniques through rigorous reproductions and isolated evaluations within a unified open-source framework. We analyze the internal mechanisms, applicable scenarios, and core principles of each technique through fine-grained experiments, including datasets of varying difficulty, model sizes, and architectures. Based on these insights, we present clear guidelines for selecting RL techniques tailored to specific setups, and provide a reliable roadmap for practitioners navigating the RL for the LLM domain."
 
 #### Topic - General or unsorted
 
