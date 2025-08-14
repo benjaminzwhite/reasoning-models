@@ -267,6 +267,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 - [Learning to Reason for Factuality](https://arxiv.org/abs/2508.05618) - FAIR/Meta
 - [OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks](https://arxiv.org/abs/2508.05614)
+- [Train Long, Think Short: Curriculum Learning for Efficient Reasoning](https://arxiv.org/abs/2508.08940)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
