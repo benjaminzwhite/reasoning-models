@@ -268,6 +268,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Learning to Reason for Factuality](https://arxiv.org/abs/2508.05618) - FAIR/Meta
 - [OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks](https://arxiv.org/abs/2508.05614)
 - [Train Long, Think Short: Curriculum Learning for Efficient Reasoning](https://arxiv.org/abs/2508.08940)
+- [Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models](https://arxiv.org/abs/2508.10751)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -519,6 +520,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Scaling Test Time Compute to Multi-Agent Civilizations: Noam Brown](https://www.latent.space/p/noam-brown) - awesome interview and blog (o1 etc.)
 - [Interviewing Ross Taylor on the state of AI: Chinese open models, scaling reasoning, useful tools, and what comes next](https://www.interconnects.ai/p/interviewing-ross-taylor-on-the-state) - Nathan Lambert blog; nice topics and discussion especially in 2nd half of the interview
 - [Interactive Reasoning Benchmarks | ARC-AGI-3 Preview](https://www.youtube.com/watch?v=3T4OwBp6d90) - nice presentation of ARC Prize July-August 2025 challenges with game exploration environments
+- [Kimina-Prover-R1](https://huggingface.co/blog/AI-MO/kimina-prover-rl) - HuggingFace blog, showing how they train on formal reasoning with Lean; "A slimmed-down training pipeline from Kimina Prover, with core features and full compatibility with verl."
 
 #### Workshops
 
