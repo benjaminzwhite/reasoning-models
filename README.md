@@ -522,6 +522,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Interviewing Ross Taylor on the state of AI: Chinese open models, scaling reasoning, useful tools, and what comes next](https://www.interconnects.ai/p/interviewing-ross-taylor-on-the-state) - Nathan Lambert blog; nice topics and discussion especially in 2nd half of the interview
 - [Interactive Reasoning Benchmarks | ARC-AGI-3 Preview](https://www.youtube.com/watch?v=3T4OwBp6d90) - nice presentation of ARC Prize July-August 2025 challenges with game exploration environments
 - [Kimina-Prover-R1](https://huggingface.co/blog/AI-MO/kimina-prover-rl) - HuggingFace blog, showing how they train on formal reasoning with Lean; "A slimmed-down training pipeline from Kimina Prover, with core features and full compatibility with verl."
+- [https://www.open-thoughts.ai/blog](https://www.open-thoughts.ai/blog) - "A DataComp and Bespoke Labs community effort to curate the best open reasoning datasets."; this is the blog of the people behind OpenThoughts3 etc. recent datasets.
 
 #### Workshops
 
