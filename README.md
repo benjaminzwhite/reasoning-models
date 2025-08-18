@@ -270,6 +270,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks](https://arxiv.org/abs/2508.05614)
 - [Train Long, Think Short: Curriculum Learning for Efficient Reasoning](https://arxiv.org/abs/2508.08940)
 - [Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models](https://arxiv.org/abs/2508.10751)
+- [SSRL: Self-Search Reinforcement Learning](https://arxiv.org/abs/2508.10874) - cool, haven't read references but can't remember seeing this idea before; basically using the LLM as a web simulator for search/tool use during reasoning etc.
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
