@@ -444,6 +444,7 @@ TODO: expand with separate tags
 #### Topic - Robotics
 
 - [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308)
+- [Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998)
 
 #### Topic - Adjacent subjects, maybe related
 
