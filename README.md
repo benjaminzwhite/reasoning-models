@@ -69,6 +69,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [MolmoAct: Action Reasoning Models that can Reason in Space](https://arxiv.org/abs/2508.07917) - Allen Institute AI2; really cool and they open source everything (I can't find the training code yet though, maybe ask authors) - there is a blog here also that gives a nice overview [https://allenai.org/blog/molmoact](https://allenai.org/blog/molmoact)
 - [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221) - Alibaba, nice review; "This paper systematically reviews widely adopted RL techniques through rigorous reproductions and isolated evaluations within a unified open-source framework. We analyze the internal mechanisms, applicable scenarios, and core principles of each technique through fine-grained experiments, including datasets of varying difficulty, model sizes, and architectures. Based on these insights, we present clear guidelines for selecting RL techniques tailored to specific setups, and provide a reliable roadmap for practitioners navigating the RL for the LLM domain."
 - [Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849) - awesome, multi-turn reasoning with tool use etc., lots of interesting sections
+- [Intern-S1: A Scientific Multimodal Foundation Model](https://arxiv.org/abs/2508.15763)
 
 #### Topic - General or unsorted
 
