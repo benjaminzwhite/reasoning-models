@@ -353,7 +353,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration](https://arxiv.org/abs/2505.24133)
 - [Inference-Time Hyper-Scaling with KV Cache Compression](https://arxiv.org/abs/2506.05345)
 - [Less Is More: Training-Free Sparse Attention with Global Locality for Efficient Reasoning](https://arxiv.org/abs/2508.07101)
-
+- [Reasoning on a Budget: A Survey of Adaptive and Controllable Test-Time Compute in LLMs](https://arxiv.org/abs/2507.02076) - nice review
+ 
 #### Topic - Ensembling, Boosting, Stacking etc.
 
 - [Ensembling Large Language Models with Process Reward-Guided Tree Search for Better Complex Reasoning](https://arxiv.org/abs/2412.15797)
