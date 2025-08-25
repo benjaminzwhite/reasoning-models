@@ -274,6 +274,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SSRL: Self-Search Reinforcement Learning](https://arxiv.org/abs/2508.10874) - cool, haven't read references but can't remember seeing this idea before; basically using the LLM as a web simulator for search/tool use during reasoning etc.
 - [NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model](https://arxiv.org/abs/2508.14444) - "We introduce Nemotron-Nano-9B-v2, a hybrid Mamba-Transformer language model designed to increase throughput for reasoning workloads while achieving state-of-the-art accuracy compared to similarly-sized models. Nemotron-Nano-9B-v2 builds on the Nemotron-H architecture, in which the majority of the self-attention layers in the common Transformer architecture are replaced with Mamba-2 layers, to achieve improved inference speed when generating the long thinking traces needed for reasoning."
 - [Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
+- [Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR](https://arxiv.org/abs/2508.14029)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
