@@ -446,6 +446,7 @@ TODO: expand with separate tags
 - [3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding](https://arxiv.org/abs/2507.23478) - not sure if I understood appendix correctly but it seems the model dynamically moves around the 3D scene to get better perspectives to answer queries; cool approach if so, need to reread the details
 - [InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation](https://arxiv.org/abs/2507.17520) - "Additionally, InstructVLA surpasses baseline VLMs on multimodal tasks and exhibits inference-time scaling by leveraging textual reasoning to boost manipulation performance in both simulated and real-world settings."
 - [Ovis2.5 Technical Report](https://arxiv.org/abs/2508.11737) - Alibaba; nice technical report and training explanation, also model has nice "grounding reference" feature (see in the appendix for examples)
+- [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/abs/2508.18265) - Shanghai AI Lab; see also the Intern-S1 science foundation model (link in essential reading section)
 
 #### Topic - Robotics
 
@@ -498,6 +499,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges](https://arxiv.org/abs/2504.19093)
 - [DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models](https://arxiv.org/abs/2505.08744) - nice area, more creative reasoning about mathematical problems and deduction
 - [R2MED: A Benchmark for Reasoning-Driven Medical Retrieval](https://arxiv.org/abs/2505.14558)
+- [UQ: Assessing Language Models on Unsolved Questions](https://arxiv.org/abs/2508.17580) - not completely reasoning-based but quite relevant and I like the idea; website is here [https://uq.stanford.edu/](https://uq.stanford.edu/)
 
 ---
 
