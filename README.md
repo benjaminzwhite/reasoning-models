@@ -275,6 +275,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid Mamba-Transformer Reasoning Model](https://arxiv.org/abs/2508.14444) - "We introduce Nemotron-Nano-9B-v2, a hybrid Mamba-Transformer language model designed to increase throughput for reasoning workloads while achieving state-of-the-art accuracy compared to similarly-sized models. Nemotron-Nano-9B-v2 builds on the Nemotron-H architecture, in which the majority of the self-attention layers in the common Transformer architecture are replaced with Mamba-2 layers, to achieve improved inference speed when generating the long thinking traces needed for reasoning."
 - [Deep Think with Confidence](https://arxiv.org/abs/2508.15260)
 - [Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR](https://arxiv.org/abs/2508.14029)
+- [TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling](https://arxiv.org/abs/2508.17445) - ByteDance
+- [ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models](https://arxiv.org/abs/2508.18773)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -423,6 +425,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [An Agentic System for Rare Disease Diagnosis with Traceable Reasoning](https://arxiv.org/abs/2506.20430)
 - [ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge](https://arxiv.org/abs/2507.21990)
 - [Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)
+- [Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](https://arxiv.org/abs/2508.19202) - this is for science in general; these claims from the abstract: (1) Retrieving task-relevant knowledge from model parameters is a critical bottleneck for LLMs in scientific reasoning; (2) Reasoning models consistently benefit from external knowledge added in-context on top of the reasoning enhancement; (3) Enhancing verbalized reasoning improves LLMs' ability to surface task-relevant knowledge.
 
 #### Topic - Multimodal
 
