@@ -277,6 +277,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR](https://arxiv.org/abs/2508.14029)
 - [TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling](https://arxiv.org/abs/2508.17445) - ByteDance
 - [ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models](https://arxiv.org/abs/2508.18773)
+- [StepWiser: Stepwise Generative Judges for Wiser Reasoning](https://arxiv.org/abs/2508.19229) - FAIR Meta
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -450,6 +451,7 @@ TODO: expand with separate tags
 - [InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation](https://arxiv.org/abs/2507.17520) - "Additionally, InstructVLA surpasses baseline VLMs on multimodal tasks and exhibits inference-time scaling by leveraging textual reasoning to boost manipulation performance in both simulated and real-world settings."
 - [Ovis2.5 Technical Report](https://arxiv.org/abs/2508.11737) - Alibaba; nice technical report and training explanation, also model has nice "grounding reference" feature (see in the appendix for examples)
 - [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/abs/2508.18265) - Shanghai AI Lab; see also the Intern-S1 science foundation model (link in essential reading section)
+- [Self-Rewarding Vision-Language Model via Reasoning Decomposition](https://arxiv.org/abs/2508.19652) - Tencent; nice ideas "Vision-SR1 decomposes VLM reasoning into two stages: visual perception and language reasoning. The model is first prompted to produce self-contained visual perceptions that are sufficient to answer the question without referring back the input image. To validate this self-containment, the same VLM model is then re-prompted to perform language reasoning using only the generated perception as input to compute reward. This self-reward is combined with supervision on final outputs, providing a balanced training signal that strengthens both visual perception and language reasoning."
 
 #### Topic - Robotics
 
