@@ -70,6 +70,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning](https://arxiv.org/abs/2508.08221) - Alibaba, nice review; "This paper systematically reviews widely adopted RL techniques through rigorous reproductions and isolated evaluations within a unified open-source framework. We analyze the internal mechanisms, applicable scenarios, and core principles of each technique through fine-grained experiments, including datasets of varying difficulty, model sizes, and architectures. Based on these insights, we present clear guidelines for selecting RL techniques tailored to specific setups, and provide a reliable roadmap for practitioners navigating the RL for the LLM domain."
 - [Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849) - awesome, multi-turn reasoning with tool use etc., lots of interesting sections
 - [Intern-S1: A Scientific Multimodal Foundation Model](https://arxiv.org/abs/2508.15763)
+- [rStar2-Agent: Agentic Reasoning Technical Report](https://arxiv.org/abs/2508.20722) - Microsoft Research; really cool and has Github (it's the updated version of rStar) [https://github.com/microsoft/rStar](https://github.com/microsoft/rStar)
 
 #### Topic - General or unsorted
 
