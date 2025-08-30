@@ -559,6 +559,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Simple Reinforcement Learning for Reasoning - replication DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data](https://github.com/hkust-nlp/simpleRL-reason)
 - [The Path to Open-Sourcing the DeepSeek Inference Engine](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine) - DeepSeek Open Infra Github, as of April 2025 they announce that they will open source their inference engine
 - [DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - see the paper also in the Github
+- [PageIndex: Document Index for Reasoning-based RAG](https://github.com/VectifyAI/PageIndex)
 
 #### Collections
 
