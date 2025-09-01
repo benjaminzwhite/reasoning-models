@@ -279,6 +279,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling](https://arxiv.org/abs/2508.17445) - ByteDance
 - [ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models](https://arxiv.org/abs/2508.18773)
 - [StepWiser: Stepwise Generative Judges for Wiser Reasoning](https://arxiv.org/abs/2508.19229) - FAIR Meta
+- [Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models](Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
