@@ -317,6 +317,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Distilling LLM Agent into Small Models with Retrieval and Code Tools](https://arxiv.org/abs/2505.17612) - nice, not stricty about agents but more about distillation; read this comment on HF for quick summary [https://huggingface.co/posts/m-ric/682683815641001](https://huggingface.co/posts/m-ric/682683815641001); "when trying to distil reasoning capability from a strong LLM ("teacher") into a smaller one ("student"), it's much better to use Agent traces than CoT traces."
 - [Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction](https://arxiv.org/abs/2506.07976) - nice paper
 - [Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward](https://arxiv.org/abs/2508.12800) - Ant Group, no code shared though afaict
+- [PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic Reasoning](https://arxiv.org/abs/2508.21104)
 
 #### Topic - Information retrieval and search
 
