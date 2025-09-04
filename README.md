@@ -71,6 +71,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849) - awesome, multi-turn reasoning with tool use etc., lots of interesting sections
 - [Intern-S1: A Scientific Multimodal Foundation Model](https://arxiv.org/abs/2508.15763)
 - [rStar2-Agent: Agentic Reasoning Technical Report](https://arxiv.org/abs/2508.20722) - Microsoft Research; really cool and has Github (it's the updated version of rStar) [https://github.com/microsoft/rStar](https://github.com/microsoft/rStar)
+- [Towards High Data Efficiency in Reinforcement Learning with Verifiable Reward](https://arxiv.org/abs/2509.01321)
 
 #### Topic - General or unsorted
 
