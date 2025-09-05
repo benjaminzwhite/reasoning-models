@@ -281,6 +281,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models](https://arxiv.org/abs/2508.18773)
 - [StepWiser: Stepwise Generative Judges for Wiser Reasoning](https://arxiv.org/abs/2508.19229) - FAIR Meta
 - [Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models](Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models)
+- [Beyond Correctness: Harmonizing Process and Outcome Rewards through RL Training](https://arxiv.org/abs/2509.03403)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
