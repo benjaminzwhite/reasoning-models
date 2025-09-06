@@ -72,6 +72,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Intern-S1: A Scientific Multimodal Foundation Model](https://arxiv.org/abs/2508.15763)
 - [rStar2-Agent: Agentic Reasoning Technical Report](https://arxiv.org/abs/2508.20722) - Microsoft Research; really cool and has Github (it's the updated version of rStar) [https://github.com/microsoft/rStar](https://github.com/microsoft/rStar)
 - [Towards High Data Efficiency in Reinforcement Learning with Verifiable Reward](https://arxiv.org/abs/2509.01321)
+- [Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers](https://arxiv.org/abs/2509.03059) - looks like a nice approach; Github is here [https://github.com/camel-ai/loong](https://github.com/camel-ai/loong)
 
 #### Topic - General or unsorted
 
@@ -282,6 +283,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [StepWiser: Stepwise Generative Judges for Wiser Reasoning](https://arxiv.org/abs/2508.19229) - FAIR Meta
 - [Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models](Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models)
 - [Beyond Correctness: Harmonizing Process and Outcome Rewards through RL Training](https://arxiv.org/abs/2509.03403)
+- [InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling](https://arxiv.org/abs/2508.08636)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
