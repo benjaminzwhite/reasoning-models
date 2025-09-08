@@ -462,6 +462,7 @@ TODO: expand with separate tags
 - [Self-Rewarding Vision-Language Model via Reasoning Decomposition](https://arxiv.org/abs/2508.19652) - Tencent; nice ideas "Vision-SR1 decomposes VLM reasoning into two stages: visual perception and language reasoning. The model is first prompted to produce self-contained visual perceptions that are sufficient to answer the question without referring back the input image. To validate this self-containment, the same VLM model is then re-prompted to perform language reasoning using only the generated perception as input to compute reward. This self-reward is combined with supervision on final outputs, providing a balanced training signal that strengthens both visual perception and language reasoning."
 - [Planning with Reasoning using Vision Language World Model](https://arxiv.org/abs/2509.02722)
 - [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://arxiv.org/abs/2507.10548)
+- [Reinforced Visual Perception with Tools](https://arxiv.org/abs/2509.01656) - Tool use for vision models, reasoning about which tools to use (like depth perception or object detection)
 
 #### Topic - Robotics
 
