@@ -73,6 +73,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [rStar2-Agent: Agentic Reasoning Technical Report](https://arxiv.org/abs/2508.20722) - Microsoft Research; really cool and has Github (it's the updated version of rStar) [https://github.com/microsoft/rStar](https://github.com/microsoft/rStar)
 - [Towards High Data Efficiency in Reinforcement Learning with Verifiable Reward](https://arxiv.org/abs/2509.01321)
 - [Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers](https://arxiv.org/abs/2509.03059) - looks like a nice approach; Github is here [https://github.com/camel-ai/loong](https://github.com/camel-ai/loong)
+- [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/abs/2509.02547) - awesome review
+- [SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning](https://arxiv.org/abs/2509.02479) - has great Notion blog also [https://simpletir.notion.site/report](https://simpletir.notion.site/report)
 
 #### Topic - General or unsorted
 
