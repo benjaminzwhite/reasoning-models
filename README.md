@@ -286,6 +286,9 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models](Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models)
 - [Beyond Correctness: Harmonizing Process and Outcome Rewards through RL Training](https://arxiv.org/abs/2509.03403)
 - [InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling](https://arxiv.org/abs/2508.08636)
+- [Bootstrapping Task Spaces for Self-Improvement](https://arxiv.org/abs/2509.04575) - Meta Superintelligence; some nice results across multi-turn tool use, machine learning (MLE benchmark), and mathematics
+- [Reverse-Engineered Reasoning for Open-Ended Generation](https://arxiv.org/abs/2509.06160) - work backwards from "good" samples to try to produce the reasoning; they use on e.g. artistic domain (writing for ex.) where "forward" approach to reasoning might not work as well
+- [Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM Step-Provers](https://arxiv.org/abs/2509.06493) - I like the general RL approach; indeed the abstract says "While demonstrated in the domain of formal mathematics, the RL and inference techniques presented in this work are of broader interest and may be applied to other domains requiring long-horizon multi-turn reasoning and complex search"
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
