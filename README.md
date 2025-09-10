@@ -289,6 +289,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Bootstrapping Task Spaces for Self-Improvement](https://arxiv.org/abs/2509.04575) - Meta Superintelligence; some nice results across multi-turn tool use, machine learning (MLE benchmark), and mathematics
 - [Reverse-Engineered Reasoning for Open-Ended Generation](https://arxiv.org/abs/2509.06160) - work backwards from "good" samples to try to produce the reasoning; they use on e.g. artistic domain (writing for ex.) where "forward" approach to reasoning might not work as well
 - [Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM Step-Provers](https://arxiv.org/abs/2509.06493) - I like the general RL approach; indeed the abstract says "While demonstrated in the domain of formal mathematics, the RL and inference techniques presented in this work are of broader interest and may be applied to other domains requiring long-horizon multi-turn reasoning and complex search"
+- [Parallel-R1: Towards Parallel Thinking via Reinforcement Learning](https://arxiv.org/abs/2509.07980)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -468,6 +469,7 @@ TODO: expand with separate tags
 - [Planning with Reasoning using Vision Language World Model](https://arxiv.org/abs/2509.02722)
 - [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://arxiv.org/abs/2507.10548)
 - [Reinforced Visual Perception with Tools](https://arxiv.org/abs/2509.01656) - Tool use for vision models, reasoning about which tools to use (like depth perception or object detection)
+- [Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search](https://arxiv.org/abs/2509.07969)
 
 #### Topic - Robotics
 
