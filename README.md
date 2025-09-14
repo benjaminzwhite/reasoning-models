@@ -76,6 +76,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [The Landscape of Agentic Reinforcement Learning for LLMs: A Survey](https://arxiv.org/abs/2509.02547) - awesome review
 - [SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning](https://arxiv.org/abs/2509.02479) - has great Notion blog also [https://simpletir.notion.site/report](https://simpletir.notion.site/report)
 - [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827) - awesome 100+ pages, good overview of all the major topics
+- [The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs](https://www.arxiv.org/abs/2509.09677) - basically seems to be optimistic about continued scaling of LLMs (test-time/reasoning in general)
 
 #### Topic - General or unsorted
 
