@@ -77,6 +77,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning](https://arxiv.org/abs/2509.02479) - has great Notion blog also [https://simpletir.notion.site/report](https://simpletir.notion.site/report)
 - [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827) - awesome 100+ pages, good overview of all the major topics
 - [The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs](https://www.arxiv.org/abs/2509.09677) - basically seems to be optimistic about continued scaling of LLMs (test-time/reasoning in general)
+- [Inpainting-Guided Policy Optimization for Diffusion Large Language Models](https://arxiv.org/abs/2509.10396) - I found this useful for understanding some of the advantages of diffusion LLMs for reasoning tasks and technical issues that it can fix
 
 #### Topic - General or unsorted
 
