@@ -286,7 +286,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling](https://arxiv.org/abs/2508.17445) - ByteDance
 - [ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large Language Models](https://arxiv.org/abs/2508.18773)
 - [StepWiser: Stepwise Generative Judges for Wiser Reasoning](https://arxiv.org/abs/2508.19229) - FAIR Meta
-- [Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models](Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models)
+- [Think in Games: Learning to Reason in Games via Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2508.21365)
 - [Beyond Correctness: Harmonizing Process and Outcome Rewards through RL Training](https://arxiv.org/abs/2509.03403)
 - [InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling](https://arxiv.org/abs/2508.08636)
 - [Bootstrapping Task Spaces for Self-Improvement](https://arxiv.org/abs/2509.04575) - Meta Superintelligence; some nice results across multi-turn tool use, machine learning (MLE benchmark), and mathematics
@@ -333,6 +333,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction](https://arxiv.org/abs/2506.07976) - nice paper
 - [Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward](https://arxiv.org/abs/2508.12800) - Ant Group, no code shared though afaict
 - [PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic Reasoning](https://arxiv.org/abs/2508.21104)
+- [SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents](https://arxiv.org/abs/2509.06283) - "While prior work has proposed training recipes for base or instruction-tuned LLMs, we focus on continual reinforcement learning (RL) of reasoning-optimized models to further enhance agentic skills while preserving reasoning ability. Towards this end, we propose a simple RL recipe with entirely synthetic data, which we apply to various open-source LLMs. Our best variant SFR-DR-20B achieves up to 28.7% on Humanity's Last Exam benchmark."
 
 #### Topic - Information retrieval and search
 
