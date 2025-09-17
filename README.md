@@ -78,6 +78,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [A Survey of Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2509.08827) - awesome 100+ pages, good overview of all the major topics
 - [The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs](https://www.arxiv.org/abs/2509.09677) - basically seems to be optimistic about continued scaling of LLMs (test-time/reasoning in general)
 - [Inpainting-Guided Policy Optimization for Diffusion Large Language Models](https://arxiv.org/abs/2509.10396) - I found this useful for understanding some of the advantages of diffusion LLMs for reasoning tasks and technical issues that it can fix
+- [Single-stream Policy Optimization](https://arxiv.org/abs/2509.13232) - Tencent; found the approach quite convincing and talking about some of the limitations of group-based methods (like GRPO) for e.g. training reasoning models. They have a blog also [https://zhongwenxu.notion.site/Single-stream-Policy-Optimization-26a1c4e140e380d78d51fa4567727f50](https://zhongwenxu.notion.site/Single-stream-Policy-Optimization-26a1c4e140e380d78d51fa4567727f50)
 
 #### Topic - General or unsorted
 
