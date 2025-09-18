@@ -296,6 +296,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Parallel-R1: Towards Parallel Thinking via Reinforcement Learning](https://arxiv.org/abs/2509.07980)
 - [The Majority is not always right: RL training for solution aggregation](https://arxiv.org/abs/2509.06870) - FAIR Meta; "In this work, we propose to learn aggregation as an explicit reasoning skill: given a set of candidate solutions, we train an aggregator model to review, reconcile, and synthesize a final, correct answer using reinforcement learning from verifiable rewards." - this part is interesting: "Furthermore, it generalizes effectively to solutions from differing models, including stronger ones than contained in the training data, all while requiring substantially fewer tokens than majority voting with larger numbers of solutions."
 - [On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification](https://arxiv.org/abs/2508.05629) - not a reasoning-specific article but has lots of relevant comments and results
+- [THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning](https://arxiv.org/abs/2509.13761) - code results also, not just mathematical reasoning
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -477,6 +478,7 @@ TODO: expand with separate tags
 - [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](https://arxiv.org/abs/2507.10548)
 - [Reinforced Visual Perception with Tools](https://arxiv.org/abs/2509.01656) - Tool use for vision models, reasoning about which tools to use (like depth perception or object detection)
 - [Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search](https://arxiv.org/abs/2509.07969)
+- [MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook](https://arxiv.org/abs/2509.14142) - nice, it's a writeup/summary of: ICCV 2025 MARS2 Workshop and Challenge - Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond
 
 #### Topic - Robotics
 
