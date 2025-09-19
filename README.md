@@ -297,6 +297,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [The Majority is not always right: RL training for solution aggregation](https://arxiv.org/abs/2509.06870) - FAIR Meta; "In this work, we propose to learn aggregation as an explicit reasoning skill: given a set of candidate solutions, we train an aggregator model to review, reconcile, and synthesize a final, correct answer using reinforcement learning from verifiable rewards." - this part is interesting: "Furthermore, it generalizes effectively to solutions from differing models, including stronger ones than contained in the training data, all while requiring substantially fewer tokens than majority voting with larger numbers of solutions."
 - [On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification](https://arxiv.org/abs/2508.05629) - not a reasoning-specific article but has lots of relevant comments and results
 - [THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning](https://arxiv.org/abs/2509.13761) - code results also, not just mathematical reasoning
+- [Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](https://arxiv.org/abs/2509.14234) - a different approach to using test time computation
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
