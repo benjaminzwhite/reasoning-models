@@ -481,6 +481,7 @@ TODO: expand with separate tags
 - [Reinforced Visual Perception with Tools](https://arxiv.org/abs/2509.01656) - Tool use for vision models, reasoning about which tools to use (like depth perception or object detection)
 - [Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search](https://arxiv.org/abs/2509.07969)
 - [MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook](https://arxiv.org/abs/2509.14142) - nice, it's a writeup/summary of: ICCV 2025 MARS2 Workshop and Challenge - Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond
+- [Nav-R1: Reasoning and Navigation in Embodied Scenes](https://arxiv.org/abs/2509.10884) - cool; nice website also with videos [https://aigeeksgroup.github.io/Nav-R1/](https://aigeeksgroup.github.io/Nav-R1/)
 
 #### Topic - Robotics
 
