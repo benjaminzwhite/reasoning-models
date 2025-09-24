@@ -299,6 +299,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [On the Generalization of SFT: A Reinforcement Learning Perspective with Reward Rectification](https://arxiv.org/abs/2508.05629) - not a reasoning-specific article but has lots of relevant comments and results
 - [THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning](https://arxiv.org/abs/2509.13761) - code results also, not just mathematical reasoning
 - [Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](https://arxiv.org/abs/2509.14234) - a different approach to using test time computation
+- [What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT](https://arxiv.org/abs/2509.19284)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
