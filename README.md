@@ -301,6 +301,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical Reasoning](https://arxiv.org/abs/2509.13761) - code results also, not just mathematical reasoning
 - [Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](https://arxiv.org/abs/2509.14234) - a different approach to using test time computation
 - [What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT](https://arxiv.org/abs/2509.19284)
+- [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://arxiv.org/abs/2509.21320) - seems to be mainly biology focused (SMILES, protein properties etc.)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
