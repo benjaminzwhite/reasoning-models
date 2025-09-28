@@ -574,6 +574,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Kimina-Prover-R1](https://huggingface.co/blog/AI-MO/kimina-prover-rl) - HuggingFace blog, showing how they train on formal reasoning with Lean; "A slimmed-down training pipeline from Kimina Prover, with core features and full compatibility with verl."
 - [https://www.open-thoughts.ai/blog](https://www.open-thoughts.ai/blog) - "A DataComp and Bespoke Labs community effort to curate the best open reasoning datasets."; this is the blog of the people behind OpenThoughts3 etc. recent datasets.
 - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm) - not directly reasoning related but a great blog for understanding vLLM, for model training purposes
+- [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/) - really nice blog post by Lilian Weng
 
 #### Workshops
 
