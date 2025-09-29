@@ -302,6 +302,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Compute as Teacher: Turning Inference Compute Into Reference-Free Supervision](https://arxiv.org/abs/2509.14234) - a different approach to using test time computation
 - [What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT](https://arxiv.org/abs/2509.19284)
 - [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://arxiv.org/abs/2509.21320) - seems to be mainly biology focused (SMILES, protein properties etc.)
+- [Quantile Advantage Estimation for Entropy-Safe Reasoning](https://arxiv.org/abs/2509.22611)
+- [Variational Reasoning for Language Models](https://arxiv.org/abs/2509.22637) - actually OK to follow despite all the theory; I hadn't heard of "importance-weighted autoencoder (IWAE)" before either (page 2) and it's interesting 
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
