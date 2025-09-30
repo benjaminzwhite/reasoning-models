@@ -81,6 +81,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Single-stream Policy Optimization](https://arxiv.org/abs/2509.13232) - Tencent; found the approach quite convincing and talking about some of the limitations of group-based methods (like GRPO) for e.g. training reasoning models. They have a blog also [https://zhongwenxu.notion.site/Single-stream-Policy-Optimization-26a1c4e140e380d78d51fa4567727f50](https://zhongwenxu.notion.site/Single-stream-Policy-Optimization-26a1c4e140e380d78d51fa4567727f50)
 - [FlowRL: Matching Reward Distributions for LLM Reasoning](https://arxiv.org/abs/2509.15207) - really cool; "Recent advanced reasoning models adopt reward-maximizing methods (e.g. PPO and GRPO), which tend to over-optimize dominant reward signals while neglecting less frequent but valid reasoning paths, thus reducing diversity. In contrast, we transform scalar rewards into a normalized target distribution using a learnable partition function, and then minimize the reverse KL divergence between the policy and the target distribution."
 - [FlagEval Findings Report: A Preliminary Evaluation of Large Reasoning Models on Automatically Verifiable Textual and Visual Questions](https://arxiv.org/abs/2509.17177) - a nice and detailed evaluation paper, as of September 2025, with some interesting comments about performance (hallucination of tools etc.); good for quickly seeing and getting a feel for where we are presently
+- [Random Policy Valuation is Enough for LLM Reasoning with Verifiable Rewards](https://arxiv.org/abs/2509.24981) - really interesting; need to read all the appendix stuff to understand why/if(?) this approach is specific to mathematical reasoning, as I didn't understand this aspect on first reading
 
 #### Topic - General or unsorted
 
@@ -303,7 +304,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT](https://arxiv.org/abs/2509.19284)
 - [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://arxiv.org/abs/2509.21320) - seems to be mainly biology focused (SMILES, protein properties etc.)
 - [Quantile Advantage Estimation for Entropy-Safe Reasoning](https://arxiv.org/abs/2509.22611)
-- [Variational Reasoning for Language Models](https://arxiv.org/abs/2509.22637) - actually OK to follow despite all the theory; I hadn't heard of "importance-weighted autoencoder (IWAE)" before either (page 2) and it's interesting 
+- [Variational Reasoning for Language Models](https://arxiv.org/abs/2509.22637) - actually OK to follow despite all the theory; I hadn't heard of "importance-weighted autoencoder (IWAE)" before either (page 2) and it's interesting
+- [Beyond the Exploration-Exploitation Trade-off: A Hidden State Approach for LLM Reasoning in RLVR](https://arxiv.org/abs/2509.23808)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
