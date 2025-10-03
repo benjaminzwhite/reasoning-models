@@ -306,6 +306,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Quantile Advantage Estimation for Entropy-Safe Reasoning](https://arxiv.org/abs/2509.22611)
 - [Variational Reasoning for Language Models](https://arxiv.org/abs/2509.22637) - actually OK to follow despite all the theory; I hadn't heard of "importance-weighted autoencoder (IWAE)" before either (page 2) and it's interesting
 - [Beyond the Exploration-Exploitation Trade-off: A Hidden State Approach for LLM Reasoning in RLVR](https://arxiv.org/abs/2509.23808)
+- [Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training](https://arxiv.org/abs/2509.25758) - nice mechanistic/explainability; "In this work, we use circuit analysis to demonstrate that post-training for complex reasoning sparks the emergence of novel, functionally specialized attention heads."
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
