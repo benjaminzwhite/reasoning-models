@@ -581,6 +581,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [https://www.open-thoughts.ai/blog](https://www.open-thoughts.ai/blog) - "A DataComp and Bespoke Labs community effort to curate the best open reasoning datasets."; this is the blog of the people behind OpenThoughts3 etc. recent datasets.
 - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm) - not directly reasoning related but a great blog for understanding vLLM, for model training purposes
 - [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/) - really nice blog post by Lilian Weng
+- [The Hidden Drivers of HRM's Performance on ARC-AGI](https://arcprize.org/blog/hrm-analysis) - a blog by ARC prize team examining the recent Hierarchical Reasoning Model performance (27M parameter model that achieved high performance on AGI-1 leaderboard)
 
 #### Workshops
 
