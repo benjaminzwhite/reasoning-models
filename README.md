@@ -308,6 +308,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Beyond the Exploration-Exploitation Trade-off: A Hidden State Approach for LLM Reasoning in RLVR](https://arxiv.org/abs/2509.23808)
 - [Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training](https://arxiv.org/abs/2509.25758) - nice mechanistic/explainability; "In this work, we use circuit analysis to demonstrate that post-training for complex reasoning sparks the emergence of novel, functionally specialized attention heads."
 - [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849) - ByteDance Seed; TODO - create a section for "intelligent/informed sample selection" and related approaches to improving reasoning model training
+- [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search](https://arxiv.org/abs/2509.25454)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
