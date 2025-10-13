@@ -82,6 +82,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [FlowRL: Matching Reward Distributions for LLM Reasoning](https://arxiv.org/abs/2509.15207) - really cool; "Recent advanced reasoning models adopt reward-maximizing methods (e.g. PPO and GRPO), which tend to over-optimize dominant reward signals while neglecting less frequent but valid reasoning paths, thus reducing diversity. In contrast, we transform scalar rewards into a normalized target distribution using a learnable partition function, and then minimize the reverse KL divergence between the policy and the target distribution."
 - [FlagEval Findings Report: A Preliminary Evaluation of Large Reasoning Models on Automatically Verifiable Textual and Visual Questions](https://arxiv.org/abs/2509.17177) - a nice and detailed evaluation paper, as of September 2025, with some interesting comments about performance (hallucination of tools etc.); good for quickly seeing and getting a feel for where we are presently
 - [Random Policy Valuation is Enough for LLM Reasoning with Verifiable Rewards](https://arxiv.org/abs/2509.24981) - really interesting; need to read all the appendix stuff to understand why/if(?) this approach is specific to mathematical reasoning, as I didn't understand this aspect on first reading
+- [RLP: Reinforcement as a Pretraining Objective](https://arxiv.org/abs/2510.01265)
+- [RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems](https://arxiv.org/abs/2510.02263)
 
 #### Topic - General or unsorted
 
@@ -309,6 +311,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training](https://arxiv.org/abs/2509.25758) - nice mechanistic/explainability; "In this work, we use circuit analysis to demonstrate that post-training for complex reasoning sparks the emergence of novel, functionally specialized attention heads."
 - [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849) - ByteDance Seed; TODO - create a section for "intelligent/informed sample selection" and related approaches to improving reasoning model training
 - [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search](https://arxiv.org/abs/2509.25454)
+- [ExGRPO: Learning to Reason from Experience](https://arxiv.org/abs/2510.02245)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
