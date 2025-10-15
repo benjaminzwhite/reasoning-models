@@ -84,6 +84,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Random Policy Valuation is Enough for LLM Reasoning with Verifiable Rewards](https://arxiv.org/abs/2509.24981) - really interesting; need to read all the appendix stuff to understand why/if(?) this approach is specific to mathematical reasoning, as I didn't understand this aspect on first reading
 - [RLP: Reinforcement as a Pretraining Objective](https://arxiv.org/abs/2510.01265)
 - [RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems](https://arxiv.org/abs/2510.02263)
+- [Personalized Reasoning: Just-In-Time Personalization and Why LLMs Fail At It](https://arxiv.org/abs/2510.00177) - U Washington, Allen Institute; cool area - personalization of reasoning
 
 #### Topic - General or unsorted
 
@@ -312,6 +313,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget Allocation](https://arxiv.org/abs/2509.25849) - ByteDance Seed; TODO - create a section for "intelligent/informed sample selection" and related approaches to improving reasoning model training
 - [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search](https://arxiv.org/abs/2509.25454)
 - [ExGRPO: Learning to Reason from Experience](https://arxiv.org/abs/2510.02245)
+- [Large Reasoning Models Learn Better Alignment from Flawed Thinking](https://arxiv.org/abs/2510.00938) - Meta Superintelligence Labs; basically seems to be including a few "flawed" (wrong chain of thoughts for ex) samples and promote self-reflection to correct these "bad starts" during completion
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
