@@ -314,6 +314,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search](https://arxiv.org/abs/2509.25454)
 - [ExGRPO: Learning to Reason from Experience](https://arxiv.org/abs/2510.02245)
 - [Large Reasoning Models Learn Better Alignment from Flawed Thinking](https://arxiv.org/abs/2510.00938) - Meta Superintelligence Labs; basically seems to be including a few "flawed" (wrong chain of thoughts for ex) samples and promote self-reflection to correct these "bad starts" during completion
+- [Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data](https://arxiv.org/abs/2510.03264) - Nvidia; "We conduct the first systematic study of how reasoning data-varying in scale, diversity, and quality-affects LLM performance when introduced at different stages of training. We find that front-loading reasoning data into pretraining is critical (19% avg gain), establishing foundational capabilities that cannot be fully replicated by later-stage SFT, even with more data."
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
