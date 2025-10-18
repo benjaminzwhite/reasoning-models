@@ -315,6 +315,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [ExGRPO: Learning to Reason from Experience](https://arxiv.org/abs/2510.02245)
 - [Large Reasoning Models Learn Better Alignment from Flawed Thinking](https://arxiv.org/abs/2510.00938) - Meta Superintelligence Labs; basically seems to be including a few "flawed" (wrong chain of thoughts for ex) samples and promote self-reflection to correct these "bad starts" during completion
 - [Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data](https://arxiv.org/abs/2510.03264) - Nvidia; "We conduct the first systematic study of how reasoning data-varying in scale, diversity, and quality-affects LLM performance when introduced at different stages of training. We find that front-loading reasoning data into pretraining is critical (19% avg gain), establishing foundational capabilities that cannot be fully replicated by later-stage SFT, even with more data."
+- [In-the-Flow Agentic System Optimization for Effective Planning and Tool Use](https://arxiv.org/abs/2510.05592) - website is [https://agentflow.stanford.edu/](https://agentflow.stanford.edu/)
+- [Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model Reasoning](https://arxiv.org/abs/2510.04081) - reasoning dataset generation with automatic validation steps
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
