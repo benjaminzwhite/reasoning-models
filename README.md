@@ -317,6 +317,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data](https://arxiv.org/abs/2510.03264) - Nvidia; "We conduct the first systematic study of how reasoning data-varying in scale, diversity, and quality-affects LLM performance when introduced at different stages of training. We find that front-loading reasoning data into pretraining is critical (19% avg gain), establishing foundational capabilities that cannot be fully replicated by later-stage SFT, even with more data."
 - [In-the-Flow Agentic System Optimization for Effective Planning and Tool Use](https://arxiv.org/abs/2510.05592) - website is [https://agentflow.stanford.edu/](https://agentflow.stanford.edu/)
 - [Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model Reasoning](https://arxiv.org/abs/2510.04081) - reasoning dataset generation with automatic validation steps
+- [Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward](https://arxiv.org/abs/2510.03222)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -470,6 +471,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](https://arxiv.org/abs/2507.21974)
 - [Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](https://arxiv.org/abs/2508.19202) - this is for science in general; these claims from the abstract: (1) Retrieving task-relevant knowledge from model parameters is a critical bottleneck for LLMs in scientific reasoning; (2) Reasoning models consistently benefit from external knowledge added in-context on top of the reasoning enhancement; (3) Enhancing verbalized reasoning improves LLMs' ability to surface task-relevant knowledge.
 - [Baichuan-M2: Scaling Medical Capability with Large Verifier System](https://arxiv.org/abs/2509.02208) - 32B medical reasoning model, nice training details
+- [From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning](https://arxiv.org/abs/2509.23768)
 
 #### Topic - Multimodal
 
