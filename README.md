@@ -318,6 +318,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [In-the-Flow Agentic System Optimization for Effective Planning and Tool Use](https://arxiv.org/abs/2510.05592) - website is [https://agentflow.stanford.edu/](https://agentflow.stanford.edu/)
 - [Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model Reasoning](https://arxiv.org/abs/2510.04081) - reasoning dataset generation with automatic validation steps
 - [Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward](https://arxiv.org/abs/2510.03222)
+- [ACADREASON: Exploring the Limits of Reasoning Models with Academic Research Problems](https://arxiv.org/abs/2510.11652) - nice benchmark; "50 expert-annotated academic problems across five high-reasoning domains, including computer science, economics, law, mathematics, and philosophy. All questions are sourced from top-tier publications in recent years and undergo rigorous annotation and quality control to ensure they are both challenging and answerable."
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
