@@ -85,6 +85,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [RLP: Reinforcement as a Pretraining Objective](https://arxiv.org/abs/2510.01265)
 - [RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems](https://arxiv.org/abs/2510.02263)
 - [Personalized Reasoning: Just-In-Time Personalization and Why LLMs Fail At It](https://arxiv.org/abs/2510.00177) - U Washington, Allen Institute; cool area - personalization of reasoning
+- [Implicit Reasoning in Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2509.02350)
 
 #### Topic - General or unsorted
 
