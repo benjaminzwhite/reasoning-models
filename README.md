@@ -442,6 +442,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction](https://arxiv.org/abs/2508.03613) - really cool; "We introduce Goedel-Prover-V2, a series of open-source language models that set a new state-of-the-art in automated theorem proving. Built on the standard expert iteration and reinforcement learning pipeline, our approach incorporates three key innovations: (1) Scaffolded data synthesis: We generate synthetic tasks of increasing difficulty to train the model to master increasingly complex theorems; (2) Verifier-guided self-correction: We enable the model to iteratively revise its proofs by leveraging feedback from the Lean compiler; (3) Model averaging: We merge model checkpoints to mitigate the decrease in model output diversity in later stages of training."
 - [StepFun-Formalizer: Unlocking the Autoformalization Potential of LLMs through Knowledge-Reasoning Fusion](https://arxiv.org/abs/2508.04440)
 - [Putnam-AXIOM: A Functional and Static Benchmark](https://arxiv.org/abs/2508.08292)
+- [Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier Math](https://arxiv.org/abs/2510.13744) - "a human-annotated, step-level verification benchmark produced with over 500 hours of human labor"
 
 #### Topic - Coding
 
@@ -476,6 +477,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](https://arxiv.org/abs/2508.19202) - this is for science in general; these claims from the abstract: (1) Retrieving task-relevant knowledge from model parameters is a critical bottleneck for LLMs in scientific reasoning; (2) Reasoning models consistently benefit from external knowledge added in-context on top of the reasoning enhancement; (3) Enhancing verbalized reasoning improves LLMs' ability to surface task-relevant knowledge.
 - [Baichuan-M2: Scaling Medical Capability with Large Verifier System](https://arxiv.org/abs/2509.02208) - 32B medical reasoning model, nice training details
 - [From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning](https://arxiv.org/abs/2509.23768)
+- [ELAIPBench: A Benchmark for Expert-Level Artificial Intelligence Paper Understanding](https://arxiv.org/abs/2510.10549)
 
 #### Topic - Multimodal
 
