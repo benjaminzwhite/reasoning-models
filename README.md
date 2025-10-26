@@ -86,6 +86,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems](https://arxiv.org/abs/2510.02263)
 - [Personalized Reasoning: Just-In-Time Personalization and Why LLMs Fail At It](https://arxiv.org/abs/2510.00177) - U Washington, Allen Institute; cool area - personalization of reasoning
 - [Implicit Reasoning in Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2509.02350)
+- [LaSeR: Reinforcement Learning with Last-Token Self-Rewarding](https://arxiv.org/abs/2510.14943) - Renmin, Tencent; nice - "...we propose LaSeR (Reinforcement Learning with Last-Token Self-Rewarding), an algorithm that simply augments the original RLVR loss with a MSE loss that aligns the last-token self-rewarding scores with verifier-based reasoning rewards, jointly optimizing the reasoning and self-rewarding capabilities of LLMs. The optimized self-rewarding scores can be utilized in both training and testing to enhance model performance."
 
 #### Topic - General or unsorted
 
@@ -321,6 +322,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward](https://arxiv.org/abs/2510.03222)
 - [ACADREASON: Exploring the Limits of Reasoning Models with Academic Research Problems](https://arxiv.org/abs/2510.11652) - nice benchmark; "50 expert-annotated academic problems across five high-reasoning domains, including computer science, economics, law, mathematics, and philosophy. All questions are sourced from top-tier publications in recent years and undergo rigorous annotation and quality control to ensure they are both challenging and answerable."
 - [Bag of Tricks for Subverting Reasoning-based Safety Guardrails](https://arxiv.org/abs/2510.11570) - nice "red teaming"/security kind of approach
+- [Beyond Accuracy: Dissecting Mathematical Reasoning for LLMs Under Reinforcement Learning](https://arxiv.org/abs/2506.04723)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
