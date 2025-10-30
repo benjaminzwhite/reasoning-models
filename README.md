@@ -88,6 +88,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Implicit Reasoning in Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2509.02350)
 - [LaSeR: Reinforcement Learning with Last-Token Self-Rewarding](https://arxiv.org/abs/2510.14943) - Renmin, Tencent; nice - "...we propose LaSeR (Reinforcement Learning with Last-Token Self-Rewarding), an algorithm that simply augments the original RLVR loss with a MSE loss that aligns the last-token self-rewarding scores with verifier-based reasoning rewards, jointly optimizing the reasoning and self-rewarding capabilities of LLMs. The optimized self-rewarding scores can be utilized in both training and testing to enhance model performance."
 - [Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI](https://arxiv.org/abs/2510.16720) - nice review; changing approach to reasoning/tool use etc. They have a nice Github here [https://github.com/ADaM-BJTU/model-native-agentic-ai](https://github.com/ADaM-BJTU/model-native-agentic-ai)
+- [Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model](https://arxiv.org/abs/2510.18855) - Inclusion AI; very cool technical report with nice details
 
 #### Topic - General or unsorted
 
@@ -481,6 +482,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Baichuan-M2: Scaling Medical Capability with Large Verifier System](https://arxiv.org/abs/2509.02208) - 32B medical reasoning model, nice training details
 - [From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning](https://arxiv.org/abs/2509.23768)
 - [ELAIPBench: A Benchmark for Expert-Level Artificial Intelligence Paper Understanding](https://arxiv.org/abs/2510.10549)
+- [Chem-R: Learning to Reason as a Chemist](https://arxiv.org/abs/2510.16880)
 
 #### Topic - Multimodal
 
