@@ -385,6 +385,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [R2ec : Towards Large Recommender Models with Reasoning](https://arxiv.org/abs/2505.16994) - use reasoning for recommendation systems
 - [Decoupled Planning and Execution: A Hierarchical Reasoning Framework for Deep Search](https://arxiv.org/abs/2507.02652)
 - [ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability](https://arxiv.org/abs/2508.07050) - as of August 2025 they claim SOTA on the BRIGHT benchmark
+- [DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking](https://arxiv.org/abs/2510.20168) - nice for reasoning in agents; "In DeepWideSearch, agents must process a large volume of data, each requiring deep reasoning over multi-hop retrieval paths. Specifically, we propose two methods to converse established datasets, resulting in a curated collection of 220 questions spanning 15 diverse domains."
 
 #### Topic - X of Thoughts variants
 
