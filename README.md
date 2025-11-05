@@ -327,6 +327,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Beyond Accuracy: Dissecting Mathematical Reasoning for LLMs Under Reinforcement Learning](https://arxiv.org/abs/2506.04723)
 - [LoongRL: Reinforcement Learning for Advanced Reasoning over Long Contexts](https://arxiv.org/abs/2510.19363)
 - [Every Attention Matters: An Efficient Hybrid Architecture for Long-Context Reasoning](https://arxiv.org/abs/2510.19338) - Ling team, Ant Group; nice technical paper
+- [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](https://arxiv.org/abs/2510.20579) - ByteDance
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
