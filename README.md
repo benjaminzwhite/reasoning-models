@@ -330,6 +330,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](https://arxiv.org/abs/2510.20579) - ByteDance
 - [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](https://arxiv.org/abs/2511.04570)
 - [Reasoning with Sampling: Your Base Model is Smarter Than You Think](https://arxiv.org/abs/2510.14901)
+- [DynaAct: Large Language Model Reasoning with Dynamic Action Spaces](https://arxiv.org/abs/2511.08043) - NeurIPS 2025
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
