@@ -332,6 +332,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Reasoning with Sampling: Your Base Model is Smarter Than You Think](https://arxiv.org/abs/2510.14901)
 - [DynaAct: Large Language Model Reasoning with Dynamic Action Spaces](https://arxiv.org/abs/2511.08043) - NeurIPS 2025
 - [Critique-RL: Training Language Models for Critiquing through Two-Stage Reinforcement Learning](https://arxiv.org/abs/2510.24320) - interesting for developing critique models for reasoning training
+- [Reasoning with Confidence: Efficient Verification of LLM Reasoning Steps via Uncertainty Heads](https://arxiv.org/abs/2511.06209)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
