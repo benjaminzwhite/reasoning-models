@@ -337,6 +337,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Reasoning with Confidence: Efficient Verification of LLM Reasoning Steps via Uncertainty Heads](https://arxiv.org/abs/2511.06209)
 - [SPICE: Self-Play In Corpus Environments Improves Reasoning](https://arxiv.org/abs/2510.24684)
 - [RefineBench: Evaluating Refinement Capability of Language Models via Checklists](https://arxiv.org/abs/2511.22173)
+- [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://arxiv.org/abs/2511.08577)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
