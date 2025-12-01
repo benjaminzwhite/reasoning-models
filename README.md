@@ -90,6 +90,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI](https://arxiv.org/abs/2510.16720) - nice review; changing approach to reasoning/tool use etc. They have a nice Github here [https://github.com/ADaM-BJTU/model-native-agentic-ai](https://github.com/ADaM-BJTU/model-native-agentic-ai)
 - [Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model](https://arxiv.org/abs/2510.18855) - Inclusion AI; very cool technical report with nice details
 - [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741) - ByteDance, MILA, lots of other institutions also
+- [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://arxiv.org/abs/2511.22570) - " Towards self-verifiable mathematical reasoning, we investigate how to train an accurate and faithful LLM-based verifier for theorem proving. We then train a proof generator using the verifier as the reward model, and incentivize the generator to identify and resolve as many issues as possible in their own proofs before finalizing them. To maintain the generation-verification gap as the generator becomes stronger, we propose to scale verification compute to automatically label new hard-to-verify proofs, creating training data to further improve the verifier. Our resulting model, DeepSeekMath-V2, demonstrates strong theorem-proving capabilities, achieving gold-level scores on IMO 2025 and CMO 2024 and a near-perfect 118/120 on Putnam 2024 with scaled test-time compute."
 
 #### Topic - General or unsorted
 
@@ -335,6 +336,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Critique-RL: Training Language Models for Critiquing through Two-Stage Reinforcement Learning](https://arxiv.org/abs/2510.24320) - interesting for developing critique models for reasoning training
 - [Reasoning with Confidence: Efficient Verification of LLM Reasoning Steps via Uncertainty Heads](https://arxiv.org/abs/2511.06209)
 - [SPICE: Self-Play In Corpus Environments Improves Reasoning](https://arxiv.org/abs/2510.24684)
+- [RefineBench: Evaluating Refinement Capability of Language Models via Checklists](https://arxiv.org/abs/2511.22173)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
