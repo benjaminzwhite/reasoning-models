@@ -91,6 +91,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model](https://arxiv.org/abs/2510.18855) - Inclusion AI; very cool technical report with nice details
 - [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741) - ByteDance, MILA, lots of other institutions also
 - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://arxiv.org/abs/2511.22570) - " Towards self-verifiable mathematical reasoning, we investigate how to train an accurate and faithful LLM-based verifier for theorem proving. We then train a proof generator using the verifier as the reward model, and incentivize the generator to identify and resolve as many issues as possible in their own proofs before finalizing them. To maintain the generation-verification gap as the generator becomes stronger, we propose to scale verification compute to automatically label new hard-to-verify proofs, creating training data to further improve the verifier. Our resulting model, DeepSeekMath-V2, demonstrates strong theorem-proving capabilities, achieving gold-level scores on IMO 2025 and CMO 2024 and a near-perfect 118/120 on Putnam 2024 with scaled test-time compute."
+- [Step-Audio-R1 Technical Report](https://arxiv.org/abs/2511.15848) - Cool area, audio reasoning
 
 #### Topic - General or unsorted
 
