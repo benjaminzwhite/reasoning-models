@@ -339,6 +339,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SPICE: Self-Play In Corpus Environments Improves Reasoning](https://arxiv.org/abs/2510.24684)
 - [RefineBench: Evaluating Refinement Capability of Language Models via Checklists](https://arxiv.org/abs/2511.22173)
 - [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://arxiv.org/abs/2511.08577)
+- [ATLAS: A High-Difficulty, Multidisciplinary Benchmark for Frontier Scientific Reasoning](https://arxiv.org/abs/2511.14366)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
