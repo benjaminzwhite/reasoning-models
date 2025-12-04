@@ -340,6 +340,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [RefineBench: Evaluating Refinement Capability of Language Models via Checklists](https://arxiv.org/abs/2511.22173)
 - [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://arxiv.org/abs/2511.08577)
 - [ATLAS: A High-Difficulty, Multidisciplinary Benchmark for Frontier Scientific Reasoning](https://arxiv.org/abs/2511.14366)
+- [Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs](https://arxiv.org/abs/2511.16664) - Nvidia; interesting twist on efficient reasoning/model pruning, uses Mamba architectures also.
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
