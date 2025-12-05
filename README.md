@@ -92,6 +92,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741) - ByteDance, MILA, lots of other institutions also
 - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://arxiv.org/abs/2511.22570) - " Towards self-verifiable mathematical reasoning, we investigate how to train an accurate and faithful LLM-based verifier for theorem proving. We then train a proof generator using the verifier as the reward model, and incentivize the generator to identify and resolve as many issues as possible in their own proofs before finalizing them. To maintain the generation-verification gap as the generator becomes stronger, we propose to scale verification compute to automatically label new hard-to-verify proofs, creating training data to further improve the verifier. Our resulting model, DeepSeekMath-V2, demonstrates strong theorem-proving capabilities, achieving gold-level scores on IMO 2025 and CMO 2024 and a near-perfect 118/120 on Putnam 2024 with scaled test-time compute."
 - [Step-Audio-R1 Technical Report](https://arxiv.org/abs/2511.15848) - Cool area, audio reasoning
+- [DynaAct: Large Language Model Reasoning with Dynamic Action Spaces](https://arxiv.org/abs/2511.08043) - Nice ideas IMHO; NeurIPS 2025
 
 #### Topic - General or unsorted
 
@@ -341,6 +342,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://arxiv.org/abs/2511.08577)
 - [ATLAS: A High-Difficulty, Multidisciplinary Benchmark for Frontier Scientific Reasoning](https://arxiv.org/abs/2511.14366)
 - [Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs](https://arxiv.org/abs/2511.16664) - Nvidia; interesting twist on efficient reasoning/model pruning, uses Mamba architectures also.
+- [P1: Mastering Physics Olympiads with Reinforcement Learning](https://arxiv.org/abs/2511.13612) - "... Further equipped with an agentic framework PhysicsMinions, P1-235B-A22B+PhysicsMinions achieves overall No.1 on IPhO 2025, and obtains the highest average score over the 13 physics competitions."
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
