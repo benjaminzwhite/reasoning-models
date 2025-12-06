@@ -343,6 +343,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [ATLAS: A High-Difficulty, Multidisciplinary Benchmark for Frontier Scientific Reasoning](https://arxiv.org/abs/2511.14366)
 - [Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs](https://arxiv.org/abs/2511.16664) - Nvidia; interesting twist on efficient reasoning/model pruning, uses Mamba architectures also.
 - [P1: Mastering Physics Olympiads with Reinforcement Learning](https://arxiv.org/abs/2511.13612) - "... Further equipped with an agentic framework PhysicsMinions, P1-235B-A22B+PhysicsMinions achieves overall No.1 on IPhO 2025, and obtains the highest average score over the 13 physics competitions."
+- [Real-Time Reasoning Agents in Evolving Environments](https://arxiv.org/abs/2511.04898) - Cool study, introducing urgency/time constraints in reasoning tasks
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
