@@ -93,6 +93,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://arxiv.org/abs/2511.22570) - " Towards self-verifiable mathematical reasoning, we investigate how to train an accurate and faithful LLM-based verifier for theorem proving. We then train a proof generator using the verifier as the reward model, and incentivize the generator to identify and resolve as many issues as possible in their own proofs before finalizing them. To maintain the generation-verification gap as the generator becomes stronger, we propose to scale verification compute to automatically label new hard-to-verify proofs, creating training data to further improve the verifier. Our resulting model, DeepSeekMath-V2, demonstrates strong theorem-proving capabilities, achieving gold-level scores on IMO 2025 and CMO 2024 and a near-perfect 118/120 on Putnam 2024 with scaled test-time compute."
 - [Step-Audio-R1 Technical Report](https://arxiv.org/abs/2511.15848) - Cool area, audio reasoning
 - [DynaAct: Large Language Model Reasoning with Dynamic Action Spaces](https://arxiv.org/abs/2511.08043) - Nice ideas IMHO; NeurIPS 2025
+- [RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Environments](https://arxiv.org/abs/2511.07317) - Recent from AI2/University of Washington, seems code is public (check the RLVE-Gym).
 
 #### Topic - General or unsorted
 
