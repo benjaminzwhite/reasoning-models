@@ -347,6 +347,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Real-Time Reasoning Agents in Evolving Environments](https://arxiv.org/abs/2511.04898) - Cool study, introducing urgency/time constraints in reasoning tasks
 - [VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks](https://arxiv.org/abs/2511.04662) - neurosymbolic approach to validate reasoning, outside of mathematics/code domain; also TODO make a section for neurosymbolic/DSL stuff
 - [Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence](https://arxiv.org/abs/2511.07384) - intriguing; "In this work, we study how to convert existing pretrained non-recurrent language models into depth-recurrent models. We find that using a curriculum of recurrences to increase the effective depth of the model over the course of training preserves performance while reducing total computational cost. In our experiments, on mathematics, we observe that converting pretrained models to recurrent ones results in better performance at a given compute budget than simply post-training the original non-recurrent language model."
+- [RLoop: An Self-Improving Framework for Reinforcement Learning with Iterative Policy Initialization](https://arxiv.org/abs/2511.04285)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
