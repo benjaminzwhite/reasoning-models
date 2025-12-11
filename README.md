@@ -350,6 +350,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [RLoop: An Self-Improving Framework for Reinforcement Learning with Iterative Policy Initialization](https://arxiv.org/abs/2511.04285)
 - [When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought](https://arxiv.org/abs/2511.02779) - sketchpad type approaches; seen several papers on this before but seems to work OK here?
 - [Terra Nova: A Comprehensive Challenge Environment for Intelligent Agents](https://arxiv.org/abs/2511.15378) - not strictly reasoning, but a nice environment for RL; it's a Civilization V kind of game and you need to reason about strategies also
+- [Towards Robust Mathematical Reasoning](https://arxiv.org/abs/2511.01846) - Google DeepMind; IMO-Bench "... played a crucial role in our historic achievement of the gold-level performance at IMO 2025 with Gemini Deep Think"
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
@@ -632,6 +633,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Inside vLLM: Anatomy of a High-Throughput LLM Inference System](https://www.aleksagordic.com/blog/vllm) - not directly reasoning related but a great blog for understanding vLLM, for model training purposes
 - [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/) - really nice blog post by Lilian Weng
 - [The Hidden Drivers of HRM's Performance on ARC-AGI](https://arcprize.org/blog/hrm-analysis) - a blog by ARC prize team examining the recent Hierarchical Reasoning Model performance (27M parameter model that achieved high performance on AGI-1 leaderboard)
+- [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath)
 
 #### Workshops
 
