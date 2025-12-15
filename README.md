@@ -31,7 +31,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation](https://arxiv.org/abs/2503.12854) - read this with the Tsinghua/SJTU paper above; seems using a strong base model and some DPO works to boost reasoning performance
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/abs/2504.20571)
 - [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/abs/2504.21776) - nice Deep Research implementation, has Github [https://github.com/RUC-NLPIR/WebThinker](https://github.com/RUC-NLPIR/WebThinker)
-- [100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models](https://arxiv.org/abs/2505.00551) - nice review
+- [100 Days After DeepSeek-R1: A  on Replication Studies and More Directions for Reasoning Language Models](https://arxiv.org/abs/2505.00551) - nice review
 - [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2504.20073) - reasoning + agents, has Github and code etc.
 - [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - has a cool project page also [https://andrewzh112.github.io/absolute-zero-reasoner/](https://andrewzh112.github.io/absolute-zero-reasoner/)
 - [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/abs/2505.03981) - Microsoft Research, they train entirely on text and find that reasoning transfers to multimodal (image) performance
@@ -376,6 +376,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.16782) - CoCoNut type experiments on latent space reasoning etc.
 - [A Survey on Latent Reasoning](https://arxiv.org/abs/2507.06203) - " We begin by examining the foundational role of neural network layers as the computational substrate for reasoning, highlighting how hierarchical representations support complex transformations. Next, we explore diverse latent reasoning methodologies, including activation-based recurrence, hidden state propagation, and fine-tuning strategies that compress or internalize explicit reasoning traces. Finally, we discuss advanced paradigms such as infinite-depth latent reasoning via masked diffusion models, which enable globally consistent and reversible reasoning processes."
 - [Don't Overthink It: A Survey of Efficient R1-style Large Reasoning Models](https://arxiv.org/abs/2508.02120) - associated Github page [https://github.com/yuelinan/Awesome-Efficient-R1-style-LRMs](https://github.com/yuelinan/Awesome-Efficient-R1-style-LRMs)
+- [Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks](https://arxiv.org/abs/2510.25760)
 
 #### Topic - Tool Use/Function Calling
 
