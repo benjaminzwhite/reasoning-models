@@ -354,6 +354,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Terra Nova: A Comprehensive Challenge Environment for Intelligent Agents](https://arxiv.org/abs/2511.15378) - not strictly reasoning, but a nice environment for RL; it's a Civilization V kind of game and you need to reason about strategies also
 - [Towards Robust Mathematical Reasoning](https://arxiv.org/abs/2511.01846) - Google DeepMind; IMO-Bench "... played a crucial role in our historic achievement of the gold-level performance at IMO 2025 with Gemini Deep Think"
 - [PretrainZero: Reinforcement Active Pretraining](https://arxiv.org/abs/2512.03442)
+- [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](https://arxiv.org/abs/2512.04069)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
