@@ -96,6 +96,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Environments](https://arxiv.org/abs/2511.07317) - Recent from AI2/University of Washington, seems code is public (check the RLVE-Gym).
 - [Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open Language Foundation](https://arxiv.org/abs/2510.22115) - Ling 2.0 Technical Report; nice details
 - [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556)
+- [On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783) - nice study
 
 #### Topic - General or unsorted
 
