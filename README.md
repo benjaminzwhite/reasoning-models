@@ -355,6 +355,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Towards Robust Mathematical Reasoning](https://arxiv.org/abs/2511.01846) - Google DeepMind; IMO-Bench "... played a crucial role in our historic achievement of the gold-level performance at IMO 2025 with Gemini Deep Think"
 - [PretrainZero: Reinforcement Active Pretraining](https://arxiv.org/abs/2512.03442)
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](https://arxiv.org/abs/2512.04069)
+- [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://arxiv.org/abs/2512.07461)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
