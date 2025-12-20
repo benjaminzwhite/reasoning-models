@@ -97,6 +97,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open Language Foundation](https://arxiv.org/abs/2510.22115) - Ling 2.0 Technical Report; nice details
 - [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556)
 - [On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783) - nice study
+- [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/abs/2512.01374) - Qwen team; really nice experimental study etc.
 
 #### Topic - General or unsorted
 
