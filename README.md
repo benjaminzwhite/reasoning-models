@@ -357,6 +357,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [PretrainZero: Reinforcement Active Pretraining](https://arxiv.org/abs/2512.03442)
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](https://arxiv.org/abs/2512.04069)
 - [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://arxiv.org/abs/2512.07461)
+- [SPARK: Stepwise Process-Aware Rewards for Reference-Free Reinforcement Learning](https://arxiv.org/abs/2512.03244) - process reward models
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
