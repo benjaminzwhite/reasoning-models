@@ -553,6 +553,7 @@ TODO: expand with separate tags
 - [Nav-R1: Reasoning and Navigation in Embodied Scenes](https://arxiv.org/abs/2509.10884) - cool; nice website also with videos [https://aigeeksgroup.github.io/Nav-R1/](https://aigeeksgroup.github.io/Nav-R1/)
 - [ThinkMorph: Emergent Properties in Multimodal Interleaved Chain-of-Thought Reasoning](https://arxiv.org/abs/2510.27492) - I thought section 4 on the Emergent Properties was interesting; "We identify eight distinct types of unseen visual manipulations, with zoom-in operations being the most common. As shown in Figure 2 (lower panel) and Figure 4, these manipulations also include inpainting, multi-box generation, motion forecasting, perspective transformation, and region cropping, among others. These emergent behaviors are not rare: on some benchmarks, unseen manipulations account for up to 10% of all visual operations produced during inference. Importantly, these operations are not arbitrary artifacts but precise and task-effective visual actions that contribute directly to problem solving. For example, when asked “Is the bell pepper red or yellow?”, the model automatically generates a zoomed-in view to better distinguish subtle color differences, which closely mirroring human visual inspection without explicit prompting"
 - [VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](https://arxiv.org/abs/2510.23497)
+- [WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](https://arxiv.org/abs/2512.02425)
 
 #### Topic - Robotics
 
