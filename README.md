@@ -357,8 +357,15 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Towards Robust Mathematical Reasoning](https://arxiv.org/abs/2511.01846) - Google DeepMind; IMO-Bench "... played a crucial role in our historic achievement of the gold-level performance at IMO 2025 with Gemini Deep Think"
 - [PretrainZero: Reinforcement Active Pretraining](https://arxiv.org/abs/2512.03442)
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](https://arxiv.org/abs/2512.04069)
-- [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://arxiv.org/abs/2512.07461)
 - [SPARK: Stepwise Process-Aware Rewards for Reference-Free Reinforcement Learning](https://arxiv.org/abs/2512.03244) - process reward models
+
+#### Topic - Parallel Reasoning
+
+Start with the first-linked survey.
+
+- [A Survey on Parallel Reasoning](https://arxiv.org/abs/2510.12164)
+- [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://arxiv.org/abs/2512.07461)
+- [ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models](https://arxiv.org/abs/2512.07843)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
