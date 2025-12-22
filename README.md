@@ -648,6 +648,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/) - really nice blog post by Lilian Weng
 - [The Hidden Drivers of HRM's Performance on ARC-AGI](https://arcprize.org/blog/hrm-analysis) - a blog by ARC prize team examining the recent Hierarchical Reasoning Model performance (27M parameter model that achieved high performance on AGI-1 leaderboard)
 - [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath)
+- [Building Olmo 3 Think](https://www.interconnects.ai/p/building-olmo-3-think) - Nathan Lambert video
 
 #### Workshops
 
