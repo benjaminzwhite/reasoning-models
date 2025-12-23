@@ -358,6 +358,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [PretrainZero: Reinforcement Active Pretraining](https://arxiv.org/abs/2512.03442)
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](https://arxiv.org/abs/2512.04069)
 - [SPARK: Stepwise Process-Aware Rewards for Reference-Free Reinforcement Learning](https://arxiv.org/abs/2512.03244) - process reward models
+- [Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://arxiv.org/abs/2512.10739)
 
 #### Topic - Parallel Reasoning
 
