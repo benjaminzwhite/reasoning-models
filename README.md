@@ -98,6 +98,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556)
 - [On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783) - nice study
 - [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/abs/2512.01374) - Qwen team; really nice experimental study etc.
+- [QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management](https://arxiv.org/abs/2512.12967) - Qwen team; nice technical report
 
 #### Topic - General or unsorted
 
