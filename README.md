@@ -361,6 +361,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SPARK: Stepwise Process-Aware Rewards for Reference-Free Reinforcement Learning](https://arxiv.org/abs/2512.03244) - process reward models
 - [Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving](https://arxiv.org/abs/2512.10739)
 - [OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification](https://arxiv.org/abs/2512.10756)
+- [V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions](https://arxiv.org/abs/2512.11995)
 
 #### Topic - Parallel Reasoning
 
