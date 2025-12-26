@@ -364,6 +364,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions](https://arxiv.org/abs/2512.11995)
 - [MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/abs/2512.14691)
 - [Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](https://arxiv.org/abs/2512.13607)
+- [TraPO: A Semi-Supervised Reinforcement Learning Framework for Boosting LLM Reasoning](https://arxiv.org/abs/2512.13106)
 
 #### Topic - Parallel Reasoning
 
