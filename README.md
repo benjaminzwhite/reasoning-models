@@ -363,6 +363,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification](https://arxiv.org/abs/2512.10756)
 - [V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions](https://arxiv.org/abs/2512.11995)
 - [MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/abs/2512.14691)
+- [Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](https://arxiv.org/abs/2512.13607)
 
 #### Topic - Parallel Reasoning
 
