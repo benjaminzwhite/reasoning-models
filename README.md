@@ -501,6 +501,7 @@ Start with the first-linked survey.
 - [StepFun-Formalizer: Unlocking the Autoformalization Potential of LLMs through Knowledge-Reasoning Fusion](https://arxiv.org/abs/2508.04440)
 - [Putnam-AXIOM: A Functional and Static Benchmark](https://arxiv.org/abs/2508.08292)
 - [Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier Math](https://arxiv.org/abs/2510.13744) - "a human-annotated, step-level verification benchmark produced with over 500 hours of human labor"
+- [Nemotron-Math: Efficient Long-Context Distillation of Mathematical Reasoning from Multi-Mode Supervision](https://arxiv.org/abs/2512.15489)
 
 #### Topic - Coding
 
