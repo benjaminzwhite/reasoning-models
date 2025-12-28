@@ -99,6 +99,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](https://arxiv.org/abs/2512.07783) - nice study
 - [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/abs/2512.01374) - Qwen team; really nice experimental study etc.
 - [QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management](https://arxiv.org/abs/2512.12967) - Qwen team; nice technical report
+- [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://arxiv.org/abs/2512.16649)
 
 #### Topic - General or unsorted
 
