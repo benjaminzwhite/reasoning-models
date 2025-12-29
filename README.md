@@ -100,6 +100,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Stabilizing Reinforcement Learning with LLMs: Formulation and Practices](https://arxiv.org/abs/2512.01374) - Qwen team; really nice experimental study etc.
 - [QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management](https://arxiv.org/abs/2512.12967) - Qwen team; nice technical report
 - [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://arxiv.org/abs/2512.16649)
+- [INTELLECT-3: Technical Report](https://arxiv.org/abs/2512.16144)
 
 #### Topic - General or unsorted
 
@@ -502,6 +503,7 @@ Start with the first-linked survey.
 - [Putnam-AXIOM: A Functional and Static Benchmark](https://arxiv.org/abs/2508.08292)
 - [Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier Math](https://arxiv.org/abs/2510.13744) - "a human-annotated, step-level verification benchmark produced with over 500 hours of human labor"
 - [Nemotron-Math: Efficient Long-Context Distillation of Mathematical Reasoning from Multi-Mode Supervision](https://arxiv.org/abs/2512.15489)
+- [Seed-Prover 1.5: Mastering Undergraduate-Level Theorem Proving via Learning from Experience](https://arxiv.org/abs/2512.17260)
 
 #### Topic - Coding
 
