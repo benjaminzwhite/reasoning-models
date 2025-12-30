@@ -101,6 +101,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management](https://arxiv.org/abs/2512.12967) - Qwen team; nice technical report
 - [JustRL: Scaling a 1.5B LLM with a Simple RL Recipe](https://arxiv.org/abs/2512.16649)
 - [INTELLECT-3: Technical Report](https://arxiv.org/abs/2512.16144)
+- [Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605)
 
 #### Topic - General or unsorted
 
