@@ -369,6 +369,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](https://arxiv.org/abs/2512.13607)
 - [TraPO: A Semi-Supervised Reinforcement Learning Framework for Boosting LLM Reasoning](https://arxiv.org/abs/2512.13106)
 - [Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2512.15687)
+- [NVIDIA Nemotron 3: Efficient and Open Intelligence](https://arxiv.org/abs/2512.20856)
 
 #### Topic - Parallel Reasoning
 
