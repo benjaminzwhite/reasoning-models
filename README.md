@@ -370,6 +370,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [TraPO: A Semi-Supervised Reinforcement Learning Framework for Boosting LLM Reasoning](https://arxiv.org/abs/2512.13106)
 - [Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2512.15687)
 - [NVIDIA Nemotron 3: Efficient and Open Intelligence](https://arxiv.org/abs/2512.20856)
+- [Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://arxiv.org/abs/2512.20848)
+- [Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2512.21625)
 
 #### Topic - Parallel Reasoning
 
