@@ -373,6 +373,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://arxiv.org/abs/2512.20848)
 - [Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2512.21625)
 - [Meta-RL Induces Exploration in Language Agents](https://arxiv.org/abs/2512.16848)
+- [Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070)
 
 #### Topic - Parallel Reasoning
 
