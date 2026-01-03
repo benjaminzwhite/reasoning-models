@@ -375,6 +375,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Meta-RL Induces Exploration in Language Agents](https://arxiv.org/abs/2512.16848)
 - [Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070)
 - [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://arxiv.org/abs/2512.24617)
+- [From Trial-and-Error to Improvement: A Systematic Analysis of LLM Exploration Mechanisms in RLVR](https://arxiv.org/abs/2508.07534)
+- [MarsRL: Advancing Multi-Agent Reasoning System via Reinforcement Learning with Agentic Pipeline Parallelism](https://arxiv.org/abs/2511.11373) - Tencent
 
 #### Topic - Parallel Reasoning
 
