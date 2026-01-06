@@ -380,6 +380,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [MarsRL: Advancing Multi-Agent Reasoning System via Reinforcement Learning with Agentic Pipeline Parallelism](https://arxiv.org/abs/2511.11373) - Tencent
 - [DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models](https://arxiv.org/abs/2512.24165)
 - [Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models](https://arxiv.org/abs/2512.24618) - Tencent Youtu Lab; nice performance on reasoning tasks for small model
+- [Recursive Language Models](https://arxiv.org/abs/2512.24601) - not directly reasoning related but they test the approach on several long-context/reasoning datasets and tasks
 
 #### Topic - Parallel Reasoning
 
