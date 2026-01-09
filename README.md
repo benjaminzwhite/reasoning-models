@@ -382,6 +382,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models](https://arxiv.org/abs/2512.24618) - Tencent Youtu Lab; nice performance on reasoning tasks for small model
 - [Recursive Language Models](https://arxiv.org/abs/2512.24601) - not directly reasoning related but they test the approach on several long-context/reasoning datasets and tasks
 - [Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://arxiv.org/abs/2601.03872)
+- [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242)
 
 #### Topic - Parallel Reasoning
 
@@ -479,6 +480,7 @@ Start with the first-linked survey.
 - [Which Heads Matter for Reasoning? RL-Guided KV Cache Compression](https://arxiv.org/abs/2510.08525)
 - [Arbitrage: Efficient Reasoning via Advantage-Aware Speculation](https://arxiv.org/abs/2512.05033) - "Across multiple mathematical reasoning benchmarks, Arbitrage consistently surpasses prior step-level Speculative Decoding baselines, reducing inference latency by up to 2x at matched accuracy."
 - [Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding](https://arxiv.org/abs/2512.01278)
+- [RelayLLM: Efficient Reasoning via Collaborative Decoding](https://arxiv.org/abs/2601.05167)
  
 #### Topic - Ensembling, Boosting, Stacking etc.
 
