@@ -383,6 +383,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Recursive Language Models](https://arxiv.org/abs/2512.24601) - not directly reasoning related but they test the approach on several long-context/reasoning datasets and tasks
 - [Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning](https://arxiv.org/abs/2601.03872)
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242)
+- [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)
 
 #### Topic - Parallel Reasoning
 
