@@ -385,6 +385,10 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242)
 - [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)
 
+#### Topic - Routing
+
+- [When to Reason: Semantic Router for vLLM](https://arxiv.org/abs/2510.08731)
+
 #### Topic - Parallel Reasoning
 
 Start with the first-linked survey.
