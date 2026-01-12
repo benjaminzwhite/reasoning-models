@@ -388,6 +388,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 #### Topic - Routing
 
 - [When to Reason: Semantic Router for vLLM](https://arxiv.org/abs/2510.08731)
+- [TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration](https://arxiv.org/abs/2601.04544)
 
 #### Topic - Parallel Reasoning
 
