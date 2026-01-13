@@ -103,6 +103,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [INTELLECT-3: Technical Report](https://arxiv.org/abs/2512.16144)
 - [Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605)
 - [A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models](https://arxiv.org/abs/2510.08049) - TODO: create separate section on reward models
+- [PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://arxiv.org/abs/2601.05593) - StepFun, Tsinghua, Peking
 
 #### Topic - General or unsorted
 
