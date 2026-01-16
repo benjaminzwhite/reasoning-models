@@ -388,6 +388,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)
 - [Lost in the Noise: How Reasoning Models Fail with Contextual Distractors](https://arxiv.org/abs/2601.07226)
 - [VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory](https://arxiv.org/abs/2601.08665) - cool, nice project page also [https://wsakobe.github.io/VLingNav-web/](https://wsakobe.github.io/VLingNav-web/)
+- [Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning](https://arxiv.org/abs/2601.07641)
 
 #### Topic - Routing
 
