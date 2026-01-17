@@ -390,6 +390,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory](https://arxiv.org/abs/2601.08665) - cool, nice project page also [https://wsakobe.github.io/VLingNav-web/](https://wsakobe.github.io/VLingNav-web/)
 - [Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning](https://arxiv.org/abs/2601.07641)
 - [Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://arxiv.org/abs/2601.08763)
+- [MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](https://arxiv.org/abs/2601.10712)
 
 #### Topic - Routing
 
