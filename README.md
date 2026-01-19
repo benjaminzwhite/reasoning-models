@@ -574,6 +574,7 @@ Start with the first-linked survey.
 - [From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning](https://arxiv.org/abs/2509.23768)
 - [ELAIPBench: A Benchmark for Expert-Level Artificial Intelligence Paper Understanding](https://arxiv.org/abs/2510.10549)
 - [Chem-R: Learning to Reason as a Chemist](https://arxiv.org/abs/2510.16880)
+- [AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems](https://arxiv.org/abs/2601.11354) - very cool domain! "We introduce AstroReason-Bench, a comprehensive benchmark for evaluating agentic planning in Space Planning Problems (SPP), a family of high-stakes problems with heterogeneous objectives, strict physical constraints, and long-horizon decision-making."
 
 #### Topic - Multimodal
 
