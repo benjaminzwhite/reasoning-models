@@ -394,6 +394,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary](https://arxiv.org/abs/2601.10201)
 - [A^3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation](https://arxiv.org/abs/2601.09274)
 - [Your Group-Relative Advantage Is Biased](https://arxiv.org/abs/2601.08521)
+- [SIN-Bench: Tracing Native Evidence Chains in Long-Context Multimodal Scientific Interleaved Literature](https://arxiv.org/abs/2601.10108) - nice approach to formulating tasks that require reasoning
 
 #### Topic - Routing
 
