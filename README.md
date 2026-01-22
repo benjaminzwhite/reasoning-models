@@ -396,6 +396,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Your Group-Relative Advantage Is Biased](https://arxiv.org/abs/2601.08521)
 - [SIN-Bench: Tracing Native Evidence Chains in Long-Context Multimodal Scientific Interleaved Literature](https://arxiv.org/abs/2601.10108) - nice approach to formulating tasks that require reasoning
 - [Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](https://arxiv.org/abs/2601.11061)
+- [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825) - has some nice things on mechanistic interpretability of reasoning traces also
 
 #### Topic - Routing
 
