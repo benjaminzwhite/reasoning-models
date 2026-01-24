@@ -106,6 +106,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning](https://arxiv.org/abs/2601.05593) - StepFun, Tsinghua, Peking
 - [Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372) - DeepSeek; "Most notably, while the memory module is expected to aid knowledge retrieval (e.g., MMLU +3.4; CMMLU +4.0), we observe even larger gains in general reasoning (e.g., BBH +5.0; ARC-Challenge +3.7) and code/math domains~(HumanEval +3.0; MATH +2.4). Mechanistic analyses reveal that Engram relieves the backbone's early layers from static reconstruction, effectively deepening the network for complex reasoning.", Github page is [https://github.com/deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)
 - [RoboBrain 2.5: Depth in Sight, Time in Mind](https://arxiv.org/abs/2601.14352) - BAAI; really nice reasoning robotics - project page is [https://superrobobrain.github.io/](https://superrobobrain.github.io/)
+- [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538) - really nice review
 
 #### Topic - General or unsorted
 
