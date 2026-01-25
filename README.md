@@ -399,6 +399,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SIN-Bench: Tracing Native Evidence Chains in Long-Context Multimodal Scientific Interleaved Literature](https://arxiv.org/abs/2601.10108) - nice approach to formulating tasks that require reasoning
 - [Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](https://arxiv.org/abs/2601.11061)
 - [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825) - has some nice things on mechanistic interpretability of reasoning traces also
+- [rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy Injection](https://arxiv.org/abs/2512.08300) - "... this paper proposes a novel reinforced strategy injection mechanism (rSIM), that enables any LLM to become an RLM by employing a small planner to guide the LLM's CoT through the adaptive injection of reasoning strategies. To achieve this, the planner (leader agent) is jointly trained with an LLM (follower agent) using multi-agent RL (MARL), based on a leader-follower framework and straightforward rule-based rewards."
 
 #### Topic - Routing
 
