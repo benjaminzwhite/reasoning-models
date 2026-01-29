@@ -107,6 +107,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://arxiv.org/abs/2601.07372) - DeepSeek; "Most notably, while the memory module is expected to aid knowledge retrieval (e.g., MMLU +3.4; CMMLU +4.0), we observe even larger gains in general reasoning (e.g., BBH +5.0; ARC-Challenge +3.7) and code/math domains~(HumanEval +3.0; MATH +2.4). Mechanistic analyses reveal that Engram relieves the backbone's early layers from static reconstruction, effectively deepening the network for complex reasoning.", Github page is [https://github.com/deepseek-ai/Engram](https://github.com/deepseek-ai/Engram)
 - [RoboBrain 2.5: Depth in Sight, Time in Mind](https://arxiv.org/abs/2601.14352) - BAAI; really nice reasoning robotics - project page is [https://superrobobrain.github.io/](https://superrobobrain.github.io/)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538) - really nice review
+- [Innovator-VL: A Multimodal Large Language Model for Scientific Discovery](https://arxiv.org/abs/2601.19325) - project page is [https://innovatorlm.github.io/Innovator-VL/](https://innovatorlm.github.io/Innovator-VL/)
 
 #### Topic - General or unsorted
 
@@ -404,6 +405,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability](https://arxiv.org/abs/2601.18778)
 - [DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints](https://arxiv.org/abs/2601.18137) - Qwen team; "...we introduce DeepPlanning, a challenging benchmark for practical long-horizon agent planning. It features multi-day travel planning and multi-product shopping tasks that require proactive information acquisition, local constrained reasoning, and global constrained optimization. Evaluations on DeepPlanning show that even frontier agentic LLMs struggle with these problems, highlighting the importance of reliable explicit reasoning patterns and parallel tool use for achieving better effectiveness-efficiency trade-offs. Error analysis further points to promising directions for improving agentic LLMs over long planning horizons. We open-source the code and data to support future research."
 - [AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning](https://arxiv.org/abs/2601.18631)
+- [Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation](https://arxiv.org/abs/2601.20614)
 
 #### Topic - Routing
 
