@@ -407,6 +407,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning](https://arxiv.org/abs/2601.18631)
 - [Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation](https://arxiv.org/abs/2601.20614)
 - [Reinforcement Learning via Self-Distillation](https://arxiv.org/abs/2601.20802)
+- [Exploring Reasoning Reward Model for Agents](https://arxiv.org/abs/2601.22154)
 
 #### Topic - Routing
 
