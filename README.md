@@ -408,6 +408,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation](https://arxiv.org/abs/2601.20614)
 - [Reinforcement Learning via Self-Distillation](https://arxiv.org/abs/2601.20802)
 - [Exploring Reasoning Reward Model for Agents](https://arxiv.org/abs/2601.22154)
+- [Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning](https://arxiv.org/abs/2601.20209)
 
 #### Topic - Routing
 
