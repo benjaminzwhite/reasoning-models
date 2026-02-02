@@ -409,6 +409,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Reinforcement Learning via Self-Distillation](https://arxiv.org/abs/2601.20802)
 - [Exploring Reasoning Reward Model for Agents](https://arxiv.org/abs/2601.22154)
 - [Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning](https://arxiv.org/abs/2601.20209)
+- [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification](https://arxiv.org/abs/2601.22642)
+- [ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas](https://arxiv.org/abs/2601.21558)
 
 #### Topic - Routing
 
