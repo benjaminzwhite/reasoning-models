@@ -651,6 +651,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?](https://arxiv.org/abs/2504.01935) - more theoretical but maybe interesting
 - [Pantograph: A Machine-to-Machine Interaction Interface for Advanced Theorem Proving, High Level Reasoning, and Data Extraction in Lean 4](https://arxiv.org/abs/2410.16429) - Lean, mathematics
 - [Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions](https://arxiv.org/abs/2512.00097)
+- [Sparse Reward Subsystem in Large Language Models](https://arxiv.org/abs/2602.00986)
 
 ---
 
