@@ -426,6 +426,7 @@ Start with the first-linked survey.
 - [A Survey on Parallel Reasoning](https://arxiv.org/abs/2510.12164)
 - [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](https://arxiv.org/abs/2512.07461)
 - [ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models](https://arxiv.org/abs/2512.07843)
+- [Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing](https://arxiv.org/abs/2602.03845)
 
 #### Topic - Verifier-free RL and approaches without External Rewards
 
