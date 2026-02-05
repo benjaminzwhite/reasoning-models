@@ -413,6 +413,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification](https://arxiv.org/abs/2601.22642)
 - [ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas](https://arxiv.org/abs/2601.21558)
 - [Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning](https://arxiv.org/abs/2602.01058)
+- [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879)
+- [Likelihood-Based Reward Designs for General LLM Reasoning](https://arxiv.org/abs/2602.03979)
 
 #### Topic - Routing
 
