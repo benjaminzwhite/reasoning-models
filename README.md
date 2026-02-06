@@ -490,6 +490,7 @@ Start with the first-linked survey.
 - [ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability](https://arxiv.org/abs/2508.07050) - as of August 2025 they claim SOTA on the BRIGHT benchmark
 - [DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking](https://arxiv.org/abs/2510.20168) - nice for reasoning in agents; "In DeepWideSearch, agents must process a large volume of data, each requiring deep reasoning over multi-hop retrieval paths. Specifically, we propose two methods to converse established datasets, resulting in a curated collection of 220 questions spanning 15 diverse domains."
 - [LimRank: Less is More for Reasoning-Intensive Information Reranking](https://arxiv.org/abs/2510.23544) - uses BRIGHT benchmark
+- [Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities](https://arxiv.org/abs/2601.21937)
 
 #### Topic - X of Thoughts variants
 
