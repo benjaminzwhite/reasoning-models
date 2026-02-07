@@ -415,6 +415,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning](https://arxiv.org/abs/2602.01058)
 - [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879)
 - [Likelihood-Based Reward Designs for General LLM Reasoning](https://arxiv.org/abs/2602.03979)
+- [Reinforced Attention Learning](https://arxiv.org/abs/2602.04884)
 
 #### Topic - Routing
 
