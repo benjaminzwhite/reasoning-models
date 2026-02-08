@@ -416,6 +416,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879)
 - [Likelihood-Based Reward Designs for General LLM Reasoning](https://arxiv.org/abs/2602.03979)
 - [Reinforced Attention Learning](https://arxiv.org/abs/2602.04884)
+- [ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327) - "... we introduce Grounded LookAhead Distillation (GLAD), where the agent undergoes supervised fine-tuning on trajectories derived from environment-based search. By compressing complex search trees into concise, causal reasoning chains, the agent learns the logic of foresight without the computational overhead of inference-time search. ..."
 
 #### Topic - Routing
 
