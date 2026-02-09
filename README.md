@@ -564,6 +564,7 @@ Start with the first-linked survey.
 - [Seed-Prover 1.5: Mastering Undergraduate-Level Theorem Proving via Learning from Experience](https://arxiv.org/abs/2512.17260)
 - [CogFlow: Bridging Perception and Reasoning through Knowledge Internalization for Visual Mathematical Problem Solving](https://arxiv.org/abs/2601.01874)
 - [Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics](https://arxiv.org/abs/2601.14027) - not entirely about reasoning model per se, but nice approach also
+- [Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](https://arxiv.org/abs/2602.06291)
 
 #### Topic - Coding
 
@@ -601,6 +602,7 @@ Start with the first-linked survey.
 - [ELAIPBench: A Benchmark for Expert-Level Artificial Intelligence Paper Understanding](https://arxiv.org/abs/2510.10549)
 - [Chem-R: Learning to Reason as a Chemist](https://arxiv.org/abs/2510.16880)
 - [AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems](https://arxiv.org/abs/2601.11354) - very cool domain! "We introduce AstroReason-Bench, a comprehensive benchmark for evaluating agentic planning in Space Planning Problems (SPP), a family of high-stakes problems with heterogeneous objectives, strict physical constraints, and long-horizon decision-making."
+- [Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making](https://arxiv.org/abs/2602.06570) - "Key capabilities include: (i) proactive information acquisition to resolve ambiguity; (ii) long-horizon reasoning that unifies scattered evidence into coherent diagnoses; and (iii) adaptive hallucination suppression to ensure factual reliability. Empirical evaluations demonstrate that Baichuan-M3 achieves state-of-the-art results on HealthBench, the newly introduced HealthBench-Hallu and ScanBench, significantly outperforming GPT-5.2 in clinical inquiry, advisory and safety."
 
 #### Topic - Multimodal
 
