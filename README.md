@@ -110,6 +110,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Innovator-VL: A Multimodal Large Language Model for Scientific Discovery](https://arxiv.org/abs/2601.19325) - project page is [https://innovatorlm.github.io/Innovator-VL/](https://innovatorlm.github.io/Innovator-VL/)
 - [Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276) - Kimi K2.5 technical report; figures 11 and 12 in appendix on the visual reasoning and understanding 40 hour game playthrough are cool
 - [Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://arxiv.org/abs/2602.10604) - StepFun, technical report
+- [Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](https://arxiv.org/abs/2602.03773)
 
 #### Topic - General or unsorted
 
