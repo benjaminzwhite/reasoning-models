@@ -421,6 +421,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [LatentChem: From Textual CoT to Latent Thinking in Chemical Reasoning](https://arxiv.org/abs/2602.07075)
 - [P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads](https://arxiv.org/abs/2602.09443) - cool project page, they have some nice visualizations [https://prime-rl.github.io/P1-VL/](https://prime-rl.github.io/P1-VL/)
 - [When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning](https://arxiv.org/abs/2602.10560)
+- [Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models](https://arxiv.org/abs/2602.10224)
 
 #### Topic - Routing
 
