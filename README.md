@@ -613,6 +613,7 @@ Start with the first-linked survey.
 - [AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems](https://arxiv.org/abs/2601.11354) - very cool domain! "We introduce AstroReason-Bench, a comprehensive benchmark for evaluating agentic planning in Space Planning Problems (SPP), a family of high-stakes problems with heterogeneous objectives, strict physical constraints, and long-horizon decision-making."
 - [Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making](https://arxiv.org/abs/2602.06570) - "Key capabilities include: (i) proactive information acquisition to resolve ambiguity; (ii) long-horizon reasoning that unifies scattered evidence into coherent diagnoses; and (iii) adaptive hallucination suppression to ensure factual reliability. Empirical evaluations demonstrate that Baichuan-M3 achieves state-of-the-art results on HealthBench, the newly introduced HealthBench-Hallu and ScanBench, significantly outperforming GPT-5.2 in clinical inquiry, advisory and safety."
 - [MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://arxiv.org/abs/2602.12705)
+- [LawThinker: A Deep Research Legal Agent in Dynamic Environments](https://arxiv.org/abs/2602.12056)
 
 #### Topic - Multimodal
 
