@@ -426,6 +426,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Effective Reasoning Chains Reduce Intrinsic Dimensionality](https://arxiv.org/abs/2602.09276)
 - [ECHO-2: A Large-Scale Distributed Rollout Framework for Cost-Efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192)
 - [GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics](https://arxiv.org/abs/2602.12617)
+- [InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](https://arxiv.org/abs/2602.14367)
 
 #### Topic - Routing
 
