@@ -427,6 +427,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [ECHO-2: A Large-Scale Distributed Rollout Framework for Cost-Efficient Reinforcement Learning](https://arxiv.org/abs/2602.02192)
 - [GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics](https://arxiv.org/abs/2602.12617)
 - [InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](https://arxiv.org/abs/2602.14367)
+- [Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality](https://arxiv.org/abs/2602.14080) - thinking/inference time computation to enhance recall of facts
 
 #### Topic - Routing
 
@@ -658,6 +659,7 @@ TODO: expand with separate tags
 - [Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998)
 - [Robix: A Unified Model for Robot Interaction, Reasoning and Planning](https://arxiv.org/abs/2509.01106)
 - [Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision-Language-Action Models via Latent Iterative Reasoning](https://arxiv.org/abs/2602.07845) - nice project page also [https://rd-vla.github.io/](https://rd-vla.github.io/)
+- [RynnBrain: Open Embodied Foundation Models](https://arxiv.org/abs/2602.14979) - DAMO Alibaba
 
 #### Topic - Adjacent subjects, maybe related
 
