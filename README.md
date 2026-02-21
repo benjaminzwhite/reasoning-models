@@ -429,6 +429,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics](https://arxiv.org/abs/2602.12617)
 - [InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](https://arxiv.org/abs/2602.14367)
 - [Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality](https://arxiv.org/abs/2602.14080) - thinking/inference time computation to enhance recall of facts
+- [Language-based Trial and Error Falls Behind in the Era of Experience](https://arxiv.org/abs/2601.21754)
 
 #### Topic - Routing
 
@@ -454,6 +455,7 @@ Start with the first-linked survey.
 - [RLPR: Extrapolating RLVR to General Domains without Verifiers](https://arxiv.org/abs/2506.18254)
 - [The Invisible Leash: Why RLVR May Not Escape Its Origin](https://arxiv.org/abs/2507.14843)
 - [Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR](https://arxiv.org/abs/2507.15778)
+- [Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process](https://arxiv.org/abs/2512.23988)
 
 #### Topic - Surveys and reviews
 
