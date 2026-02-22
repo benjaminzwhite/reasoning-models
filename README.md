@@ -112,6 +112,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters](https://arxiv.org/abs/2602.10604) - StepFun, technical report
 - [Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](https://arxiv.org/abs/2602.03773)
 - [Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments](https://arxiv.org/abs/2602.11964) - Meta; GAIA 2 benchmark
+- [CL-bench: A Benchmark for Context Learning](https://arxiv.org/abs/2602.03587) - "... we introduce CL-bench, a real-world benchmark consisting of 500 complex contexts, 1,899 tasks, and 31,607 verification rubrics, all crafted by experienced domain experts. Each task is designed such that the new content required to resolve it is contained within the corresponding context. Resolving tasks in CL-bench requires models to learn from the context, ranging from new domain-specific knowledge, rule systems, and complex procedures to laws derived from empirical data, all of which are absent from pre-training."
 
 #### Topic - General or unsorted
 
