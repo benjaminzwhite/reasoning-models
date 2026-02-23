@@ -431,6 +431,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](https://arxiv.org/abs/2602.14367)
 - [Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality](https://arxiv.org/abs/2602.14080) - thinking/inference time computation to enhance recall of facts
 - [Language-based Trial and Error Falls Behind in the Era of Experience](https://arxiv.org/abs/2601.21754)
+- [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](https://arxiv.org/abs/2602.08354)
 
 #### Topic - Routing
 
