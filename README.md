@@ -113,6 +113,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](https://arxiv.org/abs/2602.03773)
 - [Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments](https://arxiv.org/abs/2602.11964) - Meta; GAIA 2 benchmark
 - [CL-bench: A Benchmark for Context Learning](https://arxiv.org/abs/2602.03587) - "... we introduce CL-bench, a real-world benchmark consisting of 500 complex contexts, 1,899 tasks, and 31,607 verification rubrics, all crafted by experienced domain experts. Each task is designed such that the new content required to resolve it is contained within the corresponding context. Resolving tasks in CL-bench requires models to learn from the context, ranging from new domain-specific knowledge, rule systems, and complex procedures to laws derived from empirical data, all of which are absent from pre-training."
+- [A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159) - nice resource; also cool project page [https://video-reason.com/](https://video-reason.com/)
 
 #### Topic - General or unsorted
 
