@@ -434,6 +434,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Language-based Trial and Error Falls Behind in the Era of Experience](https://arxiv.org/abs/2601.21754)
 - [Does Your Reasoning Model Implicitly Know When to Stop Thinking?](https://arxiv.org/abs/2602.08354)
 - [From Perception to Action: An Interactive Benchmark for Vision Reasoning](https://arxiv.org/abs/2602.21015)
+- [AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games](https://arxiv.org/abs/2602.17594) - nice project page also [https://aigamestore.org/](https://aigamestore.org/)
 
 #### Topic - Routing
 
