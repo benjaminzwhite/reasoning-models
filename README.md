@@ -761,6 +761,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [The Hidden Drivers of HRM's Performance on ARC-AGI](https://arcprize.org/blog/hrm-analysis) - a blog by ARC prize team examining the recent Hierarchical Reasoning Model performance (27M parameter model that achieved high performance on AGI-1 leaderboard)
 - [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath)
 - [Building Olmo 3 Think](https://www.interconnects.ai/p/building-olmo-3-think) - Nathan Lambert video
+- [The End of SWE-Bench Verified — Mia Glaese & Olivia Watkins, OpenAI Frontier Evals & Human Data](https://www.latent.space/p/swe-bench-dead) - interesting blog; relevant about evals and benchmark saturation
 
 #### Workshops
 
