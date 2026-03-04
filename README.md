@@ -437,6 +437,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games](https://arxiv.org/abs/2602.17594) - nice project page also [https://aigamestore.org/](https://aigamestore.org/)
 - [POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration](https://arxiv.org/abs/2601.18779)
 - [LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](https://arxiv.org/abs/2602.20913) - CVPR 2026
+- [PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference](https://arxiv.org/abs/2603.02479)
 
 #### Topic - Routing
 
