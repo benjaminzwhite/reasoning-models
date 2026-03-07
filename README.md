@@ -441,6 +441,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [V_1: Unifying Generation and Self-Verification for Parallel Reasoners](https://arxiv.org/abs/2603.04304)
 - [BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning](https://arxiv.org/abs/2603.04124)
 - [Interactive Benchmarks](https://arxiv.org/abs/2603.04737)
+- [Learn Hard Problems During RL with Reference Guided Fine-tuning](https://arxiv.org/abs/2603.01223)
 
 #### Topic - Routing
 
