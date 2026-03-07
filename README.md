@@ -440,6 +440,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference](https://arxiv.org/abs/2603.02479)
 - [V_1: Unifying Generation and Self-Verification for Parallel Reasoners](https://arxiv.org/abs/2603.04304)
 - [BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning](https://arxiv.org/abs/2603.04124)
+- [Interactive Benchmarks](https://arxiv.org/abs/2603.04737)
 
 #### Topic - Routing
 
