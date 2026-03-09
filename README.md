@@ -443,6 +443,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Interactive Benchmarks](https://arxiv.org/abs/2603.04737)
 - [Learn Hard Problems During RL with Reference Guided Fine-tuning](https://arxiv.org/abs/2603.01223)
 - [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286) - ByteDance Seed
+- [Mario: Multimodal Graph Reasoning with Large Language Models](https://arxiv.org/abs/2603.05181) - CVPR 2026
 
 #### Topic - Routing
 
