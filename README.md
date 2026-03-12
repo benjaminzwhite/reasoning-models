@@ -445,6 +445,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286) - ByteDance Seed
 - [Mario: Multimodal Graph Reasoning with Large Language Models](https://arxiv.org/abs/2603.05181) - CVPR 2026
 - [Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs](https://arxiv.org/abs/2603.09906)
+- [Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2603.09117)
 
 #### Topic - Routing
 
