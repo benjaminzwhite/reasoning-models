@@ -448,6 +448,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2603.09117)
 - [GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing](https://arxiv.org/abs/2603.12264) - project page is [https://grade-bench.github.io/](https://grade-bench.github.io/)
 - [Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145)
+- [Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training](https://arxiv.org/abs/2603.12246)
 
 #### Topic - Routing
 
