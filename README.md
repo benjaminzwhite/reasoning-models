@@ -527,6 +527,7 @@ Start with the first-linked survey.
 - [LimRank: Less is More for Reasoning-Intensive Information Reranking](https://arxiv.org/abs/2510.23544) - uses BRIGHT benchmark
 - [Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities](https://arxiv.org/abs/2601.21937)
 - [LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval](https://arxiv.org/abs/2603.01425)
+- [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://arxiv.org/abs/2603.12180)
 
 #### Topic - X of Thoughts variants
 
