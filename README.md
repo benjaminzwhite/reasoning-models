@@ -116,6 +116,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159) - nice resource; also cool project page [https://video-reason.com/](https://video-reason.com/)
 - [daVinci-Env: Open SWE Environment Synthesis at Scale](https://arxiv.org/abs/2603.13023) - not directly reasoning related but really nice infrastructure/organization for generating environments
 - [Demystifing Video Reasoning](https://arxiv.org/abs/2603.16870) - "Reasoning in video generation models happens along diffusion steps, not frames. We discover Chain-of-Steps - a new understanding of how video models think."; cool and nice project page also [https://www.wruisi.com/demystifying_video_reasoning/](https://www.wruisi.com/demystifying_video_reasoning/)
+- [MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification](https://arxiv.org/abs/2603.15726)
 
 #### Topic - General or unsorted
 
