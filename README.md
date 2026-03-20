@@ -453,6 +453,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145)
 - [Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training](https://arxiv.org/abs/2603.12246)
 - [TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.12529)
+- [MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning](https://arxiv.org/abs/2603.16929)
 
 #### Topic - Routing
 
