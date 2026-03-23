@@ -455,6 +455,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.12529)
 - [MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning](https://arxiv.org/abs/2603.16929)
 - [CCTU: A Benchmark for Tool Use under Complex Constraints](https://arxiv.org/abs/2603.15309)
+- [TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation](https://arxiv.org/abs/2603.19039) - CVPR 2026, nice project page [https://shuyansy.github.io/terrascope/](https://shuyansy.github.io/terrascope/)
 
 #### Topic - Routing
 
