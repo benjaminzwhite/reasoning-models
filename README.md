@@ -458,6 +458,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [CCTU: A Benchmark for Tool Use under Complex Constraints](https://arxiv.org/abs/2603.15309)
 - [TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation](https://arxiv.org/abs/2603.19039) - CVPR 2026, nice project page [https://shuyansy.github.io/terrascope/](https://shuyansy.github.io/terrascope/)
 - [ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281)
+- [Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments](https://arxiv.org/abs/2603.23638) - interesting long horizon reasoning task
 
 #### Topic - Routing
 
