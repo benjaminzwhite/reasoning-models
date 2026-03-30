@@ -462,6 +462,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments](https://arxiv.org/abs/2603.23638) - interesting long horizon reasoning task
 - [Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models](https://arxiv.org/abs/2603.24844)
 - [Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe](https://arxiv.org/abs/2603.21972)
+- [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158)
 
 #### Topic - Routing
 
