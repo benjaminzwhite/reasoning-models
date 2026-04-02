@@ -465,6 +465,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158)
 - [Make Geometry Matter for Spatial Reasoning](https://arxiv.org/abs/2603.26639)
 - [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](https://arxiv.org/abs/2603.19835)
+- [MuSEAgent: A Multimodal Reasoning Agent with Stateful Experience](https://arxiv.org/abs/2603.27813)
 
 #### Topic - Routing
 
