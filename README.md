@@ -467,6 +467,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Make Geometry Matter for Spatial Reasoning](https://arxiv.org/abs/2603.26639)
 - [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](https://arxiv.org/abs/2603.19835)
 - [MuSEAgent: A Multimodal Reasoning Agent with Stateful Experience](https://arxiv.org/abs/2603.27813)
+- [LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model](https://arxiv.org/abs/2604.02097)
 
 #### Topic - Routing
 
