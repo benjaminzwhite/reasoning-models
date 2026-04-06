@@ -763,6 +763,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [FrontierCS: Evolving Challenges for Evolving Intelligence](https://arxiv.org/abs/2512.15699) - "Combining open-ended design, measurable progress, and expert curation, FrontierCS provides a benchmark at the frontier of computer-science difficulty. Empirically, we find that frontier reasoning models still lag far behind human experts on both the algorithmic and research tracks, that increasing reasoning budgets alone does not close this gap, and that models often over-optimize for generating merely workable code instead of discovering high-quality algorithms and system designs."
 - [T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning](https://arxiv.org/abs/2603.03790)
 - [OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning](https://arxiv.org/abs/2603.08655) - Databricks
+- [Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation](https://arxiv.org/abs/2604.02368) - ByteDance
 
 ---
 
