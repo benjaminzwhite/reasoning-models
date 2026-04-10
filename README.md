@@ -470,6 +470,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model](https://arxiv.org/abs/2604.02097)
 - [LightThinker++: From Reasoning Compression to Memory Management](https://arxiv.org/abs/2604.03679)
 - [Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning](https://arxiv.org/abs/2604.05404)
+- [Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://arxiv.org/abs/2604.06628)
 
 #### Topic - Routing
 
