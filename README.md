@@ -471,6 +471,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [LightThinker++: From Reasoning Compression to Memory Management](https://arxiv.org/abs/2604.03679)
 - [Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning](https://arxiv.org/abs/2604.05404)
 - [Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability](https://arxiv.org/abs/2604.06628)
+- [PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models](https://arxiv.org/abs/2604.08340)
 
 #### Topic - Routing
 
