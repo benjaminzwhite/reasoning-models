@@ -476,6 +476,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning](https://arxiv.org/abs/2602.22603)
 - [Process Reward Agents for Steering Knowledge-Intensive Reasoning](https://arxiv.org/abs/2604.09482)
 - [Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://arxiv.org/abs/2604.12374) - NVIDIA; nice technical report
+- [SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments](https://arxiv.org/abs/2604.14144)
 
 #### Topic - Routing
 
