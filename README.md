@@ -676,6 +676,7 @@ Start with the first-linked survey.
 - [LawThinker: A Deep Research Legal Agent in Dynamic Environments](https://arxiv.org/abs/2602.12056)
 - [DeonticBench: A Benchmark for Reasoning over Rules](https://arxiv.org/abs/2604.04443) - "... we introduce DEONTICBENCH, a benchmark of 6,232 tasks across U.S. federal taxes, airline baggage policies, U.S. immigration administration, and U.S. state housing law. These tasks can be approached in multiple ways, including direct reasoning in language or with the aid of symbolic computation. Besides free-form chain-of-thought reasoning, DEONTICBENCH enables an optional solver-based workflow in which models translate statutes and case facts into executable Prolog, leading to formal problem interpretations and an explicit program trace. We release reference Prolog programs for all instances."
 - [OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language Environment Simulation](https://arxiv.org/abs/2604.10866)
+- [FORGE: Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://arxiv.org/abs/2604.07413) - nice project page [https://ai4manufacturing.github.io/forge-web/](https://ai4manufacturing.github.io/forge-web/)
 
 #### Topic - Multimodal
 
