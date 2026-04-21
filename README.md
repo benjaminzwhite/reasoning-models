@@ -635,6 +635,7 @@ Start with the first-linked survey.
 - [Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics](https://arxiv.org/abs/2601.14027) - not entirely about reasoning model per se, but nice approach also
 - [Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math](https://arxiv.org/abs/2602.06291)
 - [Reasoning over mathematical objects: on-policy reward modeling and test time aggregation](https://arxiv.org/abs/2603.18886)
+- [MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584) - nice mathematics benchmark, ICLR 2026, MIT team; project webpage is [https://mathnet.mit.edu/](https://mathnet.mit.edu/)
 
 #### Topic - Coding
 
