@@ -479,6 +479,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments](https://arxiv.org/abs/2604.14144)
 - [LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning](https://arxiv.org/abs/2604.14922)
 - [PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074) - multi-turn reasoning for retrieval/relevance of memories in VLM context
+- [EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale](https://arxiv.org/abs/2604.17406)
 
 #### Topic - Routing
 
