@@ -481,6 +481,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [PersonaVLM: Long-Term Personalized Multimodal LLMs](https://arxiv.org/abs/2604.13074) - multi-turn reasoning for retrieval/relevance of memories in VLM context
 - [EvoMaster: A Foundational Evolving Agent Framework for Agentic Science at Scale](https://arxiv.org/abs/2604.17406)
 - [Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges](https://arxiv.org/abs/2604.13602)
+- [Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks](https://arxiv.org/abs/2604.20987)
 
 #### Topic - Routing
 
