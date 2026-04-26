@@ -823,6 +823,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath)
 - [Building Olmo 3 Think](https://www.interconnects.ai/p/building-olmo-3-think) - Nathan Lambert video
 - [The End of SWE-Bench Verified — Mia Glaese & Olivia Watkins, OpenAI Frontier Evals & Human Data](https://www.latent.space/p/swe-bench-dead) - interesting blog; relevant about evals and benchmark saturation
+- [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) - nice HuggingFace blog with some of the new architectural features of DeepSeek-V4
 
 #### Workshops
 
