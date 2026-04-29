@@ -721,6 +721,7 @@ TODO: expand with separate tags
 - [SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning](https://arxiv.org/abs/2512.24330)
 - [PROGRESSLM: Towards Progress Reasoning in Vision-Language Models](https://arxiv.org/abs/2601.15224) - "Estimating task progress requires reasoning over long-horizon dynamics rather than recognizing static visual content. While modern Vision-Language Models (VLMs) excel at describing what is visible, it remains unclear whether they can infer how far a task has progressed from partial observations. To this end, we introduce Progress-Bench, a benchmark for systematically evaluating progress reasoning in VLMs."
 - [ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](https://arxiv.org/abs/2604.24300) - awesome project page also [https://3dlg-hcvc.github.io/revsi/](https://3dlg-hcvc.github.io/revsi/)
+- [SketchVLM: Vision language models can annotate images to explain thoughts and guide users](https://arxiv.org/abs/2604.22875)
 
 #### Topic - Robotics
 
