@@ -121,6 +121,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale](https://arxiv.org/abs/2603.25040)
 - [The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook](https://arxiv.org/abs/2604.02029) - nice general review with many relevant sections
 - [Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805) - nice project page also [https://sim2reason.github.io/](https://sim2reason.github.io/)
+- [Recursive Multi-Agent Systems](https://arxiv.org/abs/2604.25917) - "Scaling Agent Collaboration through Latent-space Recursion" nice project page also [https://recursivemas.github.io/](https://recursivemas.github.io/)
 
 #### Topic - General or unsorted
 
