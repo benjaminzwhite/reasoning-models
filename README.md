@@ -488,6 +488,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research](https://arxiv.org/abs/2604.15411)
 - [Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis](https://arxiv.org/abs/2604.24198)
 - [Large Language Models Explore by Latent Distilling](https://arxiv.org/abs/2604.24927)
+- [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](https://arxiv.org/abs/2604.27221)
 
 #### Topic - Routing
 
