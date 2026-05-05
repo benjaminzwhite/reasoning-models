@@ -123,6 +123,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805) - nice project page also [https://sim2reason.github.io/](https://sim2reason.github.io/)
 - [Recursive Multi-Agent Systems](https://arxiv.org/abs/2604.25917) - "Scaling Agent Collaboration through Latent-space Recursion" nice project page also [https://recursivemas.github.io/](https://recursivemas.github.io/)
 - [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752) - tech report, lots of multimodal reasoning
+- [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) - AI2; project page with videos [https://allenai.org/blog/molmoact2](https://allenai.org/blog/molmoact2)
 
 #### Topic - General or unsorted
 
