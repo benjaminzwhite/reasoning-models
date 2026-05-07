@@ -490,6 +490,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis](https://arxiv.org/abs/2604.24198)
 - [Large Language Models Explore by Latent Distilling](https://arxiv.org/abs/2604.24927)
 - [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](https://arxiv.org/abs/2604.27221)
+- [HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness](https://arxiv.org/abs/2605.02396)
 
 #### Topic - Routing
 
