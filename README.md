@@ -491,6 +491,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Large Language Models Explore by Latent Distilling](https://arxiv.org/abs/2604.24927)
 - [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](https://arxiv.org/abs/2604.27221)
 - [HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness](https://arxiv.org/abs/2605.02396)
+- [RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451) - cool kind of self-supervised approaches to geospatial reasoning
 
 #### Topic - Routing
 
