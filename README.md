@@ -576,6 +576,7 @@ Start with the first-linked survey.
 - [Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities](https://arxiv.org/abs/2601.21937)
 - [LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval](https://arxiv.org/abs/2603.01425)
 - [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://arxiv.org/abs/2603.12180)
+- [Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](https://arxiv.org/abs/2605.04018) - ACL 2026; BRIGHT Pro follow-up of BRIGHT benchmark
 
 #### Topic - X of Thoughts variants
 
