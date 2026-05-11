@@ -493,6 +493,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness](https://arxiv.org/abs/2605.02396)
 - [RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451) - cool kind of self-supervised approaches to geospatial reasoning
 - [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://arxiv.org/abs/2605.05185)
+- [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://arxiv.org/abs/2605.08083)
 
 #### Topic - Routing
 
