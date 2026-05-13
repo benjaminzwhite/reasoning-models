@@ -494,6 +494,8 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [RemoteZero: Geospatial Reasoning with Zero Human Annotations](https://arxiv.org/abs/2605.04451) - cool kind of self-supervised approaches to geospatial reasoning
 - [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://arxiv.org/abs/2605.05185)
 - [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://arxiv.org/abs/2605.08083)
+- [Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States](https://arxiv.org/abs/2605.07579)
+- [Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs](https://arxiv.org/abs/2605.07153)
 
 #### Topic - Routing
 
