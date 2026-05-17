@@ -504,6 +504,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 
 - [When to Reason: Semantic Router for vLLM](https://arxiv.org/abs/2510.08731)
 - [TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration](https://arxiv.org/abs/2601.04544)
+- [ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces](https://arxiv.org/abs/2602.11683)
 
 #### Topic - Reasoning in Diffusion Models
 
