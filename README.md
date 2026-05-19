@@ -660,6 +660,7 @@ Start with the first-linked survey.
 - [Reasoning over mathematical objects: on-policy reward modeling and test time aggregation](https://arxiv.org/abs/2603.18886)
 - [MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584) - nice mathematics benchmark, ICLR 2026, MIT team; project webpage is [https://mathnet.mit.edu/](https://mathnet.mit.edu/)
 - [Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs](https://arxiv.org/abs/2605.09063)
+- [OProver: A Unified Framework for Agentic Formal Theorem Proving](https://arxiv.org/abs/2605.17283)
 
 #### Topic - Coding
 
