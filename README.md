@@ -125,6 +125,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752) - tech report, lots of multimodal reasoning
 - [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) - AI2; project page with videos [https://allenai.org/blog/molmoact2](https://allenai.org/blog/molmoact2)
 - [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://arxiv.org/abs/2605.13301) - project page [https://simplified-reasoning.github.io/SU-01/](https://simplified-reasoning.github.io/SU-01/)
+- [Generative Recursive Reasoning](https://arxiv.org/abs/2605.19376)
 
 #### Topic - General or unsorted
 
