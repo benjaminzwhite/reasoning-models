@@ -505,6 +505,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning](https://arxiv.org/abs/2605.22074)
 - [ACC: Compiling Agent Trajectories for Long-Context Training](https://arxiv.org/abs/2605.21850)
 - [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904)
+- [Language Models Need Sleep](https://arxiv.org/abs/2605.26099) - "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consolidation mechanism in which a model periodically converts recent context into persistent fast weights before clearing its key-value cache."
 
 #### Topic - Routing
 
