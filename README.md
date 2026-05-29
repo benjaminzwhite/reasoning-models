@@ -126,6 +126,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) - AI2; project page with videos [https://allenai.org/blog/molmoact2](https://allenai.org/blog/molmoact2)
 - [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://arxiv.org/abs/2605.13301) - project page [https://simplified-reasoning.github.io/SU-01/](https://simplified-reasoning.github.io/SU-01/)
 - [Generative Recursive Reasoning](https://arxiv.org/abs/2605.19376)
+- [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/abs/2605.30280)
 
 #### Topic - General or unsorted
 
