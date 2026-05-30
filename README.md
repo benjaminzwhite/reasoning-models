@@ -777,6 +777,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions](https://arxiv.org/abs/2512.00097)
 - [Sparse Reward Subsystem in Large Language Models](https://arxiv.org/abs/2602.00986)
 - [NanoKnow: How to Know What Your Language Model Knows](https://arxiv.org/abs/2602.20122) - might be useful for "reasoning vs remembering?" studies
+- [The Format Tax](https://arxiv.org/abs/2604.03616) - "... structured output requirements - JSON, XML, LaTeX, Markdown - substantially degrade reasoning and writing performance across open-weight models"
 
 ---
 
