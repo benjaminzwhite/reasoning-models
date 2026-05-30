@@ -595,6 +595,7 @@ Start with the first-linked survey.
 - [Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections](https://arxiv.org/abs/2603.12180)
 - [Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](https://arxiv.org/abs/2605.04018) - ACL 2026; BRIGHT Pro follow-up of BRIGHT benchmark
 - [PLUME: Latent Reasoning Based Universal Multimodal Embedding](https://arxiv.org/abs/2604.02073)
+- [Xetrieval: Mechanistically Explaining Dense Retrieval](https://arxiv.org/abs/2605.29507)
 
 #### Topic - X of Thoughts variants
 
