@@ -514,6 +514,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](https://arxiv.org/abs/2606.02373)
 - [OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification](https://arxiv.org/abs/2606.01476)
 - [Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning](https://arxiv.org/abs/2606.04923)
+- [AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints](https://arxiv.org/abs/2606.05622)
 
 #### Topic - Routing
 
