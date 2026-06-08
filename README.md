@@ -517,6 +517,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints](https://arxiv.org/abs/2606.05622)
 - [Latent Reasoning with Normalizing Flows](https://arxiv.org/abs/2606.06447)
 - [SCOPE: Signal-Calibrated On-Policy Distillation Enhancement with Dual-Path Adaptive Weighting](https://arxiv.org/abs/2604.10688)
+- [Reinforcement Learning from Rich Feedback with Distributional DAgger](https://arxiv.org/abs/2606.05152)
 
 #### Topic - Routing
 
