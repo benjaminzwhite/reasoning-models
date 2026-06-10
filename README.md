@@ -519,6 +519,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SCOPE: Signal-Calibrated On-Policy Distillation Enhancement with Dual-Path Adaptive Weighting](https://arxiv.org/abs/2604.10688)
 - [Reinforcement Learning from Rich Feedback with Distributional DAgger](https://arxiv.org/abs/2606.05152)
 - [On the Geometry of On-Policy Distillation](https://arxiv.org/abs/2606.07082)
+- [Rethinking the Divergence Regularization in LLM RL](https://arxiv.org/abs/2606.09821)
 
 #### Topic - Routing
 
