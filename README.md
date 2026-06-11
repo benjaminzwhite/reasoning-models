@@ -520,6 +520,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Reinforcement Learning from Rich Feedback with Distributional DAgger](https://arxiv.org/abs/2606.05152)
 - [On the Geometry of On-Policy Distillation](https://arxiv.org/abs/2606.07082)
 - [Rethinking the Divergence Regularization in LLM RL](https://arxiv.org/abs/2606.09821)
+- [Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization](https://arxiv.org/abs/2606.12373)
 
 #### Topic - Routing
 
