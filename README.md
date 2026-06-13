@@ -522,6 +522,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Rethinking the Divergence Regularization in LLM RL](https://arxiv.org/abs/2606.09821)
 - [Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization](https://arxiv.org/abs/2606.12373)
 - [Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning](https://arxiv.org/abs/2606.13106)
+- [MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](https://arxiv.org/abs/2606.13473)
 
 #### Topic - Routing
 
