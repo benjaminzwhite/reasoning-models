@@ -127,6 +127,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling](https://arxiv.org/abs/2605.13301) - project page [https://simplified-reasoning.github.io/SU-01/](https://simplified-reasoning.github.io/SU-01/)
 - [Generative Recursive Reasoning](https://arxiv.org/abs/2605.19376)
 - [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/abs/2605.30280)
+- [VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models](https://arxiv.org/abs/2606.16140) - "Extending our previous 1.5B work, these findings motivate the Parametric Compression-Coverage Hypothesis, which views verifiable reasoning as compressible into compact reasoning cores, while open-domain knowledge and general-purpose competence require broad parameter coverage over facts, concepts, and long-tail scenarios. This perspective suggests that compact models are not merely deployment-efficient substitutes, but a complementary path toward frontier-level performance in parameter-dense capability regimes."
 
 #### Topic - General or unsorted
 
