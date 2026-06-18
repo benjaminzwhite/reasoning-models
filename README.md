@@ -527,6 +527,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](https://arxiv.org/abs/2606.13473)
 - [Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling](https://arxiv.org/abs/2606.12370)
 - [APPO: Agentic Procedural Policy Optimization](https://arxiv.org/abs/2606.12384)
+- [SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks](https://arxiv.org/abs/2606.15872)
 
 #### Topic - Routing
 
