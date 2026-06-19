@@ -773,6 +773,7 @@ TODO: expand with separate tags
 - [ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](https://arxiv.org/abs/2604.24300) - awesome project page also [https://3dlg-hcvc.github.io/revsi/](https://3dlg-hcvc.github.io/revsi/)
 - [SketchVLM: Vision language models can annotate images to explain thoughts and guide users](https://arxiv.org/abs/2604.22875)
 - [ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue](https://arxiv.org/abs/2605.01371) - drone searching with GIS and reasoning steps
+- [S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence](https://arxiv.org/abs/2606.20515)
 
 #### Topic - Robotics
 
