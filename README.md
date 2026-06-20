@@ -528,6 +528,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling](https://arxiv.org/abs/2606.12370)
 - [APPO: Agentic Procedural Policy Optimization](https://arxiv.org/abs/2606.12384)
 - [SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks](https://arxiv.org/abs/2606.15872)
+- [Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053)
 
 #### Topic - Routing
 
