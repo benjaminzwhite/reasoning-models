@@ -881,6 +881,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Building Olmo 3 Think](https://www.interconnects.ai/p/building-olmo-3-think) - Nathan Lambert video
 - [The End of SWE-Bench Verified — Mia Glaese & Olivia Watkins, OpenAI Frontier Evals & Human Data](https://www.latent.space/p/swe-bench-dead) - interesting blog; relevant about evals and benchmark saturation
 - [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) - nice HuggingFace blog with some of the new architectural features of DeepSeek-V4
+- [Nathan Lambert blog - Frontier post-training recipe review with Finbarr Timbers](https://www.interconnects.ai/p/frontier-post-training-recipe-review) - also has YouTube [https://www.youtube.com/watch?v=sbXEPxIazqY](https://www.youtube.com/watch?v=sbXEPxIazqY)
 
 #### Workshops
 
