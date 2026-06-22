@@ -529,6 +529,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [APPO: Agentic Procedural Policy Optimization](https://arxiv.org/abs/2606.12384)
 - [SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks](https://arxiv.org/abs/2606.15872)
 - [Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053)
+- [Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models](https://arxiv.org/abs/2606.16700)
 
 #### Topic - Routing
 
