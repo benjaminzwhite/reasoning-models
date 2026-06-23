@@ -120,7 +120,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning](https://arxiv.org/abs/2603.21065) - "We introduce LongCat-Flash-Prover, a flagship 560-billion-parameter open-source Mixture-of- Experts (MoE) model that advances Native Formal Reasoning in Lean4 through agentic tool-integrated reasoning (TIR)."
 - [Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale](https://arxiv.org/abs/2603.25040)
 - [The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook](https://arxiv.org/abs/2604.02029) - nice general review with many relevant sections
-- [Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805) - nice project page also [https://sim2reason.github.io/](https://sim2reason.github.io/)
+- [Solving  Olympiad via Reinforcement Learning on  Simulators](https://arxiv.org/abs/2604.11805) - nice project page also [https://sim2reason.github.io/](https://sim2reason.github.io/)
 - [Recursive Multi-Agent Systems](https://arxiv.org/abs/2604.25917) - "Scaling Agent Collaboration through Latent-space Recursion" nice project page also [https://recursivemas.github.io/](https://recursivemas.github.io/)
 - [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752) - tech report, lots of multimodal reasoning
 - [MolmoAct2: Action Reasoning Models for Real-world Deployment](https://arxiv.org/abs/2605.02881) - AI2; project page with videos [https://allenai.org/blog/molmoact2](https://allenai.org/blog/molmoact2)
@@ -378,7 +378,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://arxiv.org/abs/2511.08577)
 - [ATLAS: A High-Difficulty, Multidisciplinary Benchmark for Frontier Scientific Reasoning](https://arxiv.org/abs/2511.14366)
 - [Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs](https://arxiv.org/abs/2511.16664) - Nvidia; interesting twist on efficient reasoning/model pruning, uses Mamba architectures also.
-- [P1: Mastering Physics Olympiads with Reinforcement Learning](https://arxiv.org/abs/2511.13612) - "... Further equipped with an agentic framework PhysicsMinions, P1-235B-A22B+PhysicsMinions achieves overall No.1 on IPhO 2025, and obtains the highest average score over the 13 physics competitions."
+- [P1: Mastering  Olympiads with Reinforcement Learning](https://arxiv.org/abs/2511.13612) - "... Further equipped with an agentic framework PhysicsMinions, P1-235B-A22B+PhysicsMinions achieves overall No.1 on IPhO 2025, and obtains the highest average score over the 13 physics competitions."
 - [Real-Time Reasoning Agents in Evolving Environments](https://arxiv.org/abs/2511.04898) - Cool study, introducing urgency/time constraints in reasoning tasks
 - [VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks](https://arxiv.org/abs/2511.04662) - neurosymbolic approach to validate reasoning, outside of mathematics/code domain; also TODO make a section for neurosymbolic/DSL stuff
 - [Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence](https://arxiv.org/abs/2511.07384) - intriguing; "In this work, we study how to convert existing pretrained non-recurrent language models into depth-recurrent models. We find that using a curriculum of recurrences to increase the effective depth of the model over the course of training preserves performance while reducing total computational cost. In our experiments, on mathematics, we observe that converting pretrained models to recurrent ones results in better performance at a given compute budget than simply post-training the original non-recurrent language model."
@@ -530,6 +530,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks](https://arxiv.org/abs/2606.15872)
 - [Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053)
 - [Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models](https://arxiv.org/abs/2606.16700)
+- [Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark](https://arxiv.org/abs/2606.18648) - physics reasoning still difficult June 2026
 
 #### Topic - Routing
 
