@@ -619,6 +619,7 @@ Start with the first-linked survey.
 - [Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](https://arxiv.org/abs/2605.04018) - ACL 2026; BRIGHT Pro follow-up of BRIGHT benchmark
 - [PLUME: Latent Reasoning Based Universal Multimodal Embedding](https://arxiv.org/abs/2604.02073)
 - [Xetrieval: Mechanistically Explaining Dense Retrieval](https://arxiv.org/abs/2605.29507)
+- [RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316) - BRIGHT benchmark used
 
 #### Topic - X of Thoughts variants
 
