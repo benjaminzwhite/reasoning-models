@@ -535,6 +535,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Information-Aware KV Cache Compression for Long Reasoning](https://arxiv.org/abs/2606.26875)
 - [OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.26790)
 - [AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning](https://arxiv.org/abs/2606.24526)
+- [CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies](https://arxiv.org/abs/2606.16613) - Sakana AI; nice business simulation and reasoning setup, they have project page also [https://pub.sakana.ai/coffeebench/index.html](https://pub.sakana.ai/coffeebench/index.html)
 
 #### Topic - Routing
 
