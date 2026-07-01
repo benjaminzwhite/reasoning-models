@@ -537,6 +537,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning](https://arxiv.org/abs/2606.24526)
 - [CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies](https://arxiv.org/abs/2606.16613) - Sakana AI; nice business simulation and reasoning setup, they have project page also [https://pub.sakana.ai/coffeebench/index.html](https://pub.sakana.ai/coffeebench/index.html)
 - [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://arxiv.org/abs/2606.30616)
+- [DOPD: Dual On-policy Distillation](https://arxiv.org/abs/2606.30626)
 
 #### Topic - Routing
 
