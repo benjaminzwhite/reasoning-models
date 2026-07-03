@@ -539,6 +539,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://arxiv.org/abs/2606.30616)
 - [DOPD: Dual On-policy Distillation](https://arxiv.org/abs/2606.30626)
 - [Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination](https://arxiv.org/abs/2607.00924)
+- [EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments](https://arxiv.org/abs/2607.02440)
 
 #### Topic - Routing
 
