@@ -540,6 +540,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [DOPD: Dual On-policy Distillation](https://arxiv.org/abs/2606.30626)
 - [Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination](https://arxiv.org/abs/2607.00924)
 - [EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments](https://arxiv.org/abs/2607.02440)
+- [When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search](https://arxiv.org/abs/2606.27669) - "... we introduce DiscoBench, a benchmark for clarification-aware deep search, designed to evaluate whether search agents can proactively identify ambiguity, ask effective clarification questions, and recover correct reasoning paths through user interaction."
 
 #### Topic - Routing
 
