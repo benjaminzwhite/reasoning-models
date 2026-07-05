@@ -853,6 +853,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning](https://arxiv.org/abs/2603.03790)
 - [OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning](https://arxiv.org/abs/2603.08655) - Databricks
 - [Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation](https://arxiv.org/abs/2604.02368) - ByteDance
+- [TheoremBench: Evaluating LLMs on Theorem Proving in Formal Mathematics](https://arxiv.org/abs/2606.09450)
 
 ---
 
