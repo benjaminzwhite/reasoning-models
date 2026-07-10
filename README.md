@@ -858,6 +858,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning](https://arxiv.org/abs/2603.08655) - Databricks
 - [Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation](https://arxiv.org/abs/2604.02368) - ByteDance
 - [TheoremBench: Evaluating LLMs on Theorem Proving in Formal Mathematics](https://arxiv.org/abs/2606.09450)
+- [Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](https://arxiv.org/abs/2607.08758)
 
 ---
 
