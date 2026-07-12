@@ -859,6 +859,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation](https://arxiv.org/abs/2604.02368) - ByteDance
 - [TheoremBench: Evaluating LLMs on Theorem Proving in Formal Mathematics](https://arxiv.org/abs/2606.09450)
 - [Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](https://arxiv.org/abs/2607.08758)
+- [PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems](https://arxiv.org/abs/2606.22388)
 
 ---
 
