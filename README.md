@@ -861,6 +861,7 @@ Personal reading notes/papers that gave me some reasoning-related ideas
 - [TheoremBench: Evaluating LLMs on Theorem Proving in Formal Mathematics](https://arxiv.org/abs/2606.09450)
 - [Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](https://arxiv.org/abs/2607.08758)
 - [PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems](https://arxiv.org/abs/2606.22388)
+- [AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification](https://arxiv.org/abs/2607.11849)
 
 ---
 
