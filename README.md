@@ -547,6 +547,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](https://arxiv.org/abs/2607.01232)
 - [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.07508)
 - [Trust Region Policy Distillation](https://arxiv.org/abs/2607.04751)
+- [Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations](https://arxiv.org/abs/2607.13399)
 
 #### Topic - Routing
 
