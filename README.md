@@ -548,6 +548,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2607.07508)
 - [Trust Region Policy Distillation](https://arxiv.org/abs/2607.04751)
 - [Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations](https://arxiv.org/abs/2607.13399)
+- [Spectral Rewiring for Exploration, Purification, and Model Merging](https://arxiv.org/abs/2607.03065)
 
 #### Topic - Routing
 
