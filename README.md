@@ -549,6 +549,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Trust Region Policy Distillation](https://arxiv.org/abs/2607.04751)
 - [Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations](https://arxiv.org/abs/2607.13399)
 - [Spectral Rewiring for Exploration, Purification, and Model Merging](https://arxiv.org/abs/2607.03065)
+- [Tailoring Teaching to Aptitude: Direction-Adaptive Self-Distillation for LLM Reasoning](https://arxiv.org/abs/2605.22263)
 
 #### Topic - Routing
 
