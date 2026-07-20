@@ -550,6 +550,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations](https://arxiv.org/abs/2607.13399)
 - [Spectral Rewiring for Exploration, Purification, and Model Merging](https://arxiv.org/abs/2607.03065)
 - [Tailoring Teaching to Aptitude: Direction-Adaptive Self-Distillation for LLM Reasoning](https://arxiv.org/abs/2605.22263)
+- [S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation](https://arxiv.org/abs/2607.15686) - nice AI for science model, see project page also [https://scienceone-ai.github.io/S1-Omni/](https://scienceone-ai.github.io/S1-Omni/)
 
 #### Topic - Routing
 
