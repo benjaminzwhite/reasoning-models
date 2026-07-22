@@ -552,6 +552,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Tailoring Teaching to Aptitude: Direction-Adaptive Self-Distillation for LLM Reasoning](https://arxiv.org/abs/2605.22263)
 - [S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation](https://arxiv.org/abs/2607.15686) - nice AI for science model, see project page also [https://scienceone-ai.github.io/S1-Omni/](https://scienceone-ai.github.io/S1-Omni/)
 - [DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment](https://arxiv.org/abs/2607.07820)
+- [ISO: An RLVR-Native Optimization Stack](https://arxiv.org/abs/2607.19331)
 
 #### Topic - Routing
 
