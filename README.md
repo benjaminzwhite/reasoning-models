@@ -641,6 +641,7 @@ Start with the first-linked survey.
 - [PLUME: Latent Reasoning Based Universal Multimodal Embedding](https://arxiv.org/abs/2604.02073)
 - [Xetrieval: Mechanistically Explaining Dense Retrieval](https://arxiv.org/abs/2605.29507)
 - [RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316) - BRIGHT benchmark used
+- [RecGPT-V3 Technical Report](https://arxiv.org/abs/2607.15591) - recommendation systems
 
 #### Topic - X of Thoughts variants
 
