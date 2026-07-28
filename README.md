@@ -131,6 +131,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](https://arxiv.org/abs/2606.15007) - Nvidia; nice technical report
 - [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
 - [AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461)
+- [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) - awesome
 
 #### Topic - General or unsorted
 
