@@ -132,6 +132,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
 - [AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461)
 - [Kimi K3: Open Frontier Intelligence](https://arxiv.org/abs/2607.24653) - awesome
+- [GPT-Red: Automated Red Teaming via Self-Play at Scale](https://arxiv.org/abs/2607.26115) - OpenAI technical report
 
 #### Topic - General or unsorted
 
