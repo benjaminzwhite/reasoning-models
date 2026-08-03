@@ -562,6 +562,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Flux-OPD: On-Policy Distillation with Evolving Contexts](https://arxiv.org/abs/2607.28022)
 - [Beacon: Knowing When and How to Perform Agentic Visual Reasoning](https://arxiv.org/abs/2607.28595)
 - [Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering](https://arxiv.org/abs/2607.28568)
+- [Enhancing Rubric-based RL via Self-Distillation](https://arxiv.org/abs/2607.18082)
 
 #### Topic - Routing
 
