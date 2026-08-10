@@ -569,6 +569,10 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models](https://arxiv.org/abs/2607.22098)
 - [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](https://arxiv.org/abs/2606.27483) - has reasoning for search applications examples, nice paper
 
+#### Topic - Audio Reasoning
+
+- [Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning](https://arxiv.org/abs/2608.02831)
+
 #### Topic - Routing
 
 - [When to Reason: Semantic Router for vLLM](https://arxiv.org/abs/2510.08731)
