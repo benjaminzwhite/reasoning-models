@@ -572,6 +572,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Stealing Reasoning Traces from Proprietary LLM APIs](https://arxiv.org/abs/2608.09867)
 - [Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design](https://arxiv.org/abs/2608.10299)
 - [OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution](https://arxiv.org/abs/2608.00677)
+- [Learning to Orchestrate Agents in Natural Language with the Conductor](https://arxiv.org/abs/2512.04388) - Sakana AI, ICLR 2026
 
 #### Topic - Audio Reasoning
 
