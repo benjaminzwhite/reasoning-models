@@ -574,6 +574,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution](https://arxiv.org/abs/2608.00677)
 - [Learning to Orchestrate Agents in Natural Language with the Conductor](https://arxiv.org/abs/2512.04388) - Sakana AI, ICLR 2026
 - [Evo-Bench: Can Language Models Improve Agent Harness?](https://arxiv.org/abs/2608.09096)
+- [Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning](https://arxiv.org/abs/2608.14290)
 
 #### Topic - Audio Reasoning
 
