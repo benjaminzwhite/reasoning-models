@@ -583,6 +583,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Evidence-Informed LLM Beliefs for Continual Scientific Discovery](https://arxiv.org/abs/2606.29182)
 - [Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2608.16647)
 - [Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress](https://arxiv.org/abs/2608.19408)
+- [On-policy Distillation with Verifiable Reward](https://arxiv.org/abs/2608.24696)
 
 #### Topic - Audio Reasoning
 
