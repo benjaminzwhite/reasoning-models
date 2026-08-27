@@ -584,6 +584,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2608.16647)
 - [Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress](https://arxiv.org/abs/2608.19408)
 - [On-policy Distillation with Verifiable Reward](https://arxiv.org/abs/2608.24696)
+- [Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data](https://arxiv.org/abs/2608.23256)
 
 #### Topic - Audio Reasoning
 
