@@ -586,6 +586,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [On-policy Distillation with Verifiable Reward](https://arxiv.org/abs/2608.24696)
 - [Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data](https://arxiv.org/abs/2608.23256)
 - [Prefix Sliding for efficient test-time scaling](https://arxiv.org/abs/2608.26070)
+- [TTPO: Test-Time Policy Optimization](https://arxiv.org/abs/2608.27448)
 
 #### Topic - Audio Reasoning
 
