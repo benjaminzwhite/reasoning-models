@@ -587,6 +587,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data](https://arxiv.org/abs/2608.23256)
 - [Prefix Sliding for efficient test-time scaling](https://arxiv.org/abs/2608.26070)
 - [TTPO: Test-Time Policy Optimization](https://arxiv.org/abs/2608.27448)
+- [D 3 MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation](https://arxiv.org/abs/2608.24987)
 
 #### Topic - Audio Reasoning
 
