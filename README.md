@@ -588,6 +588,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Prefix Sliding for efficient test-time scaling](https://arxiv.org/abs/2608.26070)
 - [TTPO: Test-Time Policy Optimization](https://arxiv.org/abs/2608.27448)
 - [D 3 MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation](https://arxiv.org/abs/2608.24987)
+- [Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO](https://arxiv.org/abs/2608.27351)
 
 #### Topic - Audio Reasoning
 
