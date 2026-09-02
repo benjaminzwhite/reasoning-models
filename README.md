@@ -591,6 +591,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [D 3 MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation](https://arxiv.org/abs/2608.24987)
 - [Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO](https://arxiv.org/abs/2608.27351)
 - [WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation](https://arxiv.org/abs/2608.24479)
+- [On-Policy Self-Distillation without Any Supervision](https://arxiv.org/abs/2608.06296)
 
 #### Topic - Audio Reasoning
 
