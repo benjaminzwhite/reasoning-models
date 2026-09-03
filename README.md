@@ -592,6 +592,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO](https://arxiv.org/abs/2608.27351)
 - [WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation](https://arxiv.org/abs/2608.24479)
 - [On-Policy Self-Distillation without Any Supervision](https://arxiv.org/abs/2608.06296)
+- [Language Models Can Control Their Own Attention](https://arxiv.org/abs/2609.02737)
 
 #### Topic - Audio Reasoning
 
