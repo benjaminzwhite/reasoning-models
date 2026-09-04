@@ -593,6 +593,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation](https://arxiv.org/abs/2608.24479)
 - [On-Policy Self-Distillation without Any Supervision](https://arxiv.org/abs/2608.06296)
 - [Language Models Can Control Their Own Attention](https://arxiv.org/abs/2609.02737)
+- [Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://arxiv.org/abs/2609.03430)
 
 #### Topic - Audio Reasoning
 
