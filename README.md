@@ -594,6 +594,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [On-Policy Self-Distillation without Any Supervision](https://arxiv.org/abs/2608.06296)
 - [Language Models Can Control Their Own Attention](https://arxiv.org/abs/2609.02737)
 - [Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://arxiv.org/abs/2609.03430)
+- [Post-Training Language Models for Gold-Medal Performance in Coding Competitions](https://arxiv.org/abs/2609.02849)
 
 #### Topic - Audio Reasoning
 
