@@ -769,6 +769,7 @@ Start with the first-linked survey.
 - [MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584) - nice mathematics benchmark, ICLR 2026, MIT team; project webpage is [https://mathnet.mit.edu/](https://mathnet.mit.edu/)
 - [Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs](https://arxiv.org/abs/2605.09063)
 - [OProver: A Unified Framework for Agentic Formal Theorem Proving](https://arxiv.org/abs/2605.17283)
+- [An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics](https://arxiv.org/abs/2609.10712)
 
 #### Topic - Coding
 
