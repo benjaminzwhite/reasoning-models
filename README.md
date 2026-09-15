@@ -602,6 +602,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents](https://arxiv.org/abs/2609.06702)
 - [SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113)
 - [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://arxiv.org/abs/2609.11115)
+- [Expert-Space Exploration in MoE Reinforcement Learning](https://arxiv.org/abs/2609.13058)
 
 #### Topic - Audio Reasoning
 
