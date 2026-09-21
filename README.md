@@ -608,6 +608,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents](https://arxiv.org/abs/2609.17708)
 - [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
 - [EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.05446)
+- [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](https://arxiv.org/abs/2609.22068)
 
 #### Topic - Audio Reasoning
 
