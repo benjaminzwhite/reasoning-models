@@ -615,6 +615,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds](https://arxiv.org/abs/2609.30199)
 - [Rufus-Air: An Open LLM Post-Training Recipe](https://arxiv.org/abs/2609.29421) - nice end-to-end descriptions and tech report
 - [SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL](https://arxiv.org/abs/2609.29050)
+- [Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge](https://arxiv.org/abs/2609.34327)
 
 #### Topic - Audio Reasoning
 
