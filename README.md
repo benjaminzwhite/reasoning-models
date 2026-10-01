@@ -617,6 +617,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL](https://arxiv.org/abs/2609.29050)
 - [Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge](https://arxiv.org/abs/2609.34327)
 - [EasyPPO: Stabilizing the Critic Is Key](https://arxiv.org/abs/2609.36802)
+- [Marathoner: Ultra-Long-Horizon Autonomous Intelligence](https://arxiv.org/abs/2609.34378)
 
 #### Topic - Audio Reasoning
 
