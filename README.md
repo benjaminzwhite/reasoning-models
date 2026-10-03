@@ -618,6 +618,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge](https://arxiv.org/abs/2609.34327)
 - [EasyPPO: Stabilizing the Critic Is Key](https://arxiv.org/abs/2609.36802)
 - [Marathoner: Ultra-Long-Horizon Autonomous Intelligence](https://arxiv.org/abs/2609.34378)
+- [QwenGyre: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](https://arxiv.org/abs/2609.33848)
 
 #### Topic - Audio Reasoning
 
