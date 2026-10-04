@@ -619,6 +619,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [EasyPPO: Stabilizing the Critic Is Key](https://arxiv.org/abs/2609.36802)
 - [Marathoner: Ultra-Long-Horizon Autonomous Intelligence](https://arxiv.org/abs/2609.34378)
 - [QwenGyre: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents](https://arxiv.org/abs/2609.33848)
+- [Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://arxiv.org/abs/2609.39982)
 
 #### Topic - Audio Reasoning
 
