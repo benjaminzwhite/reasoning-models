@@ -622,6 +622,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents](https://arxiv.org/abs/2609.39982)
 - [Language Models that Play Chess and Explain Their Moves](https://arxiv.org/abs/2610.03695)
 - [OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning](https://arxiv.org/abs/2609.39490)
+- [OPD Before RL: Warm-Starting Rubric-Based RL with On-Policy Distillation](https://arxiv.org/abs/2610.02781)
 
 #### Topic - Audio Reasoning
 
