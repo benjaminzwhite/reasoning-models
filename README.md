@@ -623,6 +623,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Language Models that Play Chess and Explain Their Moves](https://arxiv.org/abs/2610.03695)
 - [OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning](https://arxiv.org/abs/2609.39490)
 - [OPD Before RL: Warm-Starting Rubric-Based RL with On-Policy Distillation](https://arxiv.org/abs/2610.02781)
+- [Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective](https://arxiv.org/abs/2610.03185)
 
 #### Topic - Audio Reasoning
 
