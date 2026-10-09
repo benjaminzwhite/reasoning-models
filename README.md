@@ -136,6 +136,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Intern-S2-Preview: Scientific Agentic Foundation Model](https://arxiv.org/abs/2608.13505)
 - [On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability](https://arxiv.org/abs/2608.30320)
 - [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://arxiv.org/abs/2609.19969) - DeepSeek technical report
+- [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://arxiv.org/abs/2610.11959)
 
 #### Topic - General or unsorted
 
