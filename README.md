@@ -627,6 +627,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective](https://arxiv.org/abs/2610.03185)
 - [Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals](https://arxiv.org/abs/2610.11570)
 - [SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery](https://arxiv.org/abs/2609.31507) - NeurIPS 2026 Evaluations and Datasets
+- [When Do Biological Reasoning Models Use Their Biological Inputs?](https://arxiv.org/abs/2610.00898)
 
 #### Topic - Audio Reasoning
 
