@@ -629,6 +629,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery](https://arxiv.org/abs/2609.31507) - NeurIPS 2026 Evaluations and Datasets
 - [When Do Biological Reasoning Models Use Their Biological Inputs?](https://arxiv.org/abs/2610.00898)
 - [Stateless Language Agents: Scaling Long-Horizon Automated Research](https://arxiv.org/abs/2610.07625) - deep research
+- [PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces](https://arxiv.org/abs/2610.15208)
 
 #### Topic - Audio Reasoning
 
