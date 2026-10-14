@@ -630,6 +630,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [When Do Biological Reasoning Models Use Their Biological Inputs?](https://arxiv.org/abs/2610.00898)
 - [Stateless Language Agents: Scaling Long-Horizon Automated Research](https://arxiv.org/abs/2610.07625) - deep research
 - [PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces](https://arxiv.org/abs/2610.15208)
+- [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://arxiv.org/abs/2610.18868)
 
 #### Topic - Audio Reasoning
 
