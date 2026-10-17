@@ -633,6 +633,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces](https://arxiv.org/abs/2610.15208)
 - [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://arxiv.org/abs/2610.18868)
 - [Hybrid Reasoning Agents](https://arxiv.org/abs/2610.18861)
+- [Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055)
 
 #### Topic - Audio Reasoning
 
