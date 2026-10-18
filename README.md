@@ -634,6 +634,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://arxiv.org/abs/2610.18868)
 - [Hybrid Reasoning Agents](https://arxiv.org/abs/2610.18861)
 - [Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055)
+- [FDE-Gym: The Last Mile of AI Delivery](https://arxiv.org/abs/2610.22350) - interesting real-world tasks
 
 #### Topic - Audio Reasoning
 
