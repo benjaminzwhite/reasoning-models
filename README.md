@@ -636,6 +636,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055)
 - [FDE-Gym: The Last Mile of AI Delivery](https://arxiv.org/abs/2610.22350) - interesting real-world tasks
 - [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159)
+- [Evidence-First Agentic Verification](https://arxiv.org/abs/2610.17724)
 
 #### Topic - Audio Reasoning
 
