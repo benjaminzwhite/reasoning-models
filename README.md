@@ -638,6 +638,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159)
 - [Evidence-First Agentic Verification](https://arxiv.org/abs/2610.17724)
 - [Predicting Privileged Information Effectiveness for On-Policy Self-Distillation](https://arxiv.org/abs/2610.22512)
+- [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) - NeurIPS 2026 evaluation and datasets track; Anthropic
 
 #### Topic - Audio Reasoning
 
