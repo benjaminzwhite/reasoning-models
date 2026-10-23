@@ -639,6 +639,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Evidence-First Agentic Verification](https://arxiv.org/abs/2610.17724)
 - [Predicting Privileged Information Effectiveness for On-Policy Self-Distillation](https://arxiv.org/abs/2610.22512)
 - [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) - NeurIPS 2026 evaluation and datasets track; Anthropic
+- [Harness Scaling for Generalizable Agentic Reinforcement Learning](https://arxiv.org/abs/2610.29458)
 
 #### Topic - Audio Reasoning
 
