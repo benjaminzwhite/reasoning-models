@@ -641,6 +641,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) - NeurIPS 2026 evaluation and datasets track; Anthropic
 - [Harness Scaling for Generalizable Agentic Reinforcement Learning](https://arxiv.org/abs/2610.29458)
 - [Recursive Self-Improvement through Multi-Agent Self-Supervision](https://arxiv.org/abs/2610.12176)
+- [EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?](https://arxiv.org/abs/2610.04184) - project page blog is nice also [https://mercury7353.github.io/self-evaluation-bench/blog/when-ai-agents-design-the-test.html](https://mercury7353.github.io/self-evaluation-bench/blog/when-ai-agents-design-the-test.html)
 
 #### Topic - Audio Reasoning
 
