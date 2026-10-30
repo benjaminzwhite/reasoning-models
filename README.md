@@ -646,6 +646,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [RSIHub: A Composable Framework for Agent-Evolution Methods](https://arxiv.org/abs/2610.32253) - NeurIPS 2026 Meta-Agents Workshop
 - [InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://arxiv.org/abs/2610.33966)
 - [Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation](https://arxiv.org/abs/2610.26030)
+- [Training Foundation Models with a Single Algorithm](https://arxiv.org/abs/2610.40564)
 
 #### Topic - Audio Reasoning
 
