@@ -647,6 +647,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants](https://arxiv.org/abs/2610.33966)
 - [Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation](https://arxiv.org/abs/2610.26030)
 - [Training Foundation Models with a Single Algorithm](https://arxiv.org/abs/2610.40564)
+- [Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces](https://arxiv.org/abs/2610.37255)
 
 #### Topic - Audio Reasoning
 
