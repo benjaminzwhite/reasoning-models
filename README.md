@@ -139,6 +139,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement](https://arxiv.org/abs/2610.11959)
 - [A team of Gemini 4 Argon agents beats Minecraft](https://arxiv.org/abs/2610.22319)
 - [h1: A Taste of the Bitter Lesson in Automated Theorem Proving](https://arxiv.org/abs/2610.35962)
+- [Axion 1.0: Open Agent Foundation Models, Simplified](https://arxiv.org/abs/2611.03233)
 
 #### Topic - General or unsorted
 
