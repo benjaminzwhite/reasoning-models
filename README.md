@@ -652,6 +652,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Harness-Model Collaboration for Long-Horizon Continual Learning](https://arxiv.org/abs/2610.34724)
 - [SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World](https://arxiv.org/abs/2610.37919)
 - [Follow the Gradient: Tracing Safety Degradation Back to Training Data](https://arxiv.org/abs/2610.37481)
+- [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://arxiv.org/abs/2611.06910)
 
 #### Topic - Audio Reasoning
 
