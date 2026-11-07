@@ -655,6 +655,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](https://arxiv.org/abs/2611.06910)
 - [SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding](https://arxiv.org/abs/2611.02846)
 - [You don't need long context](https://arxiv.org/abs/2611.05306)
+- [Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime](https://arxiv.org/abs/2611.03526)
 
 #### Topic - Audio Reasoning
 
