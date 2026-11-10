@@ -657,6 +657,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [You don't need long context](https://arxiv.org/abs/2611.05306)
 - [Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime](https://arxiv.org/abs/2611.03526)
 - [P2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](https://arxiv.org/abs/2611.03953)
+- [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216)
 
 #### Topic - Audio Reasoning
 
