@@ -661,6 +661,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure](https://arxiv.org/abs/2611.11558)
 - [Evolving Infra: Agent-Adaptive LLM Serving at Scale](https://arxiv.org/abs/2611.12304) - MIT Han Lab
 - [Incentivizing Self-Learning in Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2610.39671)
+- [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](https://arxiv.org/abs/2611.05984)
 
 #### Topic - Audio Reasoning
 
