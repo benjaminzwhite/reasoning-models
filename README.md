@@ -140,6 +140,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [A team of Gemini 4 Argon agents beats Minecraft](https://arxiv.org/abs/2610.22319)
 - [h1: A Taste of the Bitter Lesson in Automated Theorem Proving](https://arxiv.org/abs/2610.35962)
 - [Axion 1.0: Open Agent Foundation Models, Simplified](https://arxiv.org/abs/2611.03233)
+- [Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents](https://arxiv.org/abs/2611.15118) - cool cybersecurity; Microsoft Research, "We show that a method we call Lazarus can turn a capable model into such a sleeper agent by editing fewer than ten neurons, without model training."
 
 #### Topic - General or unsorted
 
