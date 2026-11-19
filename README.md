@@ -667,6 +667,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization](https://arxiv.org/abs/2611.11995)
 - [Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model](https://arxiv.org/abs/2611.20986)
 - [Agentic On-Policy Distillation Implicitly Reshapes LLMs' ReAct Patterns](https://arxiv.org/abs/2611.19244)
+- [Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://arxiv.org/abs/2611.24651)
 
 #### Topic - Audio Reasoning
 
