@@ -668,6 +668,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model](https://arxiv.org/abs/2611.20986)
 - [Agentic On-Policy Distillation Implicitly Reshapes LLMs' ReAct Patterns](https://arxiv.org/abs/2611.19244)
 - [Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://arxiv.org/abs/2611.24651)
+- [CompoundingKernel: Self-Improving from Zero to First](https://arxiv.org/abs/2611.19230)
 
 #### Topic - Audio Reasoning
 
