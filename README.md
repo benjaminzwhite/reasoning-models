@@ -670,6 +670,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement](https://arxiv.org/abs/2611.24651)
 - [CompoundingKernel: Self-Improving from Zero to First](https://arxiv.org/abs/2611.19230)
 - [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](https://arxiv.org/abs/2611.26248)
+- [Multi-Branch Transformer](https://arxiv.org/abs/2611.19800)
 
 #### Topic - Audio Reasoning
 
