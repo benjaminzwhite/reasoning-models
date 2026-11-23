@@ -671,6 +671,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [CompoundingKernel: Self-Improving from Zero to First](https://arxiv.org/abs/2611.19230)
 - [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](https://arxiv.org/abs/2611.26248)
 - [Multi-Branch Transformer](https://arxiv.org/abs/2611.19800)
+- [Search From the Start: Search-Native Pretraining for Language Models](https://arxiv.org/abs/2611.26809)
 
 #### Topic - Audio Reasoning
 
