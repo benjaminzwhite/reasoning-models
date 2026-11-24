@@ -672,6 +672,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](https://arxiv.org/abs/2611.26248)
 - [Multi-Branch Transformer](https://arxiv.org/abs/2611.19800)
 - [Search From the Start: Search-Native Pretraining for Language Models](https://arxiv.org/abs/2611.26809)
+- [HEP-Ex-Bench: Evaluating Agentic Performance in High Energy Physics Experiment Data Analyses with Sealed Worlds](https://arxiv.org/abs/2611.28194)
 
 #### Topic - Audio Reasoning
 
