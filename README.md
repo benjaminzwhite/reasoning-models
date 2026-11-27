@@ -675,6 +675,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [HEP-Ex-Bench: Evaluating Agentic Performance in High Energy Physics Experiment Data Analyses with Sealed Worlds](https://arxiv.org/abs/2611.28194)
 - [Rewirable Circuits in Transformers with Loom Attention](https://arxiv.org/abs/2611.30634)
 - [Letting Models Manage Their Own Context: Where We Stand](https://arxiv.org/abs/2611.34147) - active context management
+- [Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models](https://arxiv.org/abs/2611.34813)
 
 #### Topic - Audio Reasoning
 
