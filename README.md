@@ -676,6 +676,7 @@ Reading list and comments/short reviews around reasoning models, training techni
 - [Rewirable Circuits in Transformers with Loom Attention](https://arxiv.org/abs/2611.30634)
 - [Letting Models Manage Their Own Context: Where We Stand](https://arxiv.org/abs/2611.34147) - active context management
 - [Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models](https://arxiv.org/abs/2611.34813)
+- [Revisiting LLMs as Context Engineers](https://arxiv.org/abs/2611.30494) - todo; organize a subtopic around active context management by models
 
 #### Topic - Audio Reasoning
 
